@@ -116,7 +116,8 @@ export function rank(pois: Poi[], ask: Ask): Scored[] {
       // Stabile Reihenfolge bei Gleichstand, damit die Liste nicht springt.
       score += (p.id.charCodeAt(0) % 7) * 0.01
 
-      return { poi: p, score, reasons: reasons.slice(0, 3), totalMinutes: Math.round(total) }
+      // Auf 5 Minuten gerundet — eine Schätzung mit Minutengenauigkeit wäre gelogen.
+      return { poi: p, score, reasons: reasons.slice(0, 3), totalMinutes: Math.round(total / 5) * 5 }
     })
     .filter((s): s is Scored => s !== null)
     .sort((a, b) => b.score - a.score)

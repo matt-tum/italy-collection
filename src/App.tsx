@@ -42,7 +42,7 @@ export function App() {
       </header>
 
       <main className="main">
-        {tab === 'heute' && <Today pois={pois} saved={saved} done={done} onOpen={setOpen} />}
+        {tab === 'heute' && <Today base={base} pois={pois} saved={saved} done={done} onOpen={setOpen} />}
         {tab === 'karte' && <MapView base={base} pois={pois} onOpen={setOpen} />}
         {tab === 'liste' && <Browse pois={pois} saved={saved} done={done} onOpen={setOpen} />}
         {tab === 'merkliste' && (

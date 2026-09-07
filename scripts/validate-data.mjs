@@ -33,6 +33,7 @@ for (const p of pois) {
   req(typeof p.name === 'string' && p.name.length > 2, id, 'name fehlt')
   req(BASES.includes(p.base), id, `base muss eines von ${BASES.join('|')} sein`)
   req(typeof p.town === 'string' && p.town.length > 0, id, 'town fehlt')
+  req(typeof p.coordsExact === 'boolean', id, 'coordsExact fehlt')
 
   req(
     typeof p.lat === 'number' && p.lat >= BOX.latMin && p.lat <= BOX.latMax,

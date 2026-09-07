@@ -30,13 +30,18 @@ const STROLLER_TEXT = {
 } as const
 
 export function PoiSheet({ poi, saved, done, onToggleSaved, onToggleDone, onClose }: Props) {
-  const maps = `https://www.google.com/maps/dir/?api=1&destination=${poi.lat},${poi.lng}`
+  // Bei geschätzten Koordinaten führt ein Zielpunkt in die Irre — dann lieber
+  // nach Name und Ort suchen lassen.
+  const maps = poi.coordsExact
+    ? `https://www.google.com/maps/dir/?api=1&destination=${poi.lat},${poi.lng}`
+    : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${poi.name}, ${poi.town}`)}`
 
   return (
     <div className="sheet-backdrop" onClick={onClose}>
       <div className="sheet" onClick={(e) => e.stopPropagation()}>
         <p className="town">
           {poi.town} · {poi.driveMinutes} Min Fahrt
+          {!poi.coordsExact && ' · Position ungefähr'}
         </p>
         <h2>{poi.name}</h2>
         <p className="why">{poi.why}</p>

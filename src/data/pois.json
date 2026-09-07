@@ -1,97 +1,2400 @@
 [
   {
-    "id": "sg-altstadt",
-    "name": "San Gimignano — Altstadt und Türme",
+    "id": "sg-cisterna",
+    "name": "Piazza della Cisterna und Piazza Duomo",
     "base": "toscana",
-    "lat": 43.4677,
-    "lng": 11.0431,
     "town": "San Gimignano",
-    "categories": ["kultur"],
-    "tags": ["aussicht", "ruine"],
-    "driveMinutes": 5,
-    "short": "Die Skyline, die auf jedem Toskana-Plakat klebt — abends fast leer.",
-    "why": "Ungeprüfter Platzhalter aus dem Gerüstbau. Wird durch den recherchierten Eintrag ersetzt.",
-    "kid": { "rating": 2, "notes": "Kopfsteinpflaster; Kinderwagen geht, ruckelt aber.", "stroller": "schwierig" },
-    "stayMinutes": [60, 150],
+    "lat": 43.4676,
+    "lng": 11.0433,
+    "coordsExact": true,
+    "driveMinutes": 8,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "aussicht"
+    ],
+    "short": "Der Kern der Türmestadt — zwei Plätze, die ineinander übergehen.",
+    "why": "San Gimignano besichtigt man nicht, man läuft hindurch. Die beiden Plätze liegen direkt nebeneinander, ringsum stehen die erhaltenen Geschlechtertürme. Für ein Kleinkind ist der schräge Ziegelboden der Cisterna das Beste daran: viel Platz, keine Autos. Der Trick ist die Uhrzeit — zwischen 10 und 17 Uhr schieben sich die Tagesgäste aus den Bussen durch die Gassen, davor und danach gehört der Ort fast euch allein. Ihr wohnt vier Kilometer weg; ein Abendspaziergang nach dem Essen ist realistisch.",
+    "kid": {
+      "rating": 2,
+      "notes": "Kopfsteinpflaster, aber autofrei. Der Buggy rumpelt, das Laufrad geht auf den Plätzen gut.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      120
+    ],
     "weather": "beides",
     "booking": "nein",
-    "sources": [],
+    "parking": "Parcheggio Giubileo (P2) oder Bagnaia (P1) außerhalb der Mauern, gebührenpflichtig. Innerhalb ist Sperrzone.",
+    "bestTime": "Vor 10 Uhr oder ab 18 Uhr — dazwischen ist es voll.",
+    "sources": [
+      {
+        "label": "Pro Loco San Gimignano",
+        "checked": "2026-09-07",
+        "url": "https://www.sangimignano.com/de/"
+      }
+    ],
     "verified": false
   },
   {
     "id": "sg-dondoli",
     "name": "Gelateria Dondoli",
     "base": "toscana",
-    "lat": 43.4676,
-    "lng": 11.0433,
     "town": "San Gimignano",
-    "categories": ["essen"],
-    "tags": ["gelato", "zum-mitnehmen"],
-    "driveMinutes": 5,
-    "short": "Eis auf der Piazza, im Stehen, in zehn Minuten erledigt.",
-    "why": "Ungeprüfter Platzhalter aus dem Gerüstbau.",
-    "kid": { "rating": 3, "notes": "Kein Sitzenbleiben nötig.", "stroller": "ja" },
-    "stayMinutes": [15, 30],
+    "lat": 43.4675,
+    "lng": 11.043,
+    "coordsExact": true,
+    "driveMinutes": 8,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "gelato",
+      "zum-mitnehmen"
+    ],
+    "short": "Zweifacher Gelato-Weltmeister, direkt an der Piazza della Cisterna.",
+    "why": "Sergio Dondoli hat 2006 und 2008 mit dem italienischen Team den Gelato-Weltmeistertitel geholt, und die Eisdiele an der Cisterna ist seither Pflichtprogramm. Genau das ist das Problem: ab Mittag reicht die Schlange quer über den Platz. Am Vormittag steht man wenige Minuten an. Achtet auf die richtige Adresse — der auffälligere Laden am Platz, der mit 'bestes Eis der Welt' wirbt, ist nicht Dondoli; das eigentliche Geschäft liegt schräg gegenüber und ist kleiner. Passt zur Kategorie 'besonders essen, ohne zwei Stunden zu sitzen': man steht, isst, geht weiter.",
+    "kid": {
+      "rating": 3,
+      "notes": "Kein Sitzenbleiben, keine Erwartung an Tischmanieren. Am Vormittag ohne Wartezeit.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      15,
+      30
+    ],
     "weather": "beides",
     "booking": "nein",
-    "sources": [],
+    "price": "Kugel ab ca. 3 €",
+    "bestTime": "Vormittags. Nachmittags 20-30 Minuten Schlange.",
+    "sources": [
+      {
+        "label": "Gelateria Dondoli, Übersicht",
+        "checked": "2026-09-07",
+        "url": "https://www.tuscany-villas.it/to-tuscany/2023/localities/san-gimignano/visit-gelateria-dondoli"
+      }
+    ],
     "verified": false
   },
   {
-    "id": "volterra",
-    "name": "Volterra",
+    "id": "sg-rocca",
+    "name": "Parco della Rocca di Montestaffoli",
     "base": "toscana",
-    "lat": 43.4014,
-    "lng": 10.86,
-    "town": "Volterra",
-    "categories": ["kultur"],
-    "tags": ["museum", "handwerk", "ruine"],
-    "driveMinutes": 40,
-    "short": "Etrusker, römisches Theater, Alabasterwerkstätten.",
-    "why": "Ungeprüfter Platzhalter aus dem Gerüstbau.",
-    "kid": { "rating": 1, "notes": "Museen ohne Anfassen.", "stroller": "schwierig" },
-    "stayMinutes": [120, 240],
+    "town": "San Gimignano",
+    "lat": 43.4681,
+    "lng": 11.0418,
+    "coordsExact": true,
+    "driveMinutes": 8,
+    "categories": [
+      "kultur",
+      "kind",
+      "natur"
+    ],
+    "tags": [
+      "aussicht",
+      "spielplatz",
+      "ruine"
+    ],
+    "short": "Ruine, Olivenwiese, Spielecke und der beste Blick über die Türme — kostenlos.",
+    "why": "Der Park in der alten Festung ist die entspannteste Ecke der Altstadt: wenige Schritte von der Piazza Duomo entfernt, dabei fast leer. Es gibt eine Wiese mit Olivenbäumen, einen abgegrenzten Bereich für Kinder und Trinkwasserbrunnen — im September ein praktisches Argument. Auf den Mauerrest kann man hinaufsteigen und über die ganze Türmesilhouette schauen. Für uns die Antwort auf 'wir wollen kurz raus, aber nicht weit': die Erwachsenen bekommen ihre Aussicht, das Kind bekommt Platz.",
+    "kid": {
+      "rating": 3,
+      "notes": "Wiese und Kinderbereich, Trinkbrunnen. Der Aufstieg auf die Mauer ist steil und ungesichert — an der Hand.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      30,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Parco della Rocca e Rocca di Montestaffoli",
+        "checked": "2026-09-07",
+        "url": "https://www.sangimignanobooking.com/en/territory/parco-della-rocca-e-rocca-di-montestaffoli"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "sg-fonti",
+    "name": "Fonti Medievali",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4699,
+    "lng": 11.0455,
+    "coordsExact": false,
+    "driveMinutes": 10,
+    "categories": [
+      "kultur",
+      "natur"
+    ],
+    "tags": [
+      "wasser",
+      "ruine"
+    ],
+    "short": "Mittelalterliche Waschbrunnen unterhalb der Stadt — schattig und fast immer leer.",
+    "why": "Eine Reihe von Bogenbecken aus dem 12. bis 14. Jahrhundert, in denen die Stadt jahrhundertelang Wasser holte und Wäsche wusch. Zehn Gehminuten unterhalb der Porta delle Fonti, und genau diese zehn Minuten reichen, damit fast niemand hingeht. Kühl, schattig, Wasser zum Anfassen. Der Weg hinunter ist gepflastert und ziemlich steil — hinauf mit Kind auf dem Arm ist die eigentliche Übung. Wer mit dem Auto bis zur Porta fährt, verkürzt das deutlich.",
+    "kid": {
+      "rating": 2,
+      "notes": "Wasserbecken sind offen und nicht abgesichert. Der Rückweg bergauf ist die Hürde.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      20,
+      45
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Fonti Medievali, Besucherberichte",
+        "checked": "2026-09-07",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g187901-d7362163-Reviews-Fonti_Medievali-San_Gimignano_Tuscany.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "sg-collegiata",
+    "name": "Collegiata di Santa Maria Assunta",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4679,
+    "lng": 11.0429,
+    "coordsExact": true,
+    "driveMinutes": 8,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "kirche",
+      "museum"
+    ],
+    "short": "Von außen schmucklos, innen komplett mit Fresken ausgemalt.",
+    "why": "Die Stiftskirche ist der eine Innenraum in San Gimignano, für den sich ein Ticket lohnt: Wände und Gewölbe sind über und über mit Fresken des 14. Jahrhunderts bedeckt, Altes Testament links, Neues rechts, dazu ein drastisches Jüngstes Gericht. Mit einem Zweijährigen ist das eine Frage von zwanzig Minuten, nicht von einer Stunde — und die Akustik verzeiht wenig. Realistisch: einer geht rein, einer bleibt mit dem Kind auf der Treppe davor, dann Wechsel.",
+    "kid": {
+      "rating": 1,
+      "notes": "Dunkel, hallig, nichts zum Anfassen. Funktioniert nur im Schichtbetrieb oder im Schlaf.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      20,
+      45
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Öffnungszeiten und Preise über die Pro Loco prüfen; sonntags eingeschränkt wegen der Gottesdienste.",
+    "sources": [
+      {
+        "label": "Pro Loco San Gimignano",
+        "checked": "2026-09-07",
+        "url": "https://www.sangimignano.com/de/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "sg-torre-grossa",
+    "name": "Torre Grossa und Palazzo Comunale",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4678,
+    "lng": 11.0428,
+    "coordsExact": true,
+    "driveMinutes": 8,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "aussicht",
+      "museum"
+    ],
+    "short": "Der einzige Turm, den man besteigen darf. 54 Meter, viele Stufen.",
+    "why": "Von den einst 72 Türmen stehen 14, und die Torre Grossa ist der einzige, der öffentlich zugänglich ist. Oben steht man über der gesamten Val d'Elsa. Der Aufstieg geht über enge Steintreppen und Metallstiegen — mit einem Zweijährigen auf dem Arm machbar, mit Buggy ausgeschlossen, und im Gegenverkehr eng. Wer die Aussicht will, aber nicht den Aufstieg, geht stattdessen in den Parco della Rocca: fast derselbe Blick, kostenlos, ebenerdig.",
+    "kid": {
+      "rating": 1,
+      "notes": "Enge Treppen, kein Platz zum Ausweichen. Nur getragen, und nur wenn das Kind mitspielt.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      45,
+      75
+    ],
     "weather": "beides",
     "booking": "nein",
-    "sources": [],
+    "sources": [
+      {
+        "label": "Pro Loco San Gimignano",
+        "checked": "2026-09-07",
+        "url": "https://www.sangimignano.com/de/"
+      }
+    ],
     "verified": false
+  },
+  {
+    "id": "sg-1300",
+    "name": "San Gimignano 1300",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4688,
+    "lng": 11.0421,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "kultur",
+      "kind"
+    ],
+    "tags": [
+      "museum",
+      "schlechtwetter"
+    ],
+    "short": "Die ganze Stadt als Tonmodell, wie sie um 1300 aussah — mit allen 72 Türmen.",
+    "why": "Ein handgefertigtes Keramikmodell der mittelalterlichen Stadt, in Handarbeit über Jahre entstanden. Für Erwachsene ist der Reiz, endlich zu sehen, wie dicht dieser Turmwald wirklich stand. Für ein kleines Kind ist es schlicht eine riesige Miniaturstadt zum Anschauen — auf Augenhöhe, in einem einzigen überschaubaren Raum, im Trockenen. Klein, schnell durch, guter Puffer bei Regen oder Mittagshitze.",
+    "kid": {
+      "rating": 2,
+      "notes": "Ein Raum, überschaubar, nichts Zerbrechliches in Reichweite. Kurz und gut.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      20,
+      40
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Pro Loco San Gimignano",
+        "checked": "2026-09-07",
+        "url": "https://www.sangimignano.com/de/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "sg-castelvecchio",
+    "name": "Riserva Naturale di Castelvecchio",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.434,
+    "lng": 11.008,
+    "coordsExact": false,
+    "driveMinutes": 5,
+    "categories": [
+      "natur",
+      "kind"
+    ],
+    "tags": [
+      "wanderung",
+      "ruine"
+    ],
+    "short": "Naturschutzgebiet mit Burgruine im Wald — der Zufahrtsweg zweigt neben eurem Hotel ab.",
+    "why": "Das ist der glücklichste Zufall eurer Unterkunft: Der Schotterweg zum Parkplatz der Reserve geht direkt neben San Donato von der SP47 ab. Von dort führen breite, fast ebene Waldwege zu den Ruinen eines mittelalterlichen Dorfes. Die vollständige Runde ist mit rund sechs Kilometern und knapp 180 Höhenmetern zu lang für ein Kleinkind, aber genau das braucht ihr nicht: Die ersten zwei Kilometer sind schattig, breit und ohne Absturzkante — ideal für 'wir laufen, bis es reicht, und drehen um'. Für den archäologischen Bereich selbst ist eine Anmeldung bei der Pro Loco nötig; der Wald ist frei zugänglich.",
+    "kid": {
+      "rating": 2,
+      "notes": "Breite Waldwege, viel Schatten, kein Verkehr. Laufrad geht auf dem Schotter nur bedingt.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      150
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "parking": "Schotterparkplatz an der SP47 neben San Donato.",
+    "sources": [
+      {
+        "label": "Riserva naturale di Castelvecchio",
+        "checked": "2026-09-07",
+        "url": "https://sangimignano.eu/en/esplora/riserva-naturale-di-castelvecchio/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "poggio-alloro",
+    "name": "Fattoria Poggio Alloro",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.479,
+    "lng": 11.017,
+    "coordsExact": false,
+    "driveMinutes": 12,
+    "categories": [
+      "kind",
+      "essen"
+    ],
+    "tags": [
+      "tiere",
+      "weingut",
+      "mittagessen"
+    ],
+    "short": "Biobauernhof mit Chianina-Rindern, Hühnern, Schweinen und Bienen. Nur mit Anmeldung.",
+    "why": "Der Hof gehört seit 1972 der Familie Fioroni, wird in vierter Generation geführt und ist der einzige zertifizierte Lehrbauernhof im Umkreis von San Gimignano. Es gibt Chianina-Rinder — die weißen Riesen, aus denen die Bistecca Fiorentina wird —, dazu Hühner, Kaninchen, Schweine und Bienen, außerdem Olivenhain und Weinberg. September ist Erntezeit, auf dem Hof passiert also tatsächlich etwas. Zwei Einschränkungen, die ihr vorher wissen solltet: Alles läuft nur mit Voranmeldung, und die didaktischen Programme sind laut Hof Schulklassen vorbehalten. Für euch bleibt die Hofführung mit anschließendem Essen — Kinder unter zwölf zahlen die Hälfte. Das ist der Ausflug, für den ihr direkt anrufen solltet.",
+    "kid": {
+      "rating": 3,
+      "notes": "Tiere zum Anschauen, Hoffläche zum Laufen. Die Führung dauert aber ihre Zeit — vorher fragen, wie flexibel das ist.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "beides",
+    "booking": "pflicht",
+    "price": "Führungen und Essen ca. 30-75 € p. P., Kinder unter 12 zum halben Preis.",
+    "sources": [
+      {
+        "label": "Fattoria Poggio Alloro",
+        "checked": "2026-09-07",
+        "url": "https://fattoriapoggioalloro.com/"
+      },
+      {
+        "label": "Fattorie didattiche, Hinweis Schulklassen",
+        "checked": "2026-09-07",
+        "url": "https://fattoriapoggioalloro.com/activities/fattorie-didattiche/?lang=en"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "sg-camminamento",
+    "name": "Camminamento Medievale (Mauerweg)",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.467,
+    "lng": 11.041,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "natur",
+      "kultur"
+    ],
+    "tags": [
+      "aussicht",
+      "wanderung"
+    ],
+    "short": "Rund 2 km außen um die Stadtmauer — ruhig, mit Blick ins Umland.",
+    "why": "Der Weg läuft außen an der Mauer entlang, teils auf Schotter, teils asphaltiert, und umrundet die Altstadt in gut einer halben Stunde. Der Reiz: Man hat die Türme über sich und die Olivenhänge unter sich, und trifft dabei fast niemanden — der Bustourismus bleibt innen. Als Abendrunde nach dem Essen gut, als Programmpunkt am Vormittag eher nicht.",
+    "kid": {
+      "rating": 2,
+      "notes": "Streckenweise buggytauglich, streckenweise nicht. Kein Verkehr, aber auch keine Spielgelegenheit.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      40,
+      70
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Pro Loco San Gimignano",
+        "checked": "2026-09-07",
+        "url": "https://www.sangimignano.com/de/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "certaldo-alto",
+    "name": "Certaldo Alto",
+    "base": "toscana",
+    "town": "Certaldo",
+    "lat": 43.5476,
+    "lng": 11.041,
+    "coordsExact": true,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "ruine",
+      "museum"
+    ],
+    "short": "Backsteinstädtchen auf dem Hügel, Boccaccios Heimat — und eine Standseilbahn hinauf.",
+    "why": "Certaldo Alto ist San Gimignano ohne die Busse: dieselbe mittelalterliche Substanz, in warmem Backstein statt Stein, aber halb so viele Menschen. Der Clou für ein Kleinkind ist die Anfahrt — eine Standseilbahn fährt vom Unterdorf in gut zwei Minuten hinauf, was den steilen Anstieg erspart und für sich schon ein Erlebnis ist. Wichtig: Die Bahn war zwischenzeitlich wegen Wartungsarbeiten außer Betrieb, ersatzweise fuhr ein Bus. Das solltet ihr am selben Morgen prüfen, sonst steht ihr am Berg.",
+    "kid": {
+      "rating": 2,
+      "notes": "Die Bahnfahrt ist der Höhepunkt. Oben Kopfsteinpflaster, aber autofrei und übersichtlich.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "price": "Standseilbahn ca. 1,70 € hin und zurück",
+    "bestTime": "Betriebsstatus der Funicolare am Morgen prüfen.",
+    "sources": [
+      {
+        "label": "Funicolare di Certaldo",
+        "checked": "2026-09-07",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g528748-d11797444-Reviews-Funicolare_di_Certaldo-Certaldo_Tuscany.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "volterra-altstadt",
+    "name": "Volterra",
+    "base": "toscana",
+    "town": "Volterra",
+    "lat": 43.4014,
+    "lng": 10.86,
+    "coordsExact": true,
+    "driveMinutes": 35,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "handwerk",
+      "ruine"
+    ],
+    "short": "Etruskerstadt auf dem Bergrücken: Porta all'Arco, römisches Theater, Alabasterwerkstätten.",
+    "why": "Volterra ist die härtere, ältere Schwester von San Gimignano — weniger hübsch, deutlich vielschichtiger. Die Porta all'Arco ist ein etruskisches Stadttor aus dem 4. Jahrhundert vor Christus, das immer noch als Tor benutzt wird. Das Museo Etrusco Guarnacci gehört zu den ältesten öffentlichen Sammlungen Europas. Und in den Gassen arbeiten noch echte Alabasterwerkstätten, in denen man beim Drehen und Schleifen zusehen kann — das ist der Teil, der mit einem Zweijährigen tatsächlich funktioniert, weil es laut ist und sich etwas bewegt. Praktischer Tipp: Das römische Theater muss man nicht bezahlen. Von der Via Lungo le Mura im Norden schaut man von oben komplett hinein — kostenlos, ohne Ticket, ohne Leisesein.",
+    "kid": {
+      "rating": 1,
+      "notes": "Museen sind Vitrinen. Werkstätten und der Theaterblick von oben tragen den Besuch.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      120,
+      240
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "price": "Kombiticket für alle Museen; Kinder bis 6 frei.",
+    "parking": "Parkplätze außerhalb der Mauern, z. B. P. Docciola oder P. Vallebuona.",
+    "sources": [
+      {
+        "label": "Museen von Volterra",
+        "checked": "2026-09-07",
+        "url": "https://www.museidivolterra.com/de"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "volterra-balze",
+    "name": "Le Balze di Volterra",
+    "base": "toscana",
+    "town": "Volterra",
+    "lat": 43.409,
+    "lng": 10.848,
+    "coordsExact": false,
+    "driveMinutes": 38,
+    "categories": [
+      "natur"
+    ],
+    "tags": [
+      "aussicht"
+    ],
+    "short": "Abbruchkante aus erodiertem Lehm, in der ganze Kirchen verschwunden sind.",
+    "why": "Westlich von Volterra bricht das Land in bleichen, zerfurchten Steilhängen weg. Die Erosion frisst sich seit Jahrhunderten Richtung Stadt und hat bereits eine Abtei und Teile der etruskischen Nekropole verschluckt. Man steht oben, schaut hinunter und begreift in dreißig Sekunden, warum das hier so aussieht. Genau die Art Ziel, die keine Zeit kostet: hinfahren, zehn Minuten schauen, weiterfahren. Ernst gemeint: Die Kante ist ungesichert und bricht tatsächlich ab — mit Kleinkind gilt Handhalten, nicht Vertrauen.",
+    "kid": {
+      "rating": 1,
+      "notes": "Ungesicherte Abbruchkante. Kurz, spektakulär, aber nur an der Hand.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      15,
+      40
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Volterra, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.italien.de/staedte/volterra"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "colle-val-elsa",
+    "name": "Colle di Val d'Elsa (Colle Alta)",
+    "base": "toscana",
+    "town": "Colle di Val d'Elsa",
+    "lat": 43.4225,
+    "lng": 11.129,
+    "coordsExact": true,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur",
+      "essen"
+    ],
+    "tags": [
+      "handwerk"
+    ],
+    "short": "Oberstadt auf einem schmalen Grat, unten die Kristallglasmanufakturen.",
+    "why": "Colle Alta zieht sich als einzige lange Gasse über einen Felsrücken — man kann sich nicht verlaufen, was mit Kind ein echtes Argument ist. Der Ort ist Italiens Zentrum der Kristallglasherstellung; unten in der Neustadt sitzen die Manufakturen und Fabrikverkäufe. Deutlich weniger besucht als die Nachbarn, entsprechend normaler die Preise beim Essen. Ein Aufzug beziehungsweise eine Rolltreppe verbindet Unter- und Oberstadt und nimmt einem den Anstieg ab — Zustand vor Ort prüfen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Eine überschaubare Gasse ohne Verkehr. Glasmanufakturen sind nichts zum Anfassen.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      150
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Colle di Val d'Elsa, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.twtravel.de/italien/toskana/monteriggioni-sehenswuerdigkeiten-tipps.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "monteriggioni",
+    "name": "Monteriggioni",
+    "base": "toscana",
+    "town": "Monteriggioni",
+    "lat": 43.3906,
+    "lng": 11.2247,
+    "coordsExact": true,
+    "driveMinutes": 35,
+    "categories": [
+      "kultur",
+      "kind"
+    ],
+    "tags": [
+      "ruine",
+      "aussicht",
+      "museum"
+    ],
+    "short": "570 Meter geschlossener Mauerring mit 14 Türmen. In zwanzig Minuten umrundet.",
+    "why": "Der komplette Mauerring steht noch, Dante hat ihn in der Göttlichen Komödie mit einem Kranz von Riesen verglichen. Innen liegt kaum mehr als ein Platz, eine Kirche und ein paar Häuser — das ist der Punkt: Monteriggioni ist klein genug, dass ein Zweijähriger es komplett erobern kann, ohne dass jemand quengelt. Für rund 5 Euro kommt man auf zwei Mauerabschnitte hinauf, im Preis ist ein kleines Museum enthalten. Eine gute halbe Stunde Aufenthalt, ideal als Zwischenstopp auf dem Weg nach oder von Siena.",
+    "kid": {
+      "rating": 2,
+      "notes": "Winziger autofreier Ortskern zum Freilaufen. Auf dem Wehrgang sind die Treppen steil.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "Mauerbesteigung inkl. Museum ca. 5 €; Parken ab ca. 3 €/Std.",
+    "parking": "Parkplätze unterhalb der Mauer, u. a. Cipressino, ca. 250 m zum Tor.",
+    "sources": [
+      {
+        "label": "Castello di Monteriggioni",
+        "checked": "2026-09-07",
+        "url": "https://www.tripadvisor.com/Attraction_Review-g227886-d7912657-Reviews-Castello_Monteriggioni-Monteriggioni_Tuscany.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "poggibonsi-fortezza",
+    "name": "Parco Archeologico Poggio Imperiale",
+    "base": "toscana",
+    "town": "Poggibonsi",
+    "lat": 43.464,
+    "lng": 11.142,
+    "coordsExact": false,
+    "driveMinutes": 20,
+    "categories": [
+      "kultur",
+      "natur"
+    ],
+    "tags": [
+      "ruine",
+      "wanderung"
+    ],
+    "short": "Weitläufiger Festungshügel über Poggibonsi — frei zugänglich, viel Wiese.",
+    "why": "Auf dem Hügel liegen die Reste der Medici-Festung und die Grabungsflächen einer Siedlung, die von der Langobardenzeit bis ins Mittelalter reicht. Das Gelände ist groß, offen und frei begehbar — für ein Kind heißt das: rennen dürfen, ohne dass jemand 'nicht anfassen' sagt. Wichtig für eure Woche: Der Archeodromo, die begehbare Rekonstruktion eines karolingischen Dorfes mit Darstellern in historischer Kleidung, öffnet im September nur sonntags von 15 bis 18 Uhr. In eurem Toskana-Fenster fällt das ausschließlich auf den Anreisetag, den 13. September. Realistisch also: Das Gelände ja, das Dorf eher nicht.",
+    "kid": {
+      "rating": 2,
+      "notes": "Viel offene Fläche zum Laufen. Der Archeodromo selbst wäre perfekt, ist aber praktisch nicht erreichbar.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      120
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Archeodromo im September nur sonntags 15-18 Uhr, bei schlechtem Wetter geschlossen.",
+    "sources": [
+      {
+        "label": "Parco Archeologico di Poggibonsi, Öffnungszeiten",
+        "checked": "2026-09-07",
+        "url": "https://www.parco-poggibonsi.it/orari-di-apertura"
+      }
+    ],
+    "verified": true
   },
   {
     "id": "siena",
-    "name": "Siena",
+    "name": "Siena und die Piazza del Campo",
     "base": "toscana",
-    "lat": 43.3188,
-    "lng": 11.3308,
     "town": "Siena",
-    "categories": ["kultur"],
-    "tags": ["museum", "kirche"],
+    "lat": 43.3181,
+    "lng": 11.3316,
+    "coordsExact": true,
     "driveMinutes": 50,
-    "short": "Piazza del Campo — die Schräge, auf der Kinder gern sitzen.",
-    "why": "Ungeprüfter Platzhalter aus dem Gerüstbau.",
-    "kid": { "rating": 2, "notes": "Die Piazza selbst funktioniert gut.", "stroller": "schwierig" },
-    "stayMinutes": [180, 360],
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "kirche"
+    ],
+    "short": "Die muschelförmige, abschüssige Piazza, auf der alle einfach sitzen.",
+    "why": "Siena ist die eine Großstadt der Gegend, die auch mit Kleinkind funktioniert — wegen der Piazza del Campo. Der Platz ist muschelförmig nach innen geneigt, autofrei, und alle Welt sitzt oder liegt einfach auf dem Ziegelboden. Ein Zweijähriger versteht diesen Platz sofort. Dom und Museen sind eine andere Frage: prachtvoll, aber Warteschlange, Dunkelheit und Leisesein. Unser Vorschlag: Platz, ein Gelato, ein Blick in den Dom von der Tür aus, und wieder los, bevor die Stimmung kippt. Ein ganzer Tag Siena mit diesem Alter ist ambitioniert.",
+    "kid": {
+      "rating": 2,
+      "notes": "Der Campo ist ideal. Alles andere ist Erwachsenenprogramm im Schichtbetrieb.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      150,
+      300
+    ],
     "weather": "beides",
-    "booking": "nein",
-    "sources": [],
+    "booking": "empfohlen",
+    "parking": "Parkhäuser Santa Caterina oder Il Campo, dann Rolltreppen in die Altstadt.",
+    "bestTime": "Vormittags. Der Dom hat sonntags eingeschränkte Besuchszeiten.",
+    "sources": [
+      {
+        "label": "Siena, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.italien.de/staedte/volterra"
+      }
+    ],
     "verified": false
   },
   {
-    "id": "chianti-sculture",
+    "id": "parco-sculture",
     "name": "Parco Sculture del Chianti",
     "base": "toscana",
+    "town": "Pievasciata",
     "lat": 43.4283,
     "lng": 11.3244,
-    "town": "Pievasciata",
-    "categories": ["kultur", "kind", "natur"],
-    "tags": ["wanderung", "museum"],
+    "coordsExact": false,
     "driveMinutes": 55,
-    "short": "Skulpturen im Eichenwald — ein Rundweg, den ein Kleinkind schafft.",
-    "why": "Ungeprüfter Platzhalter aus dem Gerüstbau.",
-    "kid": { "rating": 3, "notes": "Rundweg im Schatten.", "stroller": "schwierig" },
-    "stayMinutes": [60, 120],
+    "categories": [
+      "kultur",
+      "kind",
+      "natur"
+    ],
+    "tags": [
+      "wanderung",
+      "museum"
+    ],
+    "short": "Zeitgenössische Skulpturen im Eichenwald, 1,5 km Rundweg, täglich bis Sonnenuntergang.",
+    "why": "Ein Waldstück im Chianti, in das internationale Künstler ortsspezifische Arbeiten gesetzt haben — ein Glaslabyrinth, bunte Kühe, Klangobjekte zwischen den Eichen. Für Erwachsene ist es zeitgenössische Kunst ohne Museumston, für ein Kleinkind ein Waldspaziergang, an dem alle paar Minuten etwas Unerwartetes steht. Genau deshalb funktioniert es in diesem Alter besser als jedes Museum. Der Rundweg ist rund 1,5 km lang und laut Betreiber mit einem robusten Buggy befahrbar, hat aber Abschnitte bis 20 Prozent Steigung — mit dem leichten Reisebuggy wird das anstrengend. Geöffnet ist täglich ab 10 Uhr bis Sonnenuntergang, im Wald ist es auch mittags schattig.",
+    "kid": {
+      "rating": 3,
+      "notes": "Kunst zum Hinlaufen statt zum Stillstehen. Schatten, keine Absperrungen, alle paar Meter etwas Neues.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
     "weather": "outdoor",
     "booking": "nein",
-    "sources": [],
+    "hours": "Täglich ab 10 Uhr bis Sonnenuntergang.",
+    "sources": [
+      {
+        "label": "Parco Sculture del Chianti",
+        "checked": "2026-09-07",
+        "url": "https://www.parcosculturechianti.it/"
+      },
+      {
+        "label": "Zugänglichkeit und Weglänge",
+        "checked": "2026-09-07",
+        "url": "https://norcenni.huopenair.com/it/esperienze/parco-sculture-chianti"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "san-galgano",
+    "name": "Abtei San Galgano und Eremo di Montesiepi",
+    "base": "toscana",
+    "town": "Chiusdino",
+    "lat": 43.1519,
+    "lng": 11.1567,
+    "coordsExact": true,
+    "driveMinutes": 55,
+    "categories": [
+      "kultur",
+      "kind"
+    ],
+    "tags": [
+      "ruine",
+      "kirche"
+    ],
+    "short": "Gotische Klosterkirche ohne Dach — Rasen als Fußboden, Himmel als Gewölbe.",
+    "why": "San Galgano ist eine Zisterzienserkirche aus dem 13. Jahrhundert, deren Dach im 18. Jahrhundert einstürzte. Übrig sind Mauern, Fenstermaßwerk und ein Boden aus Gras. Genau das macht sie zum besten Kirchenbesuch, den man mit einem Zweijährigen machen kann: hell, offen, keine Akustik, die jedes Geräusch verstärkt, und nichts, was man umwerfen kann. Auf dem Hügel darüber steht die Rundkapelle Montesiepi mit dem Schwert im Stein — der historische Kern der Artus-Legende, kein Nachbau. Der Weg hinauf ist ein Schotterweg bergan, in zehn bis fünfzehn Minuten zu schaffen, die Kapelle selbst ist frei zugänglich. Im September ist die Abtei täglich ab 9 Uhr bis 19 Uhr geöffnet, Kinder bis 6 Jahre frei.",
+    "kid": {
+      "rating": 3,
+      "notes": "Freilaufen in einer Kirche ohne Dach. Der Weg hinauf zur Kapelle ist Schotter und steigt an.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "hours": "September täglich 9-19 Uhr; Eremo Montesiepi täglich 9 Uhr bis Sonnenuntergang, Eintritt frei.",
+    "price": "Abtei 5 €, Familie 15 €, bis 6 Jahre frei.",
+    "sources": [
+      {
+        "label": "Fondazione San Galgano, Biglietti e Orari",
+        "checked": "2026-09-07",
+        "url": "https://www.fondazionesangalgano.it/biglietti-e-orari/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "montaione-tartufo",
+    "name": "Trüffelsuche mit Hund bei Montaione",
+    "base": "toscana",
+    "town": "Montaione",
+    "lat": 43.551,
+    "lng": 10.911,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "essen",
+      "kind"
+    ],
+    "tags": [
+      "wanderung",
+      "handwerk"
+    ],
+    "short": "Mit Tartufaio und Hund in den Wald — im September beginnt die weiße Saison.",
+    "why": "Zwischen Montaione und San Miniato liegt Toskanas Trüffelgebiet, und im September werden die ersten weißen Trüffel gefunden. Angeboten wird die Suche als geführte Tour: Man geht mit einem Tartufaio und seinen Hunden in den Wald, und der eigentliche Moment ist, wenn der Hund anschlägt und zu graben beginnt. Für ein Kleinkind ist das der ganze Reiz — Hunde, Wald, Buddeln. Zwei ehrliche Einschränkungen: Die Suche dauert etwa anderthalb Stunden, das ist an der Obergrenze, und mit 140 bis 150 Euro pro Erwachsenem ist es der teuerste Punkt auf dieser Liste. Wenn ihr eine einzige gebuchte Sache macht, ist das ein guter Kandidat — vorher fragen, ob eine kürzere Runde möglich ist.",
+    "kid": {
+      "rating": 3,
+      "notes": "Hunde und Waldboden schlagen jedes Museum. Anderthalb Stunden sind aber lang — kürzere Variante erfragen.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "outdoor",
+    "booking": "pflicht",
+    "price": "ab ca. 140-150 € pro Erwachsenem, oft inklusive Verkostung.",
+    "sources": [
+      {
+        "label": "Caccia al tartufo, Montaione",
+        "checked": "2026-09-07",
+        "url": "https://www.visitmontaione.com/it/cosa-fare/tempo-libero/caccia-al-tartufo"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "san-vivaldo",
+    "name": "Sacro Monte di San Vivaldo",
+    "base": "toscana",
+    "town": "Montaione",
+    "lat": 43.523,
+    "lng": 10.942,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur",
+      "natur"
+    ],
+    "tags": [
+      "kirche",
+      "wanderung"
+    ],
+    "short": "Ein 'Jerusalem' aus Kapellen, verteilt in einem Kastanienwald.",
+    "why": "Franziskaner haben hier im frühen 16. Jahrhundert die heiligen Stätten Jerusalems nachgebaut — als Reihe kleiner Kapellen, die über einen Waldhang verstreut stehen, jede mit lebensgroßen Terrakottafiguren. Man geht von einer zur nächsten, im Schatten, meist völlig allein. Als Kulturziel ist es eigenwillig und still; als Familienausflug ist es vor allem ein schattiger Waldweg mit Stationen, an denen es etwas zu gucken gibt. Prüft die Öffnungszeiten der Kapellen vorher — der Wald ist immer zugänglich, die Innenräume nicht.",
+    "kid": {
+      "rating": 2,
+      "notes": "Waldweg mit Zwischenstopps. Die Figuren sind hinter Gittern, also nichts zum Anfassen.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Montaione, Freizeit",
+        "checked": "2026-09-07",
+        "url": "https://www.visitmontaione.com/de/was-tun/freizeitaktivitaeten-toskana/trueffelsuche"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "vinci-leonardo",
+    "name": "Museo Leonardiano Vinci",
+    "base": "toscana",
+    "town": "Vinci",
+    "lat": 43.783,
+    "lng": 10.925,
+    "coordsExact": true,
+    "driveMinutes": 50,
+    "categories": [
+      "kultur",
+      "kind"
+    ],
+    "tags": [
+      "museum",
+      "schlechtwetter"
+    ],
+    "short": "Leonardos Maschinen als Holzmodelle — Kurbeln, Zahnräder, Flugapparate.",
+    "why": "In Leonardos Geburtsort steht ein Museum, das seine Zeichnungen in begehbare Holzmodelle übersetzt: Kräne, Getriebe, Flugmaschinen, teils zum Bewegen. Das ist der seltene Fall eines Museums, das für einen Zweijährigen tatsächlich etwas hergibt, weil sich Dinge drehen und man nah herangeht. Dazu kommt die Lage über dem Olivenhügelland. Als Schlechtwetterziel eine der besseren Optionen im Umkreis — auch wenn die Fahrt mit knapp einer Stunde nicht kurz ist.",
+    "kid": {
+      "rating": 2,
+      "notes": "Modelle zum Ansehen, teils zum Bewegen. Deutlich haptischer als ein Gemäldemuseum.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Vinci, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.italien.de/staedte/volterra"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "bagno-vignoni",
+    "name": "Bagno Vignoni und Parco dei Mulini",
+    "base": "toscana",
+    "town": "San Quirico d'Orcia",
+    "lat": 43.03,
+    "lng": 11.618,
+    "coordsExact": true,
+    "driveMinutes": 85,
+    "categories": [
+      "natur",
+      "kind"
+    ],
+    "tags": [
+      "wasser",
+      "therme"
+    ],
+    "short": "Dorfplatz als dampfendes Thermalbecken, darunter freie heiße Quellen im Mühlenpark.",
+    "why": "Bagno Vignoni hat statt einer Piazza ein großes, dampfendes Wasserbecken mitten im Ort — man darf nicht hinein, aber das Bild ist einzigartig. Baden kann man unterhalb, im Parco dei Mulini: Dort fließt das heiße Wasser an alten Mühlen vorbei in natürlich geformte Becken, kostenlos und ohne Anmeldung. Warmes Wasser ist mit einem Zweijährigen das verlässlichste Programm überhaupt. Zwei Einschränkungen, ehrlich gesagt: Die Fahrt dauert gut anderthalb Stunden pro Richtung, das ist ein ganzer Tag. Und die Badeerlaubnis in den einzelnen Becken wurde in der Vergangenheit mehrfach eingeschränkt — vor Ort auf die Beschilderung achten. Handtücher, Badeschuhe und Wechselsachen gehören ins Auto.",
+    "kid": {
+      "rating": 3,
+      "notes": "Warmes Wasser, flache Becken, keine Öffnungszeiten. Untergrund ist rutschiger Sinterstein — Badeschuhe.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "bestTime": "Früh oder spät; mittags ist der Parkplatz voll.",
+    "sources": [
+      {
+        "label": "Bagno Vignoni, freie Thermen",
+        "checked": "2026-09-07",
+        "url": "https://www.twtravel.de/italien/toskana/bagno-vignoni-thermalbad.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "pisa-miracoli",
+    "name": "Pisa, Campo dei Miracoli",
+    "base": "toscana",
+    "town": "Pisa",
+    "lat": 43.7229,
+    "lng": 10.3966,
+    "coordsExact": true,
+    "driveMinutes": 75,
+    "categories": [
+      "kultur",
+      "kind"
+    ],
+    "tags": [
+      "kirche",
+      "museum"
+    ],
+    "short": "Schiefer Turm, Dom, Baptisterium — und eine riesige Rasenfläche dazwischen.",
+    "why": "Der eigentliche Grund, den Campo dei Miracoli mit einem Kleinkind anzusteuern, ist der Rasen: eine große, ebene, eingefasste Wiese, auf der Kinder rennen dürfen, während die Erwachsenen den Turm anschauen. Das ist eine bessere Konstellation als jede Altstadtgasse. Der Turm selbst ist für euch kein Thema — Aufstieg erst ab acht Jahren. Dom und Baptisterium sind kurz und hell. Rechnet für Hin- und Rückfahrt zusammen zweieinhalb Stunden Auto; das lohnt sich als Tagesziel, nicht als Halbtagesausflug.",
+    "kid": {
+      "rating": 2,
+      "notes": "Der Rasen ist das Beste daran. Turmaufstieg erst ab 8 Jahren — fällt für euch weg.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      120,
+      240
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "parking": "Parkplätze an der Via Pietrasantina, dann kurzer Fußweg.",
+    "sources": [
+      {
+        "label": "Pisa, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.italien.de/staedte/volterra"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lucca-mura",
+    "name": "Lucca, Stadtmauer-Rundweg",
+    "base": "toscana",
+    "town": "Lucca",
+    "lat": 43.843,
+    "lng": 10.502,
+    "coordsExact": true,
+    "driveMinutes": 85,
+    "categories": [
+      "kultur",
+      "natur",
+      "kind"
+    ],
+    "tags": [
+      "wanderung",
+      "aussicht"
+    ],
+    "short": "Vier Kilometer breite Baumallee auf der Renaissance-Stadtmauer — komplett eben.",
+    "why": "Luccas Wall ist vollständig erhalten und oben zu einer breiten, baumbestandenen Promenade ausgebaut, die in einem geschlossenen Ring um die Altstadt läuft. Kein Verkehr, keine Steigung, durchgehend asphaltiert oder fest — das ist die mit Abstand buggy- und laufradfreundlichste Strecke in dieser ganzen Sammlung. Man kann Fahrräder mit Kindersitz mieten und die Runde fahren. Für ein Kind, das mit dem Laufrad unterwegs ist, ist Lucca vermutlich der beste Tag der Toskana-Woche. Preis: knapp anderthalb Stunden Fahrt pro Richtung.",
+    "kid": {
+      "rating": 3,
+      "notes": "Eben, autofrei, ringförmig. Laufrad und Buggy funktionieren hier uneingeschränkt.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      150,
+      300
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "Mauerweg frei; Fahrradverleih vor Ort.",
+    "sources": [
+      {
+        "label": "Lucca, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.italien.de/staedte/volterra"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "firenze",
+    "name": "Florenz",
+    "base": "toscana",
+    "town": "Firenze",
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "coordsExact": true,
+    "driveMinutes": 70,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "kirche"
+    ],
+    "short": "Die Stadt, für die man normalerweise kommt — und die mit einem Zweijährigen am wenigsten hergibt.",
+    "why": "Wir führen Florenz auf, weil ihr sonst überlegt, ob ihr es verpasst. Die ehrliche Antwort: Uffizien und Accademia bedeuten Zeitfenster, Schlangen, Gedränge und absolutes Anfassverbot — mit diesem Alter ein schlechter Tausch. Was funktioniert: der Giardino di Boboli, weil er groß, grün und draußen ist; der Mercato Centrale für Essen im Stehen; der Piazzale Michelangelo für den Blick, mit dem Auto erreichbar. Wenn ihr Florenz macht, macht es so — und legt es auf einen Tag, an dem das Kind im Auto schläft.",
+    "kid": {
+      "rating": 1,
+      "notes": "Museen sind mit diesem Alter kaum machbar. Boboli-Garten und Mercato Centrale schon.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      240,
+      480
+    ],
+    "weather": "beides",
+    "booking": "pflicht",
+    "parking": "Parkhaus an der Peripherie plus Tram; in der Innenstadt gilt eine strenge Zufahrtsbeschränkung (ZTL) mit Kameras.",
+    "sources": [
+      {
+        "label": "Florenz, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.italien.de/staedte/volterra"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "sg-mercato",
+    "name": "Wochenmarkt San Gimignano",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4679,
+    "lng": 11.0429,
+    "coordsExact": true,
+    "driveMinutes": 8,
+    "categories": [
+      "essen",
+      "kultur"
+    ],
+    "tags": [
+      "markt",
+      "fruehstueck"
+    ],
+    "short": "Jeden Donnerstag 8-13 Uhr auf den drei Plätzen der Altstadt.",
+    "why": "Der Markt bespielt Piazza Duomo, Piazza della Cisterna und Piazza delle Erbe gleichzeitig — Gemüse, Käse, Wurst, Haushaltskram, Kleidung. Für euch ist das die einfachste Art, an gutes Essen für den Kühlschrank zu kommen, ohne einen Supermarkt anzusteuern, und gleichzeitig die einzige Tageszeit, zu der die Altstadt italienisch statt touristisch wirkt. In eurer Woche fällt das auf Donnerstag, den 17. September. Früh hingehen: um 13 Uhr ist Schluss, und die Parkplätze sind am Markttag deutlich früher voll.",
+    "kid": {
+      "rating": 2,
+      "notes": "Voll und eng, aber es gibt viel zu gucken und überall etwas zu probieren.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Donnerstag 8-13 Uhr.",
+    "closedDays": [
+      "Mo",
+      "Di",
+      "Mi",
+      "Fr",
+      "Sa",
+      "So"
+    ],
+    "sources": [
+      {
+        "label": "Mercato settimanale, Pro Loco",
+        "checked": "2026-09-07",
+        "url": "https://www.sangimignano.com/it/eventi/mercato-settimanale-272/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sg-vernaccia",
+    "name": "Vernaccia Wine Experience (Museo del Vino)",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4682,
+    "lng": 11.0416,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "essen",
+      "kultur"
+    ],
+    "tags": [
+      "weingut",
+      "aussicht"
+    ],
+    "short": "Weinmuseum in der Rocca mit Terrasse — Verkostung im Stehen, Kind läuft im Park nebenan.",
+    "why": "Die Vernaccia di San Gimignano war 1966 der erste DOC-Wein Italiens überhaupt, und das kleine Museum in der Rocca erklärt sie ohne Weinkennerdünkel. Der eigentliche Wert für euch liegt in der Lage: Das Museum sitzt direkt im Parco della Rocca. Heißt konkret, einer probiert sich durch ein paar Gläser, der andere ist mit dem Kind zwanzig Meter weiter auf der Wiese — und man tauscht. Das ist die praktikabelste Weinverkostung, die wir in dieser Gegend gefunden haben, gerade weil sie nicht am Tisch stattfinden muss.",
+    "kid": {
+      "rating": 2,
+      "notes": "Drinnen wenig für Kinder, aber der Park liegt direkt daneben. Funktioniert im Wechsel.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      30,
+      75
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Vernaccia Wine Experience, Comune di San Gimignano",
+        "checked": "2026-09-07",
+        "url": "https://www.comune.sangimignano.si.it/it/vivere/700119"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "cecchini-panzano",
+    "name": "Dario Cecchini, Panzano in Chianti",
+    "base": "toscana",
+    "town": "Panzano in Chianti",
+    "lat": 43.545,
+    "lng": 11.316,
+    "coordsExact": false,
+    "driveMinutes": 60,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "handwerk"
+    ],
+    "short": "Italiens bekanntester Metzger — und nebenan die schnelle Variante ohne Menü.",
+    "why": "Die Antica Macelleria Cecchini ist eine Metzgerei, die zur Institution geworden ist: Dario Cecchini rezitiert Dante hinter der Theke, es gibt Wein und Brot für Wartende. Das gehört zur Kategorie 'besonders essen', ohne dass man dafür einen Abend opfert. Wichtig ist die richtige Wahl unter seinen Lokalen: Die 'Officina della Bistecca' ist ein festes Menü über mehrere Stunden — mit Kleinkind ausgeschlossen. Was funktioniert, ist die schnelle Theke mit Burger und Braten, wo man sich hinsetzt, isst und wieder geht. Die Fahrt durchs Chianti ist eine Stunde und ihrerseits sehenswert; kombiniert mit Parco Sculture oder Castellina wird daraus ein runder Tag.",
+    "kid": {
+      "rating": 2,
+      "notes": "Kurze Variante wählen, nicht das lange Menü. Voll und laut, aber unkompliziert.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "bestTime": "Mittags. Für die Menülokale ist Reservierung Pflicht — die braucht ihr aber nicht.",
+    "sources": [
+      {
+        "label": "Kulinarische Toskana, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.schwarzaufweiss.de/italien/toskana-kulinaria.htm"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "sagra-fungo-pievescola",
+    "name": "Sagra del Fungo, Pievescola",
+    "base": "toscana",
+    "town": "Casole d'Elsa",
+    "lat": 43.323,
+    "lng": 11.136,
+    "coordsExact": false,
+    "driveMinutes": 35,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "markt",
+      "abendessen"
+    ],
+    "short": "Dorffest rund um Pilze — 2026 am 3.-6. und 10.-13. September. Endet an eurem Anreisetag.",
+    "why": "Sagre sind das Gegenteil von Restaurantbesuch: lange Tische im Freien, Pappteller, Dorfbewohner am Herd, Kinder rennen zwischen den Bänken. Genau die Konstellation, die ihr sucht. Die Sagra del Fungo in Pievescola ist eine der bekannteren der Provinz Siena und läuft 2026 in zwei Blöcken, der zweite vom 10. bis 13. September. Das heißt: Sie endet genau an eurem Anreisetag. Nach einer Nachtfahrt aus Mainz ist das ambitioniert, aber falls ihr früh genug ankommt und noch Kraft habt, wäre es ein sehr guter erster Abend. Termine vorher telefonisch oder über den lokalen Veranstaltungskalender gegenprüfen — Sagre verschieben sich.",
+    "kid": {
+      "rating": 3,
+      "notes": "Draußen, laut, unkompliziert. Niemand stört sich an einem Zweijährigen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "2026 am 3.-6. und 10.-13. September, abends.",
+    "closedMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12
+    ],
+    "sources": [
+      {
+        "label": "Sagre in Provincia di Siena",
+        "checked": "2026-09-07",
+        "url": "https://www.sagretoscane.com/sagre/si/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "castellina-volte",
+    "name": "Castellina in Chianti und die Via delle Volte",
+    "base": "toscana",
+    "town": "Castellina in Chianti",
+    "lat": 43.468,
+    "lng": 11.287,
+    "coordsExact": true,
+    "driveMinutes": 45,
+    "categories": [
+      "kultur",
+      "essen"
+    ],
+    "tags": [
+      "weingut",
+      "ruine"
+    ],
+    "short": "Überwölbter Wehrgang mitten im Ort — ein dunkler Tunnel mit Fensterblicken ins Tal.",
+    "why": "Die Via delle Volte war ursprünglich der offene Wehrgang der Stadtmauer und wurde später überbaut. Heute läuft man durch einen langen, gewölbten Gang, aus dem sich in Abständen Fenster ins Chianti öffnen. Kühl im Sommer, und für ein Kind schlicht ein Tunnel, in dem es hallt — das trägt erfahrungsgemäß erstaunlich weit. Castellina selbst ist ein guter Ort für einen unaufgeregten Mittagsstopp im Chianti, ohne die Preise von Greve oder Radda.",
+    "kid": {
+      "rating": 2,
+      "notes": "Der überwölbte Gang ist die Attraktion. Eben und schattig.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      45,
+      120
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Chianti, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.italien.de/staedte/volterra"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-waalweg",
+    "name": "Latschander Waalweg",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.621,
+    "lng": 10.876,
+    "coordsExact": false,
+    "driveMinutes": 5,
+    "categories": [
+      "natur",
+      "kind"
+    ],
+    "tags": [
+      "wanderung",
+      "wasser",
+      "aussicht"
+    ],
+    "short": "Historischer Bewässerungskanal von Latsch nach Kastelbell — fast eben, mit Zug zurück.",
+    "why": "Waale sind die alten Bewässerungsrinnen des Vinschgaus; entlang der Kanäle laufen Wartungspfade, die heute Wanderwege sind. Der Latschander Waal führt in etwa anderthalb Stunden über gut sieben Kilometer von Latsch durch Obst- und Weinhänge nach Kastelbell, praktisch ohne Steigung, mit dem Ortler im Blick. Das Wasser läuft neben einem her — für ein Kleinkind ist das der eigentliche Grund mitzugehen. Der beste Zug daran: In Kastelbell steigt man in die Vinschger Bahn und fährt in wenigen Minuten nach Latsch zurück. Man muss also nicht denselben Weg zurücklaufen und kann jederzeit abbrechen. Ehrlich zur Ausrüstung: Der Pfad ist schmal, der Buggy gehört nicht dorthin — das ist eine Trage- oder Selberlaufen-Strecke, und stellenweise fällt es zum Kanal hin ab.",
+    "kid": {
+      "rating": 3,
+      "notes": "Wasser zum Danebenherlaufen, kaum Steigung, jederzeit abbrechbar. Schmal und teils abschüssig — Buggy geht nicht.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      60,
+      150
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei; Rückfahrt mit der Vinschger Bahn",
+    "sources": [
+      {
+        "label": "Latschander Waalweg, Vinschgau",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/de/latsch-martelltal/aktivurlaub/wandern-bergtouren/waalwege/121146705-latschander-waalweg.html/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-seilbahn",
+    "name": "Seilbahn Latsch — St. Martin im Kofel",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.618,
+    "lng": 10.856,
+    "coordsExact": false,
+    "driveMinutes": 4,
+    "categories": [
+      "natur",
+      "kind"
+    ],
+    "tags": [
+      "seilbahn-kinderwagen",
+      "bergbahn",
+      "aussicht"
+    ],
+    "short": "In sieben Minuten von 640 auf 1740 Meter — barrierefrei, einen Kilometer vom Hotel.",
+    "why": "Die Seilbahn startet einen Kilometer von eurer Unterkunft und bringt euch in sieben Minuten in das Bergbauerndorf St. Martin im Kofel auf 1740 Metern. Zwei große Kabinen, Tal- und Bergstation sowie die Kabine selbst sind stufenlos zugänglich — mit Buggy also kein Problem, im Gegensatz zu fast allem anderen hier oben. Oben liegt der Sonnenberg, der trockenste Hang Südtirols, mit weitem Blick auf die Ortlergruppe. Ihr müsst keine Tour daraus machen: hochfahren, ein Stück auf dem Höhenweg gehen, einkehren, zurückfahren. Das ist der verlässlichste Bergtag mit einem Zweijährigen im ganzen Tal. Betriebszeiten und Tarife für Ende September vor der ersten Fahrt prüfen.",
+    "kid": {
+      "rating": 3,
+      "notes": "Stufenloser Ein- und Ausstieg, kurze Fahrt, sofort Berg. Oben sind die Wege schmal — Buggy nur auf der Hauptstrecke.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      120,
+      300
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Ganzjährig in Betrieb; Fahrplan für Ende September prüfen.",
+    "sources": [
+      {
+        "label": "Seilbahn St. Martin, Betriebszeiten",
+        "checked": "2026-09-07",
+        "url": "https://bergbahnen-latsch.com/en/cableway-san-martino/operating-hours"
+      },
+      {
+        "label": "Barrierefreiheit der Seilbahn",
+        "checked": "2026-09-07",
+        "url": "https://www.suedtirolfueralle.it/de/seilbahn_latsch__st_martin_im_kofel"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-tarscher-alm",
+    "name": "Sessellift Tarscher Alm",
+    "base": "suedtirol",
+    "town": "Tarsch",
+    "lat": 46.61,
+    "lng": 10.839,
+    "coordsExact": false,
+    "driveMinutes": 10,
+    "categories": [
+      "natur",
+      "essen",
+      "kind"
+    ],
+    "tags": [
+      "bergbahn",
+      "wanderung",
+      "mittagessen"
+    ],
+    "short": "Vierersessel auf die Alm — Einkehr, Wiese, Blick. Saison bis etwa Mitte Oktober.",
+    "why": "Von Tarsch, wenige Minuten von Latsch, fährt ein Sessellift zur Tarscher Alm. Oben gibt es die Almhütte, viel Wiese und leichte Wege, unter anderem zum Tarscher See. Das ist die andere Hälfte des Latscher Bergangebots und funktioniert ähnlich unkompliziert wie die Seilbahn — mit einem Unterschied: Ein Sessellift ist offen. Mit einem Zweijährigen fährt man auf dem Schoß und mit Bügel; ob das für euch passt, entscheidet ihr besser an der Talstation als vorher am Handy. Die Sommersaison lief in den Vorjahren bis etwa 19. Oktober, Ende September seid ihr also im Betrieb — die aktuellen Daten trotzdem prüfen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Offener Sessellift, Kind auf dem Schoß — vor Ort entscheiden. Oben Almwiese und einfache Wege.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      120,
+      300
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Sommerbetrieb etwa Mitte Mai bis Mitte/Ende Oktober.",
+    "sources": [
+      {
+        "label": "Sessellift Tarscher Alm, Betriebszeiten",
+        "checked": "2026-09-07",
+        "url": "https://bergbahnen-latsch.com/en/chairlift-malga-di-tarres/operating-hours"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-aquaforum",
+    "name": "AquaForum Latsch",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.616,
+    "lng": 10.86,
+    "coordsExact": false,
+    "driveMinutes": 3,
+    "categories": [
+      "kind"
+    ],
+    "tags": [
+      "wasser",
+      "schlechtwetter"
+    ],
+    "short": "Hallenbad mit Solebecken und Freibereich, drei Minuten vom Hotel.",
+    "why": "Das ist eure Regenversicherung und die Antwort auf 'heute reicht es allen'. Ein normales, gut gemachtes Erlebnisbad mitten im Ort, mit Solebecken, Whirlpool und Liegen im Freien, dazu ein Saunabereich für die Erwachsenenhälfte des Tages. Nichts Spektakuläres — aber wenn ihr an einem verregneten Vormittag drei Minuten fahrt statt vierzig, ist genau das der Punkt. Öffnungszeiten variieren saisonal, kurz nachsehen lohnt sich.",
+    "kid": {
+      "rating": 3,
+      "notes": "Warmes Wasser, kurze Anfahrt, wetterunabhängig.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Familienurlaub Latsch-Martelltal",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/de/latsch-martelltal/aktivurlaub/sport-freizeit/familienurlaub.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-iceforum",
+    "name": "IceForum Latsch",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.6155,
+    "lng": 10.8595,
+    "coordsExact": false,
+    "driveMinutes": 3,
+    "categories": [
+      "kind"
+    ],
+    "tags": [
+      "schlechtwetter"
+    ],
+    "short": "Überdachte Eisfläche, 60 × 30 Meter — funktioniert bei jedem Wetter.",
+    "why": "Eine überdachte Eisarena mitten im Ort. Für einen Zweijährigen ist Schlittschuhlaufen noch kein Thema, aber Eis anzufassen, zuzusehen und ein paar Meter geschoben zu werden schon. Wir führen es vor allem als zweite Schlechtwetteroption innerhalb von drei Minuten — Publikumszeiten sind saisonal und sollten vor der Fahrt geprüft werden.",
+    "kid": {
+      "rating": 2,
+      "notes": "Mit zwei Jahren eher zuschauen als laufen. Kalt anziehen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Familienurlaub Latsch-Martelltal",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/de/latsch-martelltal/aktivurlaub/sport-freizeit/familienurlaub.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-trattla",
+    "name": "Sport- und Freizeitzentrum Trattla",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.6145,
+    "lng": 10.868,
+    "coordsExact": false,
+    "driveMinutes": 5,
+    "categories": [
+      "kind"
+    ],
+    "tags": [
+      "spielplatz",
+      "schlechtwetter"
+    ],
+    "short": "Minigolf, Kegelbahn, Kletterhalle und Café an einem Ort.",
+    "why": "Das Freizeitzentrum bündelt Minigolf, Tennis, Boccia, eine Naturkegelbahn und eine moderne Kletterhalle, dazu ein Café. Für euch ist vor allem die Minigolfanlage interessant — ein Zweijähriger spielt kein Minigolf, aber er schiebt Bälle über Bahnen, und ihr sitzt daneben. Kein Ausflugsziel im eigentlichen Sinn, sondern der Ort für die zwei Stunden zwischen Mittagsschlaf und Abendessen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Minigolf funktioniert auch ohne Regeln. Kletterhalle ist für dieses Alter nichts.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Familienurlaub Latsch-Martelltal",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/de/latsch-martelltal/aktivurlaub/sport-freizeit/familienurlaub.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-vinschgerbahn",
+    "name": "Vinschger Bahn ab Latsch",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.614,
+    "lng": 10.872,
+    "coordsExact": false,
+    "driveMinutes": 3,
+    "categories": [
+      "kind",
+      "natur"
+    ],
+    "tags": [
+      "aussicht",
+      "schlechtwetter"
+    ],
+    "short": "Regionalzug durchs ganze Tal — stufenloser Einstieg, große Fenster, keine Parkplatzsuche.",
+    "why": "Die Vinschger Bahn fährt auf 60 Kilometern zwischen Mals und Meran und hält 18 Mal, unter anderem in Latsch. Alle Bahnsteige sind erhöht, der Einstieg ist stufenlos — mit Buggy steigt man einfach ein. Nach der großen Sanierung ist die Strecke seit dem 28. März 2026 wieder durchgehend in Betrieb. Zwei gute Verwendungen: als Rückfahrt nach einer Waalwanderung, und als eigenständiges Programm an einem Tag, an dem niemand Lust auf Auto hat — für ein Kleinkind ist eine Zugfahrt mit Panoramafenstern ein vollwertiger Ausflug. Aktuellen Fahrplan über suedtirolmobil prüfen.",
+    "kid": {
+      "rating": 3,
+      "notes": "Stufenloser Einstieg, Panoramafenster, jederzeit aussteigen. Zugfahren ist in diesem Alter Selbstzweck.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      45,
+      180
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Vinschger Bahn, Betriebsstatus",
+        "checked": "2026-09-07",
+        "url": "https://www.suedtirolmobil.info/de/news/sperren/faq-vinschgau"
+      },
+      {
+        "label": "Barrierefreiheit Vinschger Bahn",
+        "checked": "2026-09-07",
+        "url": "https://www.altoadigepertutti.it/de/vinschgerbahn"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "laas-marmor",
+    "name": "Marmordorf Laas",
+    "base": "suedtirol",
+    "town": "Laas",
+    "lat": 46.617,
+    "lng": 10.698,
+    "coordsExact": true,
+    "driveMinutes": 12,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "handwerk"
+    ],
+    "short": "Ein Dorf, in dem Gehsteige, Bänke und Brunnen aus weißem Marmor sind.",
+    "why": "Laaser Marmor ist eines der reinsten weißen Marmorvorkommen der Welt — er steckt im Denkmal für die Gefallenen von Arlington und in der U-Bahn-Station am World Trade Center. Im Dorf selbst begreift man das ohne Führung: Bordsteine, Bänke, Brunnen, Bushaltestellen, alles aus dem Stein, dazu Bildhauerwerkstätten und die Fachschule. Ein Spaziergang von einer halben Stunde, nebenbei mitgenommen. Ausdrücklich nicht für euch: die geführte Marmor-Erlebnistour zum Weißwasserbruch. Die geht über 365 Stufen durch einen Stollen und ist erst ab etwa zehn Jahren vorgesehen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Ebener Dorfspaziergang, überall glatter Stein. Die Bergwerksführung ist für Kleinkinder ausgeschlossen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      30,
+      75
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Marmor Erlebnisführungen Laas",
+        "checked": "2026-09-07",
+        "url": "https://www.marmorplus.it/marmor-erlebnistour/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-obstwiesen",
+    "name": "Radweg durch die Apfelwiesen",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.615,
+    "lng": 10.87,
+    "coordsExact": false,
+    "driveMinutes": 3,
+    "categories": [
+      "natur",
+      "kind"
+    ],
+    "tags": [
+      "wanderung"
+    ],
+    "short": "Ebener Talradweg zwischen den Apfelanlagen — im September mitten in der Ernte.",
+    "why": "Der Vinschgau ist eines der größten zusammenhängenden Apfelanbaugebiete Europas: rund 2000 Bauern, 200.000 Tonnen im Jahr. Die Haupternte beginnt Anfang bis Mitte September — ihr seid also genau dann da, wenn in den Reihen tatsächlich gearbeitet wird, mit Kisten, Traktoren und Pflückern. Der Talradweg läuft eben und asphaltiert mitten hindurch und ist die einzige wirklich laufradtaugliche Strecke in eurem Nahbereich. Kein Ausflugsziel mit Eintritt, sondern das, was man morgens nach dem Frühstück eine Stunde macht. Äpfel bitte im Hofladen kaufen, nicht am Baum pflücken — die Anlagen sind Betriebsflächen.",
+    "kid": {
+      "rating": 3,
+      "notes": "Eben, asphaltiert, autofrei. Ideal fürs Laufrad, und es fahren Traktoren.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      45,
+      120
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Apfelernte in Südtirol, Roter Hahn",
+        "checked": "2026-09-07",
+        "url": "https://www.roterhahn.it/de/urlaub-auf-dem-bauernhof/urlaubszeiten/herbst/ernte"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "lat-paarl",
+    "name": "Vinschger Paarl beim Bäcker",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.6165,
+    "lng": 10.863,
+    "coordsExact": false,
+    "driveMinutes": 3,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "fruehstueck",
+      "zum-mitnehmen",
+      "handwerk"
+    ],
+    "short": "Das flache Doppelbrot mit Roggen, Fenchel und Brotklee — die Spezialität des Tals.",
+    "why": "Vinschger Paarl ist kein Souvenirbrot, sondern das Alltagsbrot dieses Tals: flach, dunkel, aus Roggen, gewürzt mit Fenchel, Kümmel und Brotklee, immer als verwachsenes Paar gebacken. Frisch beim Bäcker im Ort gekauft, mit Speck und Käse vom Hofladen, ist das eure unkomplizierteste Mahlzeit — für die Wanderung, für den Waalweg, für den Zug. Genau die Sorte 'besonders essen', bei der niemand zwei Stunden sitzen muss.",
+    "kid": {
+      "rating": 3,
+      "notes": "Brot in die Hand, fertig. Kein Sitzen, keine Wartezeit.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      10,
+      20
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Vinschger Küche und Herbstgenuss",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/food-wine/venostan-cuisine/delights-in-autumn/toerggelen.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "trauttmansdorff",
+    "name": "Die Gärten von Schloss Trauttmansdorff",
+    "base": "suedtirol",
+    "town": "Meran",
+    "lat": 46.6605,
+    "lng": 11.183,
+    "coordsExact": true,
+    "driveMinutes": 45,
+    "categories": [
+      "kind",
+      "natur",
+      "kultur"
+    ],
+    "tags": [
+      "tiere",
+      "spielplatz",
+      "aussicht",
+      "museum"
+    ],
+    "short": "80 Gartenlandschaften am Hang, 7 km kinderwagentaugliche Wege, Aras bis Zwergziegen.",
+    "why": "Wenn ihr in Südtirol nur einen einzigen größeren Ausflug macht, dann diesen. Die Gärten ziehen sich als Amphitheater den Hang hinauf, mit Landschaften von der Sukkulentenwüste bis zum Seerosenteich, Aussichtsplattformen über dem Etschtal und einem Tierbestand von Aras bis Zwergziegen. Entscheidend für euch: sieben Kilometer der Wege sind ausdrücklich kinderwagen- und rollstuhltauglich — das ist in dieser Gegend die absolute Ausnahme. Im Eintritt enthalten ist das Touriseum im Schloss, das Landesmuseum für Tourismus, das bei Regen ein trockenes Ausweichquartier bietet. Kinder unter sechs Jahren zahlen nichts. Geöffnet ist täglich vom 1. April bis 8. November ab 9 Uhr. Plant den halben bis ganzen Tag ein und geht früh — nachmittags staut es sich an den Hauptwegen.",
+    "kid": {
+      "rating": 3,
+      "notes": "Tiere, Wasser, Spielstationen und durchgehend befahrbare Wege. Unter 6 Jahren freier Eintritt.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      180,
+      360
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "hours": "1. April bis 8. November täglich ab 9 Uhr.",
+    "price": "Erwachsene 17 €, Familienticket 21 €, unter 6 Jahren frei. Touriseum inklusive.",
+    "bestTime": "Vormittags.",
+    "sources": [
+      {
+        "label": "Trauttmansdorff, Öffnungszeiten und Preise",
+        "checked": "2026-09-07",
+        "url": "https://www.trauttmansdorff.it/Besuch-planen/OEffnungszeiten-Eintrittspreise/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "archeoparc",
+    "name": "archeoParc Schnalstal",
+    "base": "suedtirol",
+    "town": "Unser Frau in Schnals",
+    "lat": 46.713,
+    "lng": 10.904,
+    "coordsExact": false,
+    "driveMinutes": 35,
+    "categories": [
+      "kind",
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "handwerk",
+      "wasser"
+    ],
+    "short": "Steinzeit zum Anfassen im Ötzi-Tal: Brot backen, Bogenschießen, Einbaum fahren.",
+    "why": "Der archeoParc liegt in dem Tal, aus dem Ötzi zu seinem letzten Aufstieg losging, und ist das Gegenteil eines Vitrinenmuseums: ein weitläufiges Freigelände mit rekonstruierten Häusern, in dem den ganzen Tag etwas gemacht wird. Zwischen 11 und 16.30 Uhr laufen wechselnde Mitmachstationen — Korn mahlen, Brot backen, Feuer machen, Bogenschießen, mit dem Einbaum auf dem Teich fahren. Für einen Zweijährigen ist Mahlen und Matschen genau richtig; das Bogenschießen ist noch nichts, aber Zuschauen zählt auch. Kinder unter vier Jahren sind frei. Und ein Detail, das euch direkt betrifft: Dienstagnachmittag ist Familientag mit zusätzlichem Programm — in eurem Fenster wäre das Dienstag, der 22. September. Das Außengelände ist von 10.30 bis 16.30 Uhr zugänglich.",
+    "kid": {
+      "rating": 3,
+      "notes": "Alles zum Anfassen, viel Freifläche, Wasser. Unter 4 Jahren freier Eintritt.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      120,
+      240
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Ostern bis Allerheiligen; Außengelände 10.30-16.30 Uhr, Mitmachprogramm 11-16.30 Uhr.",
+    "price": "Erwachsene 10 €, Familienticket 29 €, unter 4 Jahren frei.",
+    "bestTime": "Dienstagnachmittag ist Familientag mit Zusatzprogramm.",
+    "sources": [
+      {
+        "label": "archeoParc Schnalstal",
+        "checked": "2026-09-07",
+        "url": "https://www.suedtirolerland.it/en/highlights/museums-and-exhibitions/archeoparc-val-senales/"
+      },
+      {
+        "label": "archeoParc mit Kindern",
+        "checked": "2026-09-07",
+        "url": "https://suedtirol-mit-kindern.com/archeoparc-schnalstal/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "watles",
+    "name": "Erlebnisberg Watles",
+    "base": "suedtirol",
+    "town": "Prämajur, Mals",
+    "lat": 46.679,
+    "lng": 10.515,
+    "coordsExact": false,
+    "driveMinutes": 45,
+    "categories": [
+      "kind",
+      "natur"
+    ],
+    "tags": [
+      "bergbahn",
+      "spielplatz",
+      "wasser",
+      "wanderung"
+    ],
+    "short": "Sessellift auf 2150 m, oben ein Spielsee mit Flößen, Hängebrücke und Wasserläufen.",
+    "why": "Der Watles ist der Familienberg des oberen Vinschgaus, und was ihn von einem normalen Wanderberg unterscheidet, steht direkt an der Bergstation: ein angelegter Spielsee mit Holzflößen, einer großen Hängebrücke, Wasserfällen, Goldwaschstelle und Rutsche, dazu ein Spielplatz. Man muss also keine Wanderung planen — man fährt hoch und bleibt oben. Die Plantapatschhütte ist gleich daneben. Geöffnet ist von Juni bis Oktober täglich von 8.30 bis 16.30 Uhr, mit Mittagspause zwischen 12.45 und 13.15 Uhr; der Sessellift kostet für Erwachsene 22 € hin und zurück. Zwei Hinweise: Es ist ein offener Vierersessel, und auf 2150 Metern ist es Ende September auch bei Sonne empfindlich kühl — Mütze und Jacke ins Gepäck. Wasserspielplatz heißt außerdem nasse Kleidung; Wechselsachen einpacken.",
+    "kid": {
+      "rating": 3,
+      "notes": "Wasserspielplatz direkt an der Bergstation, kein Fußmarsch nötig. Offener Sessellift, oben kühl.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      180,
+      360
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Juni bis Oktober täglich 8.30-16.30 Uhr, Mittagspause 12.45-13.15 Uhr.",
+    "price": "Sessellift hin und zurück: Erwachsene 22 €, Kinder 15 €.",
+    "sources": [
+      {
+        "label": "Watles, Öffnungszeiten und Preise",
+        "checked": "2026-09-07",
+        "url": "https://www.watles.net/en/ski-adventure-mountain-watles/summer/adventure-mountain-watles/opening-hours-prices-chairlift.html"
+      },
+      {
+        "label": "Spielesee Watles",
+        "checked": "2026-09-07",
+        "url": "https://www.suedtirolerland.it/en/leisure-activities/kids-and-family/summer-parks-in-the-mountains/watles-adventure-lake/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "aquaprad",
+    "name": "Nationalparkhaus aquaprad",
+    "base": "suedtirol",
+    "town": "Prad am Stilfserjoch",
+    "lat": 46.616,
+    "lng": 10.592,
+    "coordsExact": false,
+    "driveMinutes": 30,
+    "categories": [
+      "kind",
+      "kultur"
+    ],
+    "tags": [
+      "tiere",
+      "museum",
+      "schlechtwetter",
+      "wasser"
+    ],
+    "short": "13 Aquarien mit über 30 heimischen Fischarten. Montag Ruhetag.",
+    "why": "Das Besucherzentrum des Nationalparks Stilfserjoch zeigt die Gewässerwelt Südtirols in dreizehn Aquarien mit mehr als dreißig Fischarten. Kompakt, drinnen, auf Kinderhöhe — damit ist es die klare Nummer eins unter euren Regenoptionen jenseits von Latsch. Ein Zweijähriger braucht keine Erklärungen, um vor einem Becken mit Forellen stehen zu bleiben. Wichtig fürs Planen: Montag ist Ruhetag, und das trifft euren Montag, den 21. September. Dienstag bis Freitag ist von 9 bis 12 und von 14.30 bis 18 Uhr geöffnet, am Wochenende nur nachmittags ab 14.30 Uhr. Letzter Einlass 17.30 Uhr. Familienkarte 13 €, unter sieben Jahren frei.",
+    "kid": {
+      "rating": 3,
+      "notes": "Aquarien auf Augenhöhe, überschaubare Größe, komplett drinnen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Di-Fr 9-12 und 14.30-18 Uhr; Sa, So und Feiertage 14.30-18 Uhr. Letzter Einlass 17.30 Uhr.",
+    "closedDays": [
+      "Mo"
+    ],
+    "price": "Erwachsene 6 €, Familienkarte 13 €, unter 7 Jahren frei.",
+    "sources": [
+      {
+        "label": "aquaprad, Nationalpark Stilfserjoch",
+        "checked": "2026-09-07",
+        "url": "https://www.nationalpark-stelvio.it/de/erleben/besucherzentren-des-nationalparks/aquaprad.html"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "mmm-ortles",
+    "name": "MMM Ortles und Messners Yaks",
+    "base": "suedtirol",
+    "town": "Sulden",
+    "lat": 46.517,
+    "lng": 10.589,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "kultur",
+      "kind"
+    ],
+    "tags": [
+      "tiere",
+      "museum",
+      "schlechtwetter",
+      "aussicht"
+    ],
+    "short": "Unterirdisches Eis-Museum auf 1900 m — und draußen grasen Yaks.",
+    "why": "Reinhold Messners Museum zum Thema Eis und Gletscher steckt komplett unter der Wiese, man geht über eine Rampe hinein. Drinnen die weltweit größte Sammlung von Ortler-Gemälden und Eisgerät aus zwei Jahrhunderten. Für ein Kleinkind ist das Museum selbst nebensächlich — der Grund hinzufahren steht draußen: Messner hält in Sulden Yaks, und ab etwa Ende August stehen sie auf dem Freigelände beim Museum. Zottelige, sehr große, sehr ruhige Tiere in Zaunnähe. Dazu die Kulisse der Ortler-Nordwand, die man auch ohne einen Schritt Wanderung vor sich hat. Geöffnet bis zum zweiten Sonntag im Oktober, allerdings nur nachmittags von 14 bis 18 Uhr, letzter Einlass 17.30 Uhr — plant den Ausflug also für nach dem Mittagsschlaf. Ruhetag vor der Fahrt prüfen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Die Yaks sind der Grund. Das Museum selbst ist dunkel und für dieses Alter nur ein kurzer Durchgang.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      150
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "hours": "Vierter Sonntag im Mai bis zweiter Sonntag im Oktober, 14-18 Uhr, letzter Einlass 17.30 Uhr.",
+    "price": "Kinder 6-14 Jahre 4 €.",
+    "bestTime": "Nachmittags — vormittags ist geschlossen.",
+    "sources": [
+      {
+        "label": "MMM Ortles und Messners Yaks",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/ortles-holiday-area/culture-arts/tradition-and-customs/reinhold-messner-and-his-yaks/121146026-messner-mountain-museum-ortles.html"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "churburg",
+    "name": "Churburg Schluderns",
+    "base": "suedtirol",
+    "town": "Schluderns",
+    "lat": 46.667,
+    "lng": 10.581,
+    "coordsExact": true,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "ruine"
+    ],
+    "short": "Die größte private Rüstkammer der Welt — über 50 komplette Harnische. Nur mit Führung.",
+    "why": "Die Churburg über Schluderns beherbergt mehr als fünfzig vollständige Rüstungen, fast alle aus Mailänder oder Innsbrucker Plattnerwerkstätten — die größte private Sammlung dieser Art weltweit. Darunter ein Harnisch von 2,10 Metern Höhe und 45 Kilogramm, der verlässlich Kinder wie Erwachsene beeindruckt. Ehrlich zur Machbarkeit: Der Besuch ist ausschließlich in einer geführten Tour von etwa einer Stunde möglich, in der man nicht einfach weitergehen kann, wenn das Kind genug hat. Die Burg selbst empfiehlt für kleine Kinder eine Trage. Mit zwei Jahren ist das ein Erwachsenenprogramm — machbar, wenn einer bereit ist, notfalls mit dem Kind vor die Tür zu gehen. Montag ist Ruhetag; Kinder unter sechs Jahren sind frei.",
+    "kid": {
+      "rating": 1,
+      "notes": "Einstündige Führung ohne Ausstieg. Trage statt Buggy. Nur mit Ausstiegsplan.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      75,
+      120
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "hours": "20. März bis 31. Oktober, Di-So und feiertags 10-12 und 14-16.30 Uhr. Nur mit Führung.",
+    "closedDays": [
+      "Mo"
+    ],
+    "price": "Unter 6 Jahren frei.",
+    "sources": [
+      {
+        "label": "Churburg, Rundgang und Zeiten",
+        "checked": "2026-09-07",
+        "url": "https://www.churburg.com/rundgang/"
+      },
+      {
+        "label": "Churburg mit Kindern",
+        "checked": "2026-09-07",
+        "url": "https://suedtirol-mit-kindern.com/churburg/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "glurns",
+    "name": "Glurns",
+    "base": "suedtirol",
+    "town": "Glurns",
+    "lat": 46.671,
+    "lng": 10.556,
+    "coordsExact": true,
+    "driveMinutes": 30,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "ruine",
+      "aussicht"
+    ],
+    "short": "Die kleinste Stadt Südtirols, komplett von einer Mauer mit Türmen umschlossen.",
+    "why": "Glurns hat gut neunhundert Einwohner und trotzdem eine vollständige Stadtbefestigung aus dem 16. Jahrhundert: geschlossener Mauerring, drei Tortürme, Wehrgang, Laubengassen. Man ist in zwanzig Minuten hindurch und in vierzig einmal außen herum. Genau diese Größe macht es mit einem Zweijährigen angenehm — es ist überschaubar, autoarm und man kann jederzeit aufhören. Gut kombinierbar mit der Churburg in Schluderns, die fünf Kilometer entfernt liegt, oder mit Kloster Marienberg.",
+    "kid": {
+      "rating": 2,
+      "notes": "Klein, autoarm, überschaubar. Kopfsteinpflaster in den Laubengassen.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Glurns und Vinschgau",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/food-wine/venostan-cuisine/delights-in-autumn/toerggelen.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "marienberg",
+    "name": "Kloster Marienberg",
+    "base": "suedtirol",
+    "town": "Burgeis, Mals",
+    "lat": 46.706,
+    "lng": 10.534,
+    "coordsExact": true,
+    "driveMinutes": 40,
+    "categories": [
+      "kultur",
+      "natur"
+    ],
+    "tags": [
+      "kirche",
+      "museum",
+      "aussicht"
+    ],
+    "short": "Höchstgelegene Benediktinerabtei Europas, weiß über den Wiesen von Burgeis.",
+    "why": "Marienberg liegt auf gut 1330 Metern und ist die höchstgelegene Benediktinerabtei Europas. Der Anblick von unten — ein weißer Klosterblock über grünen Hängen — ist die halbe Miete; im Museum geht es um das Leben der Mönche, und in der Krypta liegen romanische Fresken aus dem 12. Jahrhundert. Mit Kleinkind: der Außenbereich und der Blick lohnen sich in jedem Fall und kosten nichts. Ob ihr das Museum dazunehmt, entscheidet die Tagesform. Ruhetage und Öffnungszeiten vorher prüfen.",
+    "kid": {
+      "rating": 1,
+      "notes": "Draußen gut, drinnen still und dunkel. Der Blick lohnt auch ohne Eintritt.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      120
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Vinschgau, Kultur und Sehenswürdigkeiten",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/schnalstal-valley/nature-culture-art/region-people/transhumance.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "reschensee",
+    "name": "Reschensee und der Kirchturm im Wasser",
+    "base": "suedtirol",
+    "town": "Graun im Vinschgau",
+    "lat": 46.809,
+    "lng": 10.54,
+    "coordsExact": true,
+    "driveMinutes": 50,
+    "categories": [
+      "natur",
+      "kultur",
+      "kind"
+    ],
+    "tags": [
+      "wasser",
+      "aussicht",
+      "wanderung"
+    ],
+    "short": "Der Turm des versunkenen Dorfes steht mitten im Stausee. Uferweg ist buggytauglich.",
+    "why": "1950 wurde für das Kraftwerk ein ganzes Dorf geflutet; der romanische Kirchturm von Alt-Graun ragt seither aus dem Wasser. Das ist eines der Bilder, für die man keine Erklärung braucht — und für ein Kind schlicht ein Turm, der im See steht. Vom Parkplatz am Ufer sind es wenige Minuten bis zum besten Blickpunkt; man muss also nichts wandern. Wer mehr will: Der Weg um den See ist gut fünfzehn Kilometer lang, fast ohne Steigung, asphaltiert oder fest geschottert und laut Beschreibung bei gutem Wetter auch mit Kinderwagen zu machen — ihr nehmt davon einfach ein Stück. Auf 1500 Metern und am offenen Wasser ist es windig und deutlich kühler als im Tal; Jacke einpacken.",
+    "kid": {
+      "rating": 3,
+      "notes": "Kurzer, ebener Weg zum Aussichtspunkt, viel Wasser und Platz. Windig und kühl.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      45,
+      150
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Reschensee, Rundweg und Kirchturm",
+        "checked": "2026-09-07",
+        "url": "https://www.vivosuedtirol.com/seen/reschensee/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "mmm-juval",
+    "name": "Schloss Juval, MMM und Schlosswirt",
+    "base": "suedtirol",
+    "town": "Kastelbell-Tschars",
+    "lat": 46.687,
+    "lng": 10.949,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur",
+      "essen"
+    ],
+    "tags": [
+      "museum",
+      "weingut",
+      "aussicht",
+      "mittagessen"
+    ],
+    "short": "Messners Wohnburg über dem Taleingang, mit Bio-Hof und Buschenschank. Mittwoch Ruhetag.",
+    "why": "Juval ist Reinhold Messners eigenes Schloss und beherbergt sein Museum zum Mythos Berg, mit Maskensammlung und Tibetika. Dazu gehören ein biologisch bewirtschafteter Hof und der Schlosswirt, der die eigenen Produkte des Oberortlhofs ausschenkt — das ist der Teil, der auch ohne Museumsinteresse trägt und in eure Kategorie 'besonders essen' passt. Zwei harte Punkte: Mittwoch ist Ruhetag, und der Aufstieg vom Parkplatz zu Fuß dauert etwa eine Stunde und ist steil. Mit einem Zweijährigen heißt das: Shuttle nehmen oder sein lassen. Die Saison läuft von Ende März bis Anfang November.",
+    "kid": {
+      "rating": 1,
+      "notes": "Steiler einstündiger Aufstieg ohne Shuttle. Museum ist Erwachsenenprogramm; der Schlosswirt ist der Grund.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "hours": "Ende März bis Anfang November; Mittwoch Ruhetag.",
+    "closedDays": [
+      "Mi"
+    ],
+    "sources": [
+      {
+        "label": "MMM Juval",
+        "checked": "2026-09-07",
+        "url": "https://www.messner-mountain-museum.it/en/juval/museum/"
+      },
+      {
+        "label": "Schloss Juval, Zugang und Schlosswirt",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/castelbello-ciardes/culture-art/places-of-interest/juval-castle.html"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "partschinser-wasserfall",
+    "name": "Partschinser Wasserfall",
+    "base": "suedtirol",
+    "town": "Partschins",
+    "lat": 46.689,
+    "lng": 11.064,
+    "coordsExact": false,
+    "driveMinutes": 35,
+    "categories": [
+      "natur"
+    ],
+    "tags": [
+      "wasser",
+      "wanderung"
+    ],
+    "short": "97 Meter freier Fall — im September aber deutlich weniger Wasser als im Frühsommer.",
+    "why": "Der Wasserfall stürzt 97 Meter frei ab und schiebt bei Schneeschmelze bis zu 10.000 Liter pro Sekunde zu Tal. Genau da liegt der Haken für euch: Die wasserreiche Zeit ist April bis Juli. Ende September ist er sehenswert, aber nicht das Naturschauspiel, das die Bilder versprechen. Wenn ihr trotzdem hinwollt: Über den Parkplatz Birkenwald spart ihr euch den anderthalbstündigen Aufstieg aus dem Dorf und seid in einer knappen Viertelstunde an der Plattform. Die Zufahrt dorthin ist schmal und steil. Der letzte Abschnitt am Fall ist nass und rutschig — dort ist mit dem Buggy Schluss.",
+    "kid": {
+      "rating": 2,
+      "notes": "Kurzer Weg ab Parkplatz Birkenwald, aber der Schlussabschnitt ist rutschig und nicht buggytauglich.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "parking": "Parkplatz Birkenwald; schmale, steile Zufahrt. Alternativ Shuttlebus ab Partschins.",
+    "bestTime": "Im September weniger Wasser als im Frühsommer — als Nebenziel einplanen, nicht als Hauptziel.",
+    "sources": [
+      {
+        "label": "Partschinser Wasserfall mit Kindern",
+        "checked": "2026-09-07",
+        "url": "https://suedtirol-mit-kindern.com/partschinser-wasserfall/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "meran-promenaden",
+    "name": "Meran, Kurpromenade und Tappeinerweg",
+    "base": "suedtirol",
+    "town": "Meran",
+    "lat": 46.671,
+    "lng": 11.159,
+    "coordsExact": true,
+    "driveMinutes": 40,
+    "categories": [
+      "natur",
+      "kultur"
+    ],
+    "tags": [
+      "aussicht",
+      "wanderung"
+    ],
+    "short": "Palmen an der Passer, darüber ein ebener Höhenweg über der Stadt.",
+    "why": "Meran ist die Kurstadt des Tals: Passerpromenade mit Palmen und Kurhaus, Laubengassen aus dem Mittelalter, und darüber der Tappeinerweg — ein breiter, fast ebener Spazierweg am Hang mit Blick über die Dächer, gesäumt von mediterraner Bepflanzung. Beides ist unkompliziert mit Buggy zu machen und kostet nichts. Für euch die passende Dosis Stadt: spazieren, Eis, wieder weg. Wer den ganzen Tag bleiben will, kombiniert es mit Trauttmansdorff am Stadtrand.",
+    "kid": {
+      "rating": 2,
+      "notes": "Breite, ebene Wege, buggytauglich. Kein eigentliches Kinderprogramm, aber entspannt.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Meran, Sehenswürdigkeiten",
+        "checked": "2026-09-07",
+        "url": "https://www.merano-suedtirol.it/en/merano/city-culture/places-of-interest/the-gardens-of-trauttmansdorff-castle.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "martelltal",
+    "name": "Martelltal und Zufrittsee",
+    "base": "suedtirol",
+    "town": "Martell",
+    "lat": 46.539,
+    "lng": 10.744,
+    "coordsExact": false,
+    "driveMinutes": 30,
+    "categories": [
+      "natur"
+    ],
+    "tags": [
+      "wasser",
+      "wanderung",
+      "aussicht"
+    ],
+    "short": "Seitental in den Nationalpark hinein, mit ebenem Uferweg am Stausee.",
+    "why": "Das Martelltal zweigt bei Goldrain ab und führt tief in den Nationalpark Stilfserjoch. Auf halber Höhe liegt der Zufrittsee, um den ein einfacher Uferweg führt — die Art von Spaziergang, die mit Kleinkind funktioniert, weil es flach ist, Wasser danebenliegt und man jederzeit umdrehen kann. Weiter hinten wird das Tal alpin, mit Blick auf die Gletscher der Cevedale-Gruppe. Das Tal ist außerdem Südtirols Erdbeergebiet, allerdings ist die Saison im September vorbei. Kurze Anfahrt, wenig Trubel, gute Alternative, wenn die Seilbahnen überlaufen sind.",
+    "kid": {
+      "rating": 2,
+      "notes": "Ebener Uferweg, jederzeit abbrechbar. Straße ins Tal ist kurvig.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Familienurlaub Latsch-Martelltal",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/de/latsch-martelltal/aktivurlaub/sport-freizeit/familienurlaub.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "toerggelen-hinweis",
+    "name": "Buschenschank statt Törggelen",
+    "base": "suedtirol",
+    "town": "Vinschgau",
+    "lat": 46.617,
+    "lng": 10.863,
+    "coordsExact": false,
+    "driveMinutes": 15,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "abendessen",
+      "weingut",
+      "handwerk"
+    ],
+    "short": "Marende auf dem Hof: Speck, Bauernbrot, Käse. Die Törggelesaison beginnt aber erst im Oktober.",
+    "why": "Wir führen das auf, damit ihr nicht danach sucht: Törggelen — der Herbstbrauch mit Neuem Wein, Kastanien und Bauernküche — beginnt offiziell erst mit dem ersten Samstag im Oktober und läuft bis Ende November. Ihr seid rund zwei Wochen zu früh. Was es trotzdem gibt, sind Buschen- und Hofschänke, die ganzjährig oder saisonal geöffnet haben und eine Marende servieren: Brettljause mit Speck, Kaminwurzen, Bauernbrot, Käse, dazu Wein oder Süßmost vom eigenen Hof. Das ist genau eure Kategorie — man sitzt draußen, isst mit den Fingern, und niemand erwartet ein Dreigangmenü. In Laas, Kastelbell, Latsch, Martell und Glurns gibt es solche Betriebe; welche im September geöffnet haben, fragt ihr am besten an der Hotelrezeption, das wechselt jährlich.",
+    "kid": {
+      "rating": 3,
+      "notes": "Draußen, Brotzeit statt Menü, meist Hoftiere in der Nähe. Unkompliziert.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "hours": "Törggelesaison erst ab dem ersten Samstag im Oktober. Buschenschänke haben eigene Zeiten.",
+    "sources": [
+      {
+        "label": "Törggelen im Vinschgau",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/food-wine/venostan-cuisine/delights-in-autumn/toerggelen.html"
+      },
+      {
+        "label": "Buschen- und Hofschänke, Roter Hahn",
+        "checked": "2026-09-07",
+        "url": "https://www.roterhahn.it/de/baeuerliche-schankbetriebe"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "stilfser-joch",
+    "name": "Stilfser Joch",
+    "base": "suedtirol",
+    "town": "Stilfs",
+    "lat": 46.5285,
+    "lng": 10.453,
+    "coordsExact": true,
+    "driveMinutes": 80,
+    "categories": [
+      "natur"
+    ],
+    "tags": [
+      "aussicht",
+      "bergbahn"
+    ],
+    "short": "48 Kehren auf 2757 Meter. Grandios — und mit Kleinkind im Auto eine Zumutung.",
+    "why": "Die Passstraße zum Stilfser Joch ist eine der berühmtesten der Alpen: 48 nummerierte Kehren auf der Südtiroler Seite, oben 2757 Meter, Blick auf den Ortler. Wir nehmen sie auf, weil ihr davon hören werdet — und raten in eurer Konstellation ab. Anderthalb Stunden Serpentinen pro Richtung sind für einen Zweijährigen im Kindersitz eine Tortur, und oben gibt es außer Aussicht, Bratwurstbuden und Motorrädern wenig. Wenn es unbedingt sein soll: früh los, den Mittagsschlaf einplanen, und vorher den Straßenzustand prüfen — der Pass schließt je nach Wetter ab Ende Oktober, kann aber auch im September kurzfristig gesperrt sein.",
+    "kid": {
+      "rating": 1,
+      "notes": "Lange Serpentinenfahrt, Übelkeitsrisiko, oben wenig für Kinder. Ehrlich: eher nicht.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "bestTime": "Nur bei stabilem Wetter; Straßenzustand vorher prüfen.",
+    "sources": [
+      {
+        "label": "Nationalpark Stilfserjoch",
+        "checked": "2026-09-07",
+        "url": "https://www.nationalpark-stelvio.it/de/erleben/besucherzentren-des-nationalparks/aquaprad.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "prokulus",
+    "name": "Prokuluskirche und Museum",
+    "base": "suedtirol",
+    "town": "Naturns",
+    "lat": 46.648,
+    "lng": 11.0,
+    "coordsExact": false,
+    "driveMinutes": 20,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "kirche",
+      "museum",
+      "schlechtwetter"
+    ],
+    "short": "Karolingische Fresken aus dem 8. Jahrhundert in einer winzigen Kirche.",
+    "why": "Die Prokuluskirche bei Naturns ist von außen ein unscheinbarer weißer Kasten und innen eine der wichtigsten frühmittelalterlichen Fresken-Ensembles im Alpenraum: Wandmalereien aus dem 8. Jahrhundert, darunter der berühmte 'Schaukler'. Das zugehörige unterirdische Museum erzählt in vier Zeitschichten die Geschichte des Ortes, unter anderem über die Pest. Der Besuch ist kurz — und das ist der Vorteil. Öffnungszeiten und Ruhetag vorher prüfen, das Haus hat eingeschränkte Zeiten.",
+    "kid": {
+      "rating": 1,
+      "notes": "Sehr klein, sehr still. Zwanzig Minuten sind das Maximum in diesem Alter.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      30,
+      60
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Naturns und Umgebung",
+        "checked": "2026-09-07",
+        "url": "https://www.meranerland.org/en/highlights/museums-and-exhibitions/mmm-juval/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "bozen-oetzi",
+    "name": "Südtiroler Archäologiemuseum (Ötzi)",
+    "base": "suedtirol",
+    "town": "Bozen",
+    "lat": 46.499,
+    "lng": 11.348,
+    "coordsExact": true,
+    "driveMinutes": 80,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "schlechtwetter"
+    ],
+    "short": "Der Mann aus dem Eis im Original — und ein weiter Weg dorthin.",
+    "why": "Ötzi liegt in Bozen, in einer gekühlten Kammer, durch ein kleines Fenster zu sehen. Für Erwachsene ist das ein starkes Erlebnis, für ein Kleinkind so gut wie nichts: dunkel, voll, Zeitfenster, und der eigentliche Fund ist ein Blick durch eine Luke. Dazu anderthalb Stunden Fahrt pro Richtung. Unsere Empfehlung für euch: Wenn ihr Ötzi wollt, nehmt den archeoParc im Schnalstal — dort geht es um dieselbe Zeit, aber zum Anfassen, halb so weit weg und für das Kind ungleich besser. Bozen lohnt sich, wenn ihr ohnehin einen Regentag opfern wollt und das Kind im Auto schläft.",
+    "kid": {
+      "rating": 1,
+      "notes": "Dunkel, voll, wenig zum Anfassen. Der archeoParc ist die bessere Wahl.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      120,
+      180
+    ],
+    "weather": "indoor",
+    "booking": "pflicht",
+    "sources": [
+      {
+        "label": "Südtiroler Museen, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://www.suedtirol-kompakt.com/archeoparc-schnalstal/"
+      }
+    ],
     "verified": false
   }
 ]

@@ -62,6 +62,11 @@ export interface Poi {
   lat: number
   lng: number
   town: string
+  /**
+   * false = Koordinate ist auf den Ortskern geschätzt, nicht auf die Adresse.
+   * Die Navigation sucht dann nach Name und Ort statt einen Punkt anzusteuern.
+   */
+  coordsExact: boolean
   categories: Category[]
   tags: Tag[]
   /** Realistic door-to-door driving time from the base, in minutes. */
