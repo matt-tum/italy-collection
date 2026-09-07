@@ -2396,5 +2396,303 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": "st-martin-hofschank",
+    "name": "Hofschänke und Berggasthaus in St. Martin im Kofel",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.632,
+    "lng": 10.844,
+    "coordsExact": false,
+    "driveMinutes": 5,
+    "categories": [
+      "essen",
+      "natur"
+    ],
+    "tags": [
+      "mittagessen",
+      "aussicht",
+      "handwerk"
+    ],
+    "short": "Oben an der Seilbahn: Berggasthaus mit Panoramaterrasse und drei Hofschänke.",
+    "why": "Am Ausstieg der Seilbahn liegt das Gasthaus Bergstation mit Panoramaterrasse, dazu gibt es im Weiler die Hofschänke Oberkaser, Platztair und Egg. Das ist die einfachste Art, in diesem Urlaub gut und regional zu essen, ohne einen Tisch zu reservieren oder lange zu sitzen: Marende auf der Terrasse, das Kind läuft auf der Wiese, unter euch das ganze Tal und gegenüber die Ortlergruppe. Die Seilbahn fährt im Sommer halbstündlich, ihr seid also nicht an eine Uhrzeit gebunden. Welcher der Hofschänke im September geöffnet hat, wechselt — die Rezeption weiß es.",
+    "kid": {
+      "rating": 3,
+      "notes": "Terrasse mit Wiese daneben, kein Sitzenmüssen. Anfahrt per Seilbahn ist selbst das Programm.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      150
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "hours": "Seilbahn im Sommer halbstündlich; Öffnungstage der einzelnen Hofschänke vorher erfragen.",
+    "sources": [
+      {
+        "label": "St. Martin im Kofel, Einkehr und Zugang",
+        "checked": "2026-09-07",
+        "url": "https://www.outdooractive.com/de/route/wanderung/vinschgau/st.-martin-im-kofel/117732890/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "rossboeden",
+    "name": "Rossböden ab St. Martin im Kofel",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.639,
+    "lng": 10.838,
+    "coordsExact": false,
+    "driveMinutes": 5,
+    "categories": [
+      "natur"
+    ],
+    "tags": [
+      "wanderung",
+      "aussicht"
+    ],
+    "short": "Kurze Höhenwanderung ab der Bergstation, Blick auf die Ortler-Gletscher.",
+    "why": "Von der Bergstation der Latscher Seilbahn führt ein kurzer Weg zu den Rossböden — offene Almflächen am Fuß der Vermoispitze, mit Blick auf die Gletscher der Ortler-Cevedale-Gruppe und über den gesamten Vinschgau. Als Familientour beschrieben, also ohne ausgesetzte Stellen. Der Reiz für euch: Ihr fahrt mit der Bahn auf 1740 Meter und seid sofort im Hochgebirge, ohne einen einzigen Höhenmeter zu Fuß. Wie weit ihr geht, entscheidet das Kind. Alternativ gibt es eine kurze Runde zum Aussichtspunkt Dolomitenblick.",
+    "kid": {
+      "rating": 2,
+      "notes": "Bergwege, schmal und steinig — Trage oder Selberlaufen, kein Buggy. Jederzeit umkehrbar.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "Seilbahnticket",
+    "sources": [
+      {
+        "label": "Rossböden, Wanderung",
+        "checked": "2026-09-07",
+        "url": "https://www.bergwelten.com/t/w/11736"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "therme-meran",
+    "name": "Therme Meran",
+    "base": "suedtirol",
+    "town": "Meran",
+    "lat": 46.669,
+    "lng": 11.159,
+    "coordsExact": true,
+    "driveMinutes": 40,
+    "categories": [
+      "kind"
+    ],
+    "tags": [
+      "wasser",
+      "schlechtwetter"
+    ],
+    "short": "Hallenbad mit 34 Grad warmem Kinderbecken, ganzjährig. Der Thermalpark schließt Mitte September.",
+    "why": "Die Therme Meran hat ein ganzjährig geöffnetes Kinderbecken mit konstant 34 Grad — das ist für einen Zweijährigen die verlässlichste Wasserstelle im Umkreis, unabhängig vom Wetter. Das Hallenbad ist täglich von 9 bis 21 Uhr geöffnet. Ein Punkt, der euch betrifft: Der Thermalpark mit den Außenbecken läuft nur von Mitte Mai bis Mitte September. Bei eurer Ankunft am 19. September ist der Außenbereich also mit einiger Wahrscheinlichkeit schon geschlossen — vorher anrufen, das entscheidet, ob sich die vierzig Minuten Fahrt lohnen. Für einen Regentag im Tal ist das Hallenbad allein aber schon ein Argument.",
+    "kid": {
+      "rating": 3,
+      "notes": "34 Grad warmes Kinderbecken, ganzjährig. Außenbecken saisonal — vorher prüfen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      120,
+      240
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Hallenbad täglich 9-21 Uhr. Thermalpark und Freibecken nur Mitte Mai bis Mitte September.",
+    "price": "Familienkarte im Sommer ab ca. 27 € für zwei Erwachsene und ein Kind.",
+    "sources": [
+      {
+        "label": "Therme Meran, Preise und Zeiten",
+        "checked": "2026-09-07",
+        "url": "https://www.termemerano.it/en/prices-and-information/prices/"
+      },
+      {
+        "label": "Therme Meran, Becken und Kinderbereich",
+        "checked": "2026-09-07",
+        "url": "https://www.vivosuedtirol.com/schwimmen/therme-meran/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "vinschgau-maerkte",
+    "name": "Wochen- und Bauernmärkte im Vinschgau",
+    "base": "suedtirol",
+    "town": "Schlanders / Latsch",
+    "lat": 46.628,
+    "lng": 10.771,
+    "coordsExact": false,
+    "driveMinutes": 10,
+    "categories": [
+      "essen",
+      "kultur"
+    ],
+    "tags": [
+      "markt",
+      "fruehstueck"
+    ],
+    "short": "Schlanders donnerstags, Latsch freitags — beides fällt leider neben euer Zeitfenster.",
+    "why": "Wir führen das auf, damit ihr nicht danach sucht. Der Wochenmarkt in Latsch ist freitags am Lacusplatz, der in Schlanders donnerstags am Stainerplatz und am Plawennplatz, dort von April bis Oktober zusammen mit dem Bauernmarkt. Euer Südtirol-Aufenthalt läuft von Samstag bis Mittwoch — beide Markttage fallen also knapp daneben. Was bleibt, sind die Hofläden und Selbstbedienungsautomaten der Direktvermarkter, die unabhängig vom Markttag geöffnet haben: Speck, Käse, Bauernbrot, Apfelsaft, Marmelade, Kräutertee. Für eine Marende auf dem Waalweg ist das ohnehin die bessere Quelle.",
+    "kid": {
+      "rating": 2,
+      "notes": "Märkte sind für Kinder gut, fallen hier aber aus. Hofläden sind schnell erledigt.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      30,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Schlanders donnerstags, Latsch freitags. Bauernmarkt Schlanders April bis Oktober.",
+    "closedDays": [
+      "Sa",
+      "So",
+      "Mo",
+      "Di",
+      "Mi"
+    ],
+    "sources": [
+      {
+        "label": "Wochenmärkte im Vinschgau",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/food-wine/buy-local/weekly-markets.html"
+      },
+      {
+        "label": "Märkte in Schlanders-Laas",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/silandro-and-lasa/food-wine/markets.html"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kastelbell",
+    "name": "Schloss Kastelbell",
+    "base": "suedtirol",
+    "town": "Kastelbell-Tschars",
+    "lat": 46.628,
+    "lng": 10.906,
+    "coordsExact": true,
+    "driveMinutes": 10,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "ruine",
+      "aussicht"
+    ],
+    "short": "Burg auf dem Felsen über der Etsch, zehn Minuten von Latsch.",
+    "why": "Die Burg sitzt auf einem Felssporn direkt an der Talstraße und ist von Latsch in zehn Minuten erreicht. Sie wird für Ausstellungen und Veranstaltungen genutzt; der Aufgang und der Blick von der Burgterrasse ins Tal lohnen den kurzen Halt auch ohne Programm. Kein Ziel für einen halben Tag, aber ein guter Zwischenstopp, etwa am Ende des Latschander Waalwegs, der in Kastelbell endet. Öffnungszeiten sind ausstellungsabhängig — vorher prüfen.",
+    "kid": {
+      "rating": 1,
+      "notes": "Kurzer Halt, Aufgang über Stufen. Wenig für Kinder, aber schnell erledigt.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      30,
+      75
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Kastelbell-Tschars, Sehenswürdigkeiten",
+        "checked": "2026-09-07",
+        "url": "https://www.vinschgau.net/en/castelbello-ciardes/culture-art/places-of-interest/juval-castle.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "rapolano-terme",
+    "name": "Terme di Rapolano",
+    "base": "toscana",
+    "town": "Rapolano Terme",
+    "lat": 43.287,
+    "lng": 11.6,
+    "coordsExact": true,
+    "driveMinutes": 75,
+    "categories": [
+      "kind",
+      "natur"
+    ],
+    "tags": [
+      "therme",
+      "wasser"
+    ],
+    "short": "Zwei Thermalbäder mit Außenbecken, Quellwasser um 39 Grad.",
+    "why": "Östlich von Siena liegen zwei größere Thermalanlagen nebeneinander: die Antica Querciolaia mit sechs Außen- und zwei Innenbecken in einem weitläufigen Park, und San Giovanni mit fünf Becken, gespeist von einer 39 Grad warmen Quelle. Anders als die freien Quellen im Orcia-Tal gibt es hier Liegen, Umkleiden, Gastronomie und flache Bereiche — mit einem Zweijährigen der deutlich bequemere Weg zu warmem Wasser. Preise und Zeiten schwanken saisonal und nach Wochentag stark; vor der Fahrt die aktuelle Preisliste prüfen und nachfragen, welche Becken für Kleinkinder freigegeben sind — bei Thermalwasser gibt es oft Altersbeschränkungen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Warmes Wasser mit Infrastruktur. Vorher klären, welche Becken für Kleinkinder erlaubt sind.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      150,
+      300
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Richtwert Mo-Fr 9-20 Uhr, Sa bis spät, So 9-20 Uhr — vor der Fahrt bestätigen.",
+    "sources": [
+      {
+        "label": "Terme di Rapolano, Überblick",
+        "checked": "2026-09-07",
+        "url": "https://norcenni.huopenair.com/it/esperienze/rapolano-terme"
+      },
+      {
+        "label": "Antica Querciolaia, Visit Tuscany",
+        "checked": "2026-09-07",
+        "url": "https://www.visittuscany.com/en/attractions/antica-querciolaia-thermal-baths-in-rapolano/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "sg-porta-fonti-spielplatz",
+    "name": "Spielplatz und Wiese am Parco della Rocca",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4683,
+    "lng": 11.0414,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "kind"
+    ],
+    "tags": [
+      "spielplatz"
+    ],
+    "short": "Der Kinderbereich oben in der Rocca — kostenlos, schattig, zehn Minuten vom Parkplatz.",
+    "why": "Wir führen das getrennt vom Park auf, weil es die Antwort auf eine andere Frage ist: nicht 'was besichtigen wir', sondern 'wo lassen wir das Kind eine Stunde toben, während wir sitzen'. Im Parco della Rocca gibt es einen abgegrenzten Kinderbereich, Olivenwiese, Schatten und Trinkwasser. Kombiniert mit einem Eis von Dondoli und dem Weinmuseum nebenan ergibt das einen kompletten, entspannten Nachmittag innerhalb von zehn Fahrminuten — ohne Eintritt, ohne Reservierung, ohne Plan.",
+    "kid": {
+      "rating": 3,
+      "notes": "Abgegrenzter Kinderbereich, Wiese, Trinkbrunnen, Schatten. Kostenlos.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      120
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Parco della Rocca, Kinderbereich",
+        "checked": "2026-09-07",
+        "url": "https://www.sangimignanobooking.com/en/territory/parco-della-rocca-e-rocca-di-montestaffoli"
+      }
+    ],
+    "verified": false
   }
 ]
