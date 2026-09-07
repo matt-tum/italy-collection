@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/types.ts","./src/components/Browse.tsx","./src/components/MapView.tsx","./src/components/PoiCard.tsx","./src/components/PoiSheet.tsx","./src/components/Today.tsx","./src/data/bases.ts","./src/data/pois.ts","./src/lib/plan.ts","./src/lib/useFavorites.ts","./vite.config.ts"],"version":"5.9.3"}
