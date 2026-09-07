@@ -1204,18 +1204,8 @@
     "weather": "outdoor",
     "booking": "nein",
     "hours": "2026 am 3.-6. und 10.-13. September, abends.",
-    "closedMonths": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      10,
-      11,
-      12
+    "dates": [
+      "2026-09-13"
     ],
     "sources": [
       {

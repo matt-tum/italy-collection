@@ -86,6 +86,12 @@ export interface Poi {
   closedDays?: string[]
   /** Monate, in denen es geschlossen ist (1–12). */
   closedMonths?: number[]
+  /**
+   * Nur für Veranstaltungen: die exakten Tage, an denen es stattfindet.
+   * Ist das Feld gesetzt, zählt der Eintrag an keinem anderen Datum — ein Fest
+   * mit Monatsangabe allein würde sonst auch nach seinem Ende vorgeschlagen.
+   */
+  dates?: string[]
   price?: string
   parking?: string
   /** Beste Tageszeit — z.B. wegen Licht, Andrang oder Mittagspause. */

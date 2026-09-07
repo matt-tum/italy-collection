@@ -70,6 +70,7 @@ for (const p of pois) {
 
   for (const d of p.closedDays ?? []) req(WEEKDAYS.includes(d), id, `closedDays: "${d}" ist kein Wochentagskürzel`)
   for (const m of p.closedMonths ?? []) req(m >= 1 && m <= 12, id, `closedMonths: ${m} ist kein Monat`)
+  for (const d of p.dates ?? []) req(/^\d{4}-\d{2}-\d{2}$/.test(d), id, `dates: "${d}" ist kein ISO-Datum`)
 
   req(Array.isArray(p.sources), id, 'sources fehlt (leeres Array ist erlaubt)')
   for (const s of p.sources ?? []) {

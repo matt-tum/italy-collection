@@ -102,6 +102,14 @@ Italien ändern sich saisonal und kurzfristig — der Datensatz ist eine
 Vorauswahl, kein Ersatz für einen Blick auf die Website am Vorabend. Bei allem
 mit `booking: pflicht` oder `empfohlen` gilt das doppelt.
 
+### Veranstaltungen
+
+Feste tragen ihre exakten Termine im Feld `dates`. Ein Fest nur über den Monat
+zu steuern reicht nicht — die Sagra del Fungo wäre sonst noch am 17. September
+vorgeschlagen worden, obwohl sie am 13. endet. Einträge, die nur an ein oder
+zwei Tagen möglich sind, werden an diesem Tag hochgestuft und mit „Nur heute"
+gekennzeichnet.
+
 ### Koordinaten
 
 `coordsExact: false` heißt: Die Koordinate ist auf den Ortskern geschätzt, nicht

@@ -16,6 +16,8 @@ export interface Ask {
   month: number
   /** Wochentag als Kürzel, für Ruhetage. */
   weekday: string
+  /** Das gewählte Datum als ISO-Tag, für terminierte Veranstaltungen. */
+  date: string
 }
 
 export const BUDGET_LABEL: Record<Budget, string> = {
@@ -58,6 +60,19 @@ function dayOpen(poi: Poi, weekday: string): boolean {
   return !poi.closedDays?.includes(weekday)
 }
 
+/** Veranstaltungen zählen nur an ihren eigenen Terminen. */
+function dateOpen(poi: Poi, date: string): boolean {
+  return !poi.dates || poi.dates.includes(date)
+}
+
+/**
+ * Ein Ziel, das nur an ein oder zwei Wochentagen offen ist, ist an genau
+ * diesem Tag die knappere Gelegenheit — Markttag, Sonntagsöffnung, Festtermin.
+ */
+function isRareToday(poi: Poi): boolean {
+  return poi.dates !== undefined || (poi.closedDays?.length ?? 0) >= 4
+}
+
 function weatherOk(poi: Poi, sky: Sky): boolean {
   if (sky === 'regen') return poi.weather !== 'outdoor'
   return true
@@ -68,7 +83,13 @@ export function rank(pois: Poi[], ask: Ask): Scored[] {
 
   return pois
     .filter((p) => p.driveMinutes <= maxDrive)
-    .filter((p) => seasonOpen(p, ask.month) && dayOpen(p, ask.weekday) && weatherOk(p, ask.sky))
+    .filter(
+      (p) =>
+        seasonOpen(p, ask.month) &&
+        dayOpen(p, ask.weekday) &&
+        dateOpen(p, ask.date) &&
+        weatherOk(p, ask.sky),
+    )
     .filter((p) => ask.categories.length === 0 || p.categories.some((c) => ask.categories.includes(c)))
     .map((p): Scored | null => {
       const stay = (p.stayMinutes[0] + p.stayMinutes[1]) / 2
@@ -77,6 +98,11 @@ export function rank(pois: Poi[], ask: Ask): Scored[] {
 
       let score = 0
       const reasons: string[] = []
+
+      // Grundgewicht: Ein Ziel, das für das Kind taugt, ist an jedem Tag das
+      // bessere Ziel — nicht nur an einem schlechten. Ohne das hier rutschen
+      // Bergbahnen und Aussichtspunkte vor Orte wie den archeoParc.
+      score += (p.kid.rating - 1) * 9
 
       // Kind-Verfassung ist das schärfste Kriterium — daran scheitert ein
       // Ausflug schneller als am Wetter.
@@ -97,8 +123,8 @@ export function rank(pois: Poi[], ask: Ask): Scored[] {
         if (p.kid.rating === 1) score += 6
       }
       if (ask.mood === 'fit') {
-        if (p.tags.includes('wanderung')) { score += 18; reasons.push('Genug Energie zum Laufen') }
-        if (p.kid.rating >= 2) score += 10
+        if (p.tags.includes('wanderung')) { score += 14; reasons.push('Genug Energie zum Laufen') }
+        if (p.kid.rating === 3) { score += 14; reasons.push('Trägt einen ganzen Vormittag') }
         if (p.stayMinutes[1] >= 120) score += 6
       }
 
@@ -110,6 +136,7 @@ export function rank(pois: Poi[], ask: Ask): Scored[] {
       const fit = 1 - Math.abs(total - MAX_TOTAL[ask.budget] * 0.7) / MAX_TOTAL[ask.budget]
       score += fit * 18
 
+      if (isRareToday(p)) { score += 20; reasons.unshift('Nur heute — sonst geschlossen') }
       if (p.booking === 'pflicht') { score -= 10; reasons.push('Vorher reservieren') }
       if (!p.verified) score -= 5
 

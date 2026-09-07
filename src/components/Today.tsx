@@ -44,6 +44,7 @@ export function Today({ base, pois, saved, done, onOpen }: Props) {
       categories,
       month: d.getUTCMonth() + 1,
       weekday: WEEKDAYS[d.getUTCDay()],
+      date: active,
     })
   }, [pois, budget, sky, mood, categories, active])
 
