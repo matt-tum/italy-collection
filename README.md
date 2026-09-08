@@ -79,6 +79,23 @@ npm run validate   # Datensatz prüfen
 npm run build      # Produktionsbuild
 ```
 
+## Artifact-Vorschau
+
+Zum Anschauen und Teilen gibt es dieselbe Sammlung als einzelne HTML-Datei:
+
+```bash
+npm run artifact   # schreibt dist-artifact/reiseplaner.html
+```
+
+Das ist eine Vorschau, nicht das Produkt. Sie hat keinen Service Worker, also
+kein Offline, und sie kann keine Kartenkacheln laden — die Content-Security-
+Policy von Artifacts blockiert externe Bilder. Statt der OpenStreetMap-Karte
+zeichnet sie eine maßstabsgetreue Schemakarte aus denselben Koordinaten.
+
+Bekannte Kosten: Die Bewertungslogik steht damit zweimal im Repo, in
+`src/lib/plan.ts` und in `scripts/build-artifact.py`. Wer eine ändert, muss die
+andere nachziehen. Sobald GitHub Pages läuft, kann der Generator entfallen.
+
 ## Datenpflege und Belegstand
 
 Der Datensatz liegt als reines JSON in `src/data/pois.json`, das Schema in
