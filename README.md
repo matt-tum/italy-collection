@@ -135,12 +135,30 @@ Suche nach Name und Ort los, statt einen falschen Punkt anzusteuern.
 
 ## Stand
 
-65 Ziele — 33 Toskana, 32 Vinschgau. 16 davon mit belegten Öffnungszeiten,
-Preisen oder Saisonzeiten.
+65 Ziele — 33 Toskana, 32 Vinschgau. 46 davon geprüft: entweder mit belegten
+Öffnungszeiten, Ruhetagen und Preisen, oder — bei Plätzen, Waalwegen und
+Aussichtspunkten — mit dem Beleg, dass sie frei und ohne Öffnungszeiten
+zugänglich sind.
+
+Die 19 offenen Einträge sind überwiegend Orte ohne zeitkritische Angaben
+(Eisdiele, Gassen, Almhütte) oder Großstädte, deren Zeiten je nach Museum
+auseinandergehen.
 
 Offen:
 
-- Zweiter Verifikationsdurchgang für die restlichen Einträge, sobald der
-  direkte Seitenabruf möglich ist.
 - Fahrzeiten sind Schätzungen. Für die Toskana ab San Donato eher großzügig
   gerechnet, weil die SP47 und die Straßen ins Chianti langsam sind.
+- Ein Durchgang mit direktem Seitenabruf statt Websuche, falls die
+  Netzwerk-Policy der Arbeitsumgebung später geöffnet wird.
+
+### Was der zweite Durchgang korrigiert hat
+
+| Eintrag | Korrektur |
+| --- | --- |
+| Bagno Vignoni | **Baden ist verboten.** Eine Gemeindeverordnung von 2010 sperrt den Parco dei Mulini, ein Netz versperrt das Becken, Bußgeld 25–500 €. Der Eintrag versprach vorher das Gegenteil. |
+| Monteriggioni | Mauerweg **montags bis mittwochs geschlossen**, derzeit nur der südliche Abschnitt. |
+| AquaForum Latsch | **Montag Ruhetag**, unter der Woche erst ab 14.30 Uhr. |
+| Ötzi-Museum Bozen | **Montag Ruhetag.** |
+| Prokuluskirche | Nur **dienstags, donnerstags und sonntags** geöffnet. |
+| Kloster Marienberg | Mo–Sa geöffnet, **sonntags geschlossen** — und damit eines der wenigen Ziele, die am Montag, 21.9. offen sind. |
+| Funicolare Certaldo | Nach der Wartung im Frühjahr 2026 wieder in Betrieb. |

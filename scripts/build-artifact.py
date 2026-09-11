@@ -29,10 +29,11 @@ BASES = [
 
 DAY_NOTES = {
   '2026-09-13': 'Anreisetag. Einziger Sonntag in der Toskana — der Archeodromo Poggibonsi öffnet nur sonntags 15–18 Uhr, und die Sagra del Fungo in Pievescola hat ihren letzten Abend.',
-  '2026-09-14': 'Erster ganzer Tag. In Italien schließen viele Museen montags — die Ziele im Freien tragen den Tag zuverlässiger.',
+  '2026-09-14': 'Erster ganzer Tag. Der Mauerweg in Monteriggioni ist montags bis mittwochs geschlossen — der Ort selbst bleibt frei zugänglich.',
   '2026-09-17': 'Wochenmarkt in San Gimignano, 8–13 Uhr auf allen drei Plätzen. Früh hin: die Parkplätze sind am Markttag eher voll.',
   '2026-09-19': 'Umzugstag Toskana → Vinschgau, rund 500 km. Realistisch bleibt der Abend in Latsch.',
-  '2026-09-21': 'aquaprad und Churburg haben Ruhetag. Der Tag gehört Latsch selbst: Seilbahn, Waalweg, AquaForum.',
+  '2026-09-21': 'Der schwierigste Tag: Ruhetag bei aquaprad, Churburg, AquaForum und dem Ötzi-Museum in Bozen. Offen sind Kloster Marienberg (Mo–Sa 10–17 Uhr) und alles unter freiem Himmel — Seilbahn, Waalweg, Reschensee, Watles.',
+  '2026-09-20': 'Die Prokuluskirche in Naturns öffnet nur dienstags, donnerstags und sonntags — heute oder gar nicht. Kloster Marienberg hat dagegen sonntags zu.',
   '2026-09-22': 'Familientag im archeoParc Schnalstal mit Zusatzprogramm am Nachmittag. Der beste Südtirol-Tag im Fenster.',
   '2026-09-23': 'Abreisetag nach Mainz. Schloss Juval hätte ohnehin Ruhetag.',
 }

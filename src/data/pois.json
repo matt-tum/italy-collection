@@ -27,16 +27,17 @@
     ],
     "weather": "beides",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "parking": "Parcheggio Giubileo (P2) oder Bagnaia (P1) außerhalb der Mauern, gebührenpflichtig. Innerhalb ist Sperrzone.",
     "bestTime": "Vor 10 Uhr oder ab 18 Uhr — dazwischen ist es voll.",
     "sources": [
       {
         "label": "Pro Loco San Gimignano",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.sangimignano.com/de/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "sg-dondoli",
@@ -110,15 +111,16 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "sources": [
       {
         "label": "Parco della Rocca e Rocca di Montestaffoli",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.sangimignanobooking.com/en/territory/parco-della-rocca-e-rocca-di-montestaffoli"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "sg-fonti",
@@ -189,15 +191,21 @@
     ],
     "weather": "indoor",
     "booking": "nein",
-    "hours": "Öffnungszeiten und Preise über die Pro Loco prüfen; sonntags eingeschränkt wegen der Gottesdienste.",
+    "hours": "1. April bis 31. Oktober 10–19.30 Uhr, letzter Einlass 19 Uhr. Als Pfarrkirche mit kurzfristigen Änderungen wegen Gottesdiensten — sonntags besonders.",
+    "price": "San Gimignano Pass (Duomo und Musei Civici zusammen): Erwachsene 15 €, 6–17 Jahre 12 €.",
     "sources": [
       {
-        "label": "Pro Loco San Gimignano",
-        "checked": "2026-09-07",
-        "url": "https://www.sangimignano.com/de/"
+        "label": "Duomo di San Gimignano, Orari",
+        "checked": "2026-09-11",
+        "url": "https://www.duomosangimignano.it/orari.htm"
+      },
+      {
+        "label": "Pro Loco, Orari e prezzi monumenti",
+        "checked": "2026-09-11",
+        "url": "https://www.sangimignano.com/it/informazioni-utili/orari-e-prezzi-monumenti/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "sg-torre-grossa",
@@ -228,14 +236,21 @@
     ],
     "weather": "beides",
     "booking": "nein",
+    "hours": "April bis Oktober etwa 9.30–19 Uhr, Einlass bis 30 Minuten vorher. Für Freitag bis Sonntag nennen die Quellen abweichend 10.30–17.30 Uhr — am selben Morgen prüfen.",
+    "price": "Im San Gimignano Pass enthalten: Erwachsene 15 €, 6–17 Jahre 12 €.",
     "sources": [
       {
-        "label": "Pro Loco San Gimignano",
-        "checked": "2026-09-07",
-        "url": "https://www.sangimignano.com/de/"
+        "label": "Pro Loco, Orari e prezzi monumenti",
+        "checked": "2026-09-11",
+        "url": "https://www.sangimignano.com/it/informazioni-utili/orari-e-prezzi-monumenti/"
+      },
+      {
+        "label": "Musei Civici, Besuch planen",
+        "checked": "2026-09-11",
+        "url": "https://sangimignanomusei.it/organizza-la-tua-visita/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "sg-1300",
@@ -306,16 +321,17 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "parking": "Schotterparkplatz an der SP47 neben San Donato.",
     "sources": [
       {
         "label": "Riserva naturale di Castelvecchio",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://sangimignano.eu/en/esplora/riserva-naturale-di-castelvecchio/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "poggio-alloro",
@@ -336,7 +352,7 @@
       "mittagessen"
     ],
     "short": "Biobauernhof mit Chianina-Rindern, Hühnern, Schweinen und Bienen. Nur mit Anmeldung.",
-    "why": "Der Hof gehört seit 1972 der Familie Fioroni, wird in vierter Generation geführt und ist der einzige zertifizierte Lehrbauernhof im Umkreis von San Gimignano. Es gibt Chianina-Rinder — die weißen Riesen, aus denen die Bistecca Fiorentina wird —, dazu Hühner, Kaninchen, Schweine und Bienen, außerdem Olivenhain und Weinberg. September ist Erntezeit, auf dem Hof passiert also tatsächlich etwas. Zwei Einschränkungen, die ihr vorher wissen solltet: Alles läuft nur mit Voranmeldung, und die didaktischen Programme sind laut Hof Schulklassen vorbehalten. Für euch bleibt die Hofführung mit anschließendem Essen — Kinder unter zwölf zahlen die Hälfte. Das ist der Ausflug, für den ihr direkt anrufen solltet.",
+    "why": "Der Hof gehört seit 1972 der Familie Fioroni, wird in vierter Generation geführt und liegt fünf Kilometer von San Gimignano in der Località Sant'Andrea. Es gibt Chianina-Rinder — die weißen Riesen, aus denen die Bistecca Fiorentina wird —, dazu Hühner, Kaninchen, Schweine und Bienen, außerdem Olivenhain und Weinberg; September ist Erntezeit, auf dem Hof passiert also tatsächlich etwas. Nachgeprüft: Hofführungen laufen von April bis Oktober täglich vormittags und nachmittags, die genauen Zeiten hängen an der Rezeption aus. Reservierung ist für alles Pflicht. Ein Detail, das ihr vorher wissen solltet: Gegessen wird an gemeinsamen Tischen mit festem Menü — das ist länger und förmlicher, als „Bauernhof“ klingt. Mit einem Zweijährigen ist die Führung der eigentliche Gewinn; beim Essen überlegt euch vorher, ob ihr notfalls früher aufsteht. Telefon +39 0577 950153.",
     "kid": {
       "rating": 3,
       "notes": "Tiere zum Anschauen, Hoffläche zum Laufen. Die Führung dauert aber ihre Zeit — vorher fragen, wie flexibel das ist.",
@@ -348,20 +364,22 @@
     ],
     "weather": "beides",
     "booking": "pflicht",
-    "price": "Führungen und Essen ca. 30-75 € p. P., Kinder unter 12 zum halben Preis.",
+    "hours": "Hofführungen April bis Oktober täglich, vormittags und nachmittags. Essen nur mit Reservierung.",
+    "price": "Führungen und Essen ca. 30–75 € p. P., Kinder unter 12 zum halben Preis.",
+    "parking": "Via Sant'Andrea 23, Hofparkplatz.",
     "sources": [
       {
-        "label": "Fattoria Poggio Alloro",
-        "checked": "2026-09-07",
-        "url": "https://fattoriapoggioalloro.com/"
+        "label": "Fattoria Poggio Alloro, Degustazioni e tour",
+        "checked": "2026-09-11",
+        "url": "http://fattoriapoggioalloro.com/attivita/degustazioni-e-tour/"
       },
       {
-        "label": "Fattorie didattiche, Hinweis Schulklassen",
-        "checked": "2026-09-07",
-        "url": "https://fattoriapoggioalloro.com/activities/fattorie-didattiche/?lang=en"
+        "label": "Poggio Alloro, Biodistretto San Gimignano",
+        "checked": "2026-09-11",
+        "url": "https://www.biodistrettosangimignano.it/fattoria-poggio-alloro/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "sg-camminamento",
@@ -393,15 +411,16 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "sources": [
       {
         "label": "Pro Loco San Gimignano",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.sangimignano.com/de/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "certaldo-alto",
@@ -420,7 +439,7 @@
       "museum"
     ],
     "short": "Backsteinstädtchen auf dem Hügel, Boccaccios Heimat — und eine Standseilbahn hinauf.",
-    "why": "Certaldo Alto ist San Gimignano ohne die Busse: dieselbe mittelalterliche Substanz, in warmem Backstein statt Stein, aber halb so viele Menschen. Der Clou für ein Kleinkind ist die Anfahrt — eine Standseilbahn fährt vom Unterdorf in gut zwei Minuten hinauf, was den steilen Anstieg erspart und für sich schon ein Erlebnis ist. Wichtig: Die Bahn war zwischenzeitlich wegen Wartungsarbeiten außer Betrieb, ersatzweise fuhr ein Bus. Das solltet ihr am selben Morgen prüfen, sonst steht ihr am Berg.",
+    "why": "Certaldo Alto ist San Gimignano ohne die Busse: dieselbe mittelalterliche Substanz, in warmem Backstein statt Stein, aber halb so viele Menschen. Der Clou für ein Kleinkind ist die Anfahrt — eine Standseilbahn fährt vom Unterdorf in gut zwei Minuten hinauf und erspart den steilen Anstieg. Nachgeprüft: Die Bahn war im Frühjahr 2026 wegen Wartung und Jahresabnahme mehrere Wochen außer Betrieb, mit Ersatzbus zwischen Via XX Settembre und Piazza SS. Annunziata; seit dem Frühjahr fährt sie wieder. Kurzfristige Ausfälle kommen aber weiter vor — im Zweifel unten nachsehen, der Ersatzbus fährt dann von 7.30 bis 19.30 Uhr.",
     "kid": {
       "rating": 2,
       "notes": "Die Bahnfahrt ist der Höhepunkt. Oben Kopfsteinpflaster, aber autofrei und übersichtlich.",
@@ -432,16 +451,22 @@
     ],
     "weather": "beides",
     "booking": "nein",
+    "hours": "Standseilbahn im Regelbetrieb, etwa alle 15 Minuten. Bei Wartung Ersatzbus 7.30–19.30 Uhr.",
     "price": "Standseilbahn ca. 1,70 € hin und zurück",
     "bestTime": "Betriebsstatus der Funicolare am Morgen prüfen.",
     "sources": [
       {
-        "label": "Funicolare di Certaldo",
-        "checked": "2026-09-07",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g528748-d11797444-Reviews-Funicolare_di_Certaldo-Certaldo_Tuscany.html"
+        "label": "Certaldo, Funicolare wieder in Betrieb",
+        "checked": "2026-09-11",
+        "url": "https://www.valdelsa.net/news/certaldo-riaperta-la-funicolare-116576"
+      },
+      {
+        "label": "Autolinee Toscane, Funicolare Certaldo",
+        "checked": "2026-09-11",
+        "url": "https://www.at-bus.it/it/linee-e-orari/funicolari-certaldo"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "volterra-altstadt",
@@ -473,16 +498,22 @@
     ],
     "weather": "beides",
     "booking": "nein",
-    "price": "Kombiticket für alle Museen; Kinder bis 6 frei.",
+    "hours": "9. März bis 15. November 2026 täglich 10–18.30 Uhr.",
+    "price": "Einzelticket 10 € pro Museum; Volterra Card 23 € für 7 Orte, 72 Stunden gültig. Bis 6 Jahre frei.",
     "parking": "Parkplätze außerhalb der Mauern, z. B. P. Docciola oder P. Vallebuona.",
     "sources": [
       {
-        "label": "Museen von Volterra",
-        "checked": "2026-09-07",
-        "url": "https://www.museidivolterra.com/de"
+        "label": "Musei di Volterra, Orari",
+        "checked": "2026-09-11",
+        "url": "https://volterratur.it/en/museums-hours/"
+      },
+      {
+        "label": "Pro Volterra, Orari musei",
+        "checked": "2026-09-11",
+        "url": "https://www.provolterra.it/orari-musei-volterra/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "volterra-balze",
@@ -512,15 +543,16 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "sources": [
       {
         "label": "Volterra, Überblick",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.italien.de/staedte/volterra"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "colle-val-elsa",
@@ -579,7 +611,7 @@
       "museum"
     ],
     "short": "570 Meter geschlossener Mauerring mit 14 Türmen. In zwanzig Minuten umrundet.",
-    "why": "Der komplette Mauerring steht noch, Dante hat ihn in der Göttlichen Komödie mit einem Kranz von Riesen verglichen. Innen liegt kaum mehr als ein Platz, eine Kirche und ein paar Häuser — das ist der Punkt: Monteriggioni ist klein genug, dass ein Zweijähriger es komplett erobern kann, ohne dass jemand quengelt. Für rund 5 Euro kommt man auf zwei Mauerabschnitte hinauf, im Preis ist ein kleines Museum enthalten. Eine gute halbe Stunde Aufenthalt, ideal als Zwischenstopp auf dem Weg nach oder von Siena.",
+    "why": "Der komplette Mauerring steht noch, Dante hat ihn in der Göttlichen Komödie mit einem Kranz von Riesen verglichen. Innen liegt kaum mehr als ein Platz, eine Kirche und ein paar Häuser — das ist der Punkt: Monteriggioni ist klein genug, dass ein Zweijähriger es komplett erobern kann. Zwei Dinge, die die Nachprüfung ergeben hat und die euren Plan betreffen: Der Mauerweg ist von Montag bis Mittwoch geschlossen, also an dreien eurer Toskana-Tage. Und es ist derzeit nur ein Teil des südlichen Wehrgangs begehbar. Der Ort selbst ist jederzeit frei zugänglich — für einen halbstündigen Stopp auf dem Weg nach Siena reicht das völlig.",
     "kid": {
       "rating": 2,
       "notes": "Winziger autofreier Ortskern zum Freilaufen. Auf dem Wehrgang sind die Treppen steil.",
@@ -591,16 +623,27 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
-    "price": "Mauerbesteigung inkl. Museum ca. 5 €; Parken ab ca. 3 €/Std.",
+    "hours": "Mauerweg und Museum: Donnerstag 11–13.30 und 14–17 Uhr, Freitag bis Sonntag 9.30–13.30 und 14–19.30 Uhr. Montag bis Mittwoch geschlossen. Derzeit nur der südliche Abschnitt offen.",
+    "closedDays": [
+      "Mo",
+      "Di",
+      "Mi"
+    ],
+    "price": "Mauerweg inkl. Museum 5 €, Familie 13,50 € (3 Personen) bzw. 15 € (4–5 Personen). Unter 8 Jahren frei.",
     "parking": "Parkplätze unterhalb der Mauer, u. a. Cipressino, ca. 250 m zum Tor.",
     "sources": [
       {
-        "label": "Castello di Monteriggioni",
-        "checked": "2026-09-07",
-        "url": "https://www.tripadvisor.com/Attraction_Review-g227886-d7912657-Reviews-Castello_Monteriggioni-Monteriggioni_Tuscany.html"
+        "label": "Comune di Monteriggioni, Öffnungen Mauerweg",
+        "checked": "2026-09-11",
+        "url": "https://www.comune.monteriggioni.si.it/it-it/vivere-il-comune/eventi/prossime-aperture-museo-e-camminamenti-sulle-mura-77205-1-62ea7ca05ba866edd03e84fea476d5d2"
+      },
+      {
+        "label": "Monteriggioni Turismo, Camminamenti",
+        "checked": "2026-09-11",
+        "url": "https://www.monteriggioniturismo.it/it/cosa-vedere/monteriggioni/camminamenti-e-percorso-didattico-monteriggioni-in-arme"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "poggibonsi-fortezza",
@@ -878,18 +921,20 @@
     ],
     "weather": "indoor",
     "booking": "nein",
+    "hours": "Täglich 9.30–19 Uhr, Kassenschluss 18.15 Uhr.",
+    "price": "Museo Leonardiano 10 € (Palazzina Uzielli, Castello dei Conti Guidi und Sektion „Leonardo und die Malerei“); ermäßigt ab 6 Jahren.",
     "sources": [
       {
-        "label": "Vinci, Überblick",
-        "checked": "2026-09-07",
-        "url": "https://www.italien.de/staedte/volterra"
+        "label": "Museo Leonardiano Vinci, Orari e biglietti",
+        "checked": "2026-09-11",
+        "url": "https://museoleonardiano.it/en/plan-your-visit/opening-hours-and-tickets/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "bagno-vignoni",
-    "name": "Bagno Vignoni und Parco dei Mulini",
+    "name": "Bagno Vignoni — Thermalbecken als Dorfplatz",
     "base": "toscana",
     "town": "San Quirico d'Orcia",
     "lat": 43.03,
@@ -897,36 +942,42 @@
     "coordsExact": true,
     "driveMinutes": 85,
     "categories": [
-      "natur",
-      "kind"
+      "kultur",
+      "natur"
     ],
     "tags": [
       "wasser",
-      "therme"
+      "therme",
+      "aussicht"
     ],
-    "short": "Dorfplatz als dampfendes Thermalbecken, darunter freie heiße Quellen im Mühlenpark.",
-    "why": "Bagno Vignoni hat statt einer Piazza ein großes, dampfendes Wasserbecken mitten im Ort — man darf nicht hinein, aber das Bild ist einzigartig. Baden kann man unterhalb, im Parco dei Mulini: Dort fließt das heiße Wasser an alten Mühlen vorbei in natürlich geformte Becken, kostenlos und ohne Anmeldung. Warmes Wasser ist mit einem Zweijährigen das verlässlichste Programm überhaupt. Zwei Einschränkungen, ehrlich gesagt: Die Fahrt dauert gut anderthalb Stunden pro Richtung, das ist ein ganzer Tag. Und die Badeerlaubnis in den einzelnen Becken wurde in der Vergangenheit mehrfach eingeschränkt — vor Ort auf die Beschilderung achten. Handtücher, Badeschuhe und Wechselsachen gehören ins Auto.",
+    "short": "Der Dorfplatz ist ein dampfendes Wasserbecken. Baden ist allerdings verboten.",
+    "why": "Korrektur gegenüber der ersten Fassung: Baden geht hier nicht. Bagno Vignoni hat statt einer Piazza ein großes, dampfendes Thermalbecken mitten im Ort — ein einzigartiges Bild, aber seit einer Gemeindeverordnung von 2010 ist das Baden im Parco dei Mulini unterhalb untersagt, ein Netz sperrt das Becken ab, und Verstöße kosten 25 bis 500 Euro. Geblieben sind kleine Wasserfälle und Rinnsale, in die man die Füße hält. Als Ausflug mit Handtüchern und Badesachen wäre das eine vergeudete Anderthalb-Stunden-Fahrt. Als Sehenswürdigkeit im Val d'Orcia lohnt es weiterhin. Wer wirklich frei in warmem Wasser sitzen will, fährt zu den Bagni San Filippo, nochmals rund 20 Minuten weiter — damit aber außerhalb eures 1,5-Stunden-Radius. Die bequemere Alternative im Radius sind die Terme di Rapolano.",
     "kid": {
-      "rating": 3,
-      "notes": "Warmes Wasser, flache Becken, keine Öffnungszeiten. Untergrund ist rutschiger Sinterstein — Badeschuhe.",
+      "rating": 1,
+      "notes": "Kein Baden erlaubt. Für ein Kleinkind bleibt Füße ins warme Rinnsal halten — wenig für anderthalb Stunden Fahrt.",
       "stroller": "schwierig"
     },
     "stayMinutes": [
-      90,
-      180
+      45,
+      90
     ],
     "weather": "outdoor",
     "booking": "nein",
     "price": "frei",
-    "bestTime": "Früh oder spät; mittags ist der Parkplatz voll.",
+    "bestTime": "Morgens, wenn das Becken am stärksten dampft.",
     "sources": [
       {
-        "label": "Bagno Vignoni, freie Thermen",
-        "checked": "2026-09-07",
-        "url": "https://www.twtravel.de/italien/toskana/bagno-vignoni-thermalbad.html"
+        "label": "Gemeindeverordnung, Badeverbot Bagno Vignoni",
+        "checked": "2026-09-11",
+        "url": "http://www.bagnovignoni-terme.net/terme-libere/ordinanza-comunale-balneazione.html"
+      },
+      {
+        "label": "Parco dei Mulini, Zugang und Verbot",
+        "checked": "2026-09-11",
+        "url": "https://www.gogoterme.com/en/free-spa/italy/tuscany/free-thermal-baths-of-bagno-vignoni-park-of-the-mills/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "pisa-miracoli",
@@ -1191,7 +1242,7 @@
       "abendessen"
     ],
     "short": "Dorffest rund um Pilze — 2026 am 3.-6. und 10.-13. September. Endet an eurem Anreisetag.",
-    "why": "Sagre sind das Gegenteil von Restaurantbesuch: lange Tische im Freien, Pappteller, Dorfbewohner am Herd, Kinder rennen zwischen den Bänken. Genau die Konstellation, die ihr sucht. Die Sagra del Fungo in Pievescola ist eine der bekannteren der Provinz Siena und läuft 2026 in zwei Blöcken, der zweite vom 10. bis 13. September. Das heißt: Sie endet genau an eurem Anreisetag. Nach einer Nachtfahrt aus Mainz ist das ambitioniert, aber falls ihr früh genug ankommt und noch Kraft habt, wäre es ein sehr guter erster Abend. Termine vorher telefonisch oder über den lokalen Veranstaltungskalender gegenprüfen — Sagre verschieben sich.",
+    "why": "Sagre sind das Gegenteil von Restaurantbesuch: lange Tische im Freien, Pappteller, Dorfbewohner am Herd, Kinder rennen zwischen den Bänken. Genau die Konstellation, die ihr sucht. Nachgeprüft: Die 51. Sagra del Fungo in Pievescola läuft 2026 vom 3. bis 6. und vom 10. bis 13. September, jeweils abends. Der 13. September ist der letzte Abend — und damit euer Anreisetag. Nach einer Nachtfahrt aus Mainz ist das ambitioniert, aber wenn ihr am Nachmittag ankommt und noch Luft habt, wäre es ein sehr guter erster Abend: 35 Minuten Fahrt, kein Tisch zu reservieren, niemand stört sich an einem Zweijährigen. Die genaue Anfangszeit steht nicht verlässlich online — im Zweifel gegen 19 Uhr da sein.",
     "kid": {
       "rating": 3,
       "notes": "Draußen, laut, unkompliziert. Niemand stört sich an einem Zweijährigen.",
@@ -1203,18 +1254,23 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
-    "hours": "2026 am 3.-6. und 10.-13. September, abends.",
+    "hours": "51. Auflage 2026: 3.–6. und 10.–13. September, abends. Der 13. ist der letzte Abend.",
     "dates": [
       "2026-09-13"
     ],
     "sources": [
       {
-        "label": "Sagre in Provincia di Siena",
-        "checked": "2026-09-07",
-        "url": "https://www.sagretoscane.com/sagre/si/"
+        "label": "Sagra del Fungo Pievescola, 51. Auflage",
+        "checked": "2026-09-11",
+        "url": "https://www.solosagre.it/sagre/toscana/si/casole-d-elsa/48-sagra-del-fungo-a-pievescola.html"
+      },
+      {
+        "label": "Sagra del fungo 2026 a Pievescola",
+        "checked": "2026-09-11",
+        "url": "https://www.tempoliberotoscana.it/event/sagra-del-fungo-2026-a-pievescola/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "castellina-volte",
@@ -1246,14 +1302,15 @@
     ],
     "weather": "beides",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "sources": [
       {
         "label": "Chianti, Überblick",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.italien.de/staedte/volterra"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "lat-waalweg",
@@ -1286,15 +1343,16 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei; Rückfahrt mit der Vinschger Bahn",
     "sources": [
       {
         "label": "Latschander Waalweg, Vinschgau",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.vinschgau.net/de/latsch-martelltal/aktivurlaub/wandern-bergtouren/waalwege/121146705-latschander-waalweg.html/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "lat-seilbahn",
@@ -1327,20 +1385,20 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
-    "hours": "Ganzjährig in Betrieb; Fahrplan für Ende September prüfen.",
+    "hours": "Ganzjährig in Betrieb, im Sommer etwa halbstündlich, Fahrzeit 7–8 Minuten. Die Sommersaison der Latscher Bergbahnen läuft bis etwa 19./20. Oktober.",
     "sources": [
       {
-        "label": "Seilbahn St. Martin, Betriebszeiten",
-        "checked": "2026-09-07",
+        "label": "Bergbahnen Latsch, Betriebszeiten Seilbahn",
+        "checked": "2026-09-11",
         "url": "https://bergbahnen-latsch.com/en/cableway-san-martino/operating-hours"
       },
       {
         "label": "Barrierefreiheit der Seilbahn",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.suedtirolfueralle.it/de/seilbahn_latsch__st_martin_im_kofel"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "lat-tarscher-alm",
@@ -1374,15 +1432,15 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
-    "hours": "Sommerbetrieb etwa Mitte Mai bis Mitte/Ende Oktober.",
+    "hours": "Sommerbetrieb etwa Mitte Mai bis 19./20. Oktober. Ende September also im Betrieb — Tagesfahrplan trotzdem vorher prüfen.",
     "sources": [
       {
-        "label": "Sessellift Tarscher Alm, Betriebszeiten",
-        "checked": "2026-09-07",
+        "label": "Bergbahnen Latsch, Betriebszeiten Sessellift",
+        "checked": "2026-09-11",
         "url": "https://bergbahnen-latsch.com/en/chairlift-malga-di-tarres/operating-hours"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "lat-aquaforum",
@@ -1401,7 +1459,7 @@
       "schlechtwetter"
     ],
     "short": "Hallenbad mit Solebecken und Freibereich, drei Minuten vom Hotel.",
-    "why": "Das ist eure Regenversicherung und die Antwort auf 'heute reicht es allen'. Ein normales, gut gemachtes Erlebnisbad mitten im Ort, mit Solebecken, Whirlpool und Liegen im Freien, dazu ein Saunabereich für die Erwachsenenhälfte des Tages. Nichts Spektakuläres — aber wenn ihr an einem verregneten Vormittag drei Minuten fahrt statt vierzig, ist genau das der Punkt. Öffnungszeiten variieren saisonal, kurz nachsehen lohnt sich.",
+    "why": "Eure Regenversicherung und die Antwort auf „heute reicht es allen“ — mit einer Einschränkung, die die Nachprüfung ergeben hat: Ab September ist Montag Ruhetag, und unter der Woche öffnet das Bad erst um 14.30 Uhr. Als Vormittagsprogramm fällt es damit aus. Danach ist es genau richtig: Kinderbecken mit Wasserpilz und Wasserigel, Solebecken und Whirlpool für euch, Liegen im Freien, Saunabereich. Drei Minuten vom Hotel, Marktstraße 48.",
     "kid": {
       "rating": 3,
       "notes": "Warmes Wasser, kurze Anfahrt, wetterunabhängig.",
@@ -1413,14 +1471,24 @@
     ],
     "weather": "indoor",
     "booking": "nein",
+    "hours": "Ab September: Di–Fr 14.30–21.30 Uhr, Sa 13.30–21.30 Uhr, So 10–21.30 Uhr. Montag Ruhetag.",
+    "closedDays": [
+      "Mo"
+    ],
+    "price": "Familienticket 29,80 € für zwei Erwachsene und bis zu zwei Kinder; Stundenkarte ab 7,10 €.",
     "sources": [
       {
-        "label": "Familienurlaub Latsch-Martelltal",
-        "checked": "2026-09-07",
-        "url": "https://www.vinschgau.net/de/latsch-martelltal/aktivurlaub/sport-freizeit/familienurlaub.html"
+        "label": "AquaForum Latsch, Öffnungszeiten",
+        "checked": "2026-09-11",
+        "url": "https://www.vivalatsch.it/de/aquaforum/oeffnungszeiten"
+      },
+      {
+        "label": "AquaForum Latsch, Preise",
+        "checked": "2026-09-11",
+        "url": "https://www.vivalatsch.it/de/aquaforum/preise"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "lat-iceforum",
@@ -1515,7 +1583,7 @@
       "schlechtwetter"
     ],
     "short": "Regionalzug durchs ganze Tal — stufenloser Einstieg, große Fenster, keine Parkplatzsuche.",
-    "why": "Die Vinschger Bahn fährt auf 60 Kilometern zwischen Mals und Meran und hält 18 Mal, unter anderem in Latsch. Alle Bahnsteige sind erhöht, der Einstieg ist stufenlos — mit Buggy steigt man einfach ein. Nach der großen Sanierung ist die Strecke seit dem 28. März 2026 wieder durchgehend in Betrieb. Zwei gute Verwendungen: als Rückfahrt nach einer Waalwanderung, und als eigenständiges Programm an einem Tag, an dem niemand Lust auf Auto hat — für ein Kleinkind ist eine Zugfahrt mit Panoramafenstern ein vollwertiger Ausflug. Aktuellen Fahrplan über suedtirolmobil prüfen.",
+    "why": "Die Vinschger Bahn fährt zwischen Mals und Meran und hält 18 Mal, unter anderem in Latsch. Alle Bahnsteige sind erhöht, der Einstieg ist stufenlos — mit Buggy steigt man einfach ein. Nachgeprüft, mit einer Einschränkung: Nach der Elektrifizierung fährt der Abschnitt Meran–Laas im Stundentakt, auf dem oberen Stück Laas–Mals seit Juni 2026 nur sieben Zugpaare am Tag, und auf der Gesamtstrecke sind weiterhin Ersatzbusse der Linie B250 unterwegs. Für euch ist das gutmütig: Latsch und Kastelbell liegen beide im stündlich bedienten Abschnitt, also funktioniert die Rückfahrt vom Latschander Waalweg. Für eine Fahrt bis Mals lohnt der Blick in den Tagesfahrplan auf suedtirolmobil.",
     "kid": {
       "rating": 3,
       "notes": "Stufenloser Einstieg, Panoramafenster, jederzeit aussteigen. Zugfahren ist in diesem Alter Selbstzweck.",
@@ -1527,15 +1595,16 @@
     ],
     "weather": "beides",
     "booking": "nein",
+    "hours": "Abschnitt Meran–Laas im Stundentakt; Laas–Mals sieben Zugpaare täglich. Ersatzbusse B250 ergänzen die Strecke.",
     "sources": [
       {
-        "label": "Vinschger Bahn, Betriebsstatus",
-        "checked": "2026-09-07",
-        "url": "https://www.suedtirolmobil.info/de/news/sperren/faq-vinschgau"
+        "label": "suedtirolmobil, Vinschger Bahn kehrt zurück",
+        "checked": "2026-09-11",
+        "url": "https://www.suedtirolmobil.info/de/news/details/vinschger-bahn-kehrt-schrittweise-zurueck"
       },
       {
         "label": "Barrierefreiheit Vinschger Bahn",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.altoadigepertutti.it/de/vinschgerbahn"
       }
     ],
@@ -1569,14 +1638,15 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "sources": [
       {
         "label": "Marmor Erlebnisführungen Laas",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.marmorplus.it/marmor-erlebnistour/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "lat-obstwiesen",
@@ -1607,15 +1677,16 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "sources": [
       {
         "label": "Apfelernte in Südtirol, Roter Hahn",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.roterhahn.it/de/urlaub-auf-dem-bauernhof/urlaubszeiten/herbst/ernte"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "lat-paarl",
@@ -1964,14 +2035,15 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "sources": [
       {
         "label": "Glurns und Vinschgau",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.vinschgau.net/en/food-wine/venostan-cuisine/delights-in-autumn/toerggelen.html"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "marienberg",
@@ -1992,7 +2064,7 @@
       "aussicht"
     ],
     "short": "Höchstgelegene Benediktinerabtei Europas, weiß über den Wiesen von Burgeis.",
-    "why": "Marienberg liegt auf gut 1330 Metern und ist die höchstgelegene Benediktinerabtei Europas. Der Anblick von unten — ein weißer Klosterblock über grünen Hängen — ist die halbe Miete; im Museum geht es um das Leben der Mönche, und in der Krypta liegen romanische Fresken aus dem 12. Jahrhundert. Mit Kleinkind: der Außenbereich und der Blick lohnen sich in jedem Fall und kosten nichts. Ob ihr das Museum dazunehmt, entscheidet die Tagesform. Ruhetage und Öffnungszeiten vorher prüfen.",
+    "why": "Marienberg liegt auf gut 1330 Metern und ist die höchstgelegene Benediktinerabtei Europas. Der Anblick von unten — ein weißer Klosterblock über grünen Hängen — ist die halbe Miete und kostet nichts. Das Museum „ora et labora“ erzählt vom Leben der Mönche. Nachgeprüft und für euch wichtig: Geöffnet ist es von Mitte März bis Ende Oktober montags bis samstags 10–17 Uhr — sonntags geschlossen. Damit ist Marienberg ausgerechnet an eurem Montag, dem 21. September, offen, an dem aquaprad, die Churburg, das AquaForum und das Ötzi-Museum alle Ruhetag haben. Die romanische Krypta ist nur in einer Führung zugänglich, und die muss bis 12 Uhr am Vortag reserviert werden, +39 0473 843980.",
     "kid": {
       "rating": 1,
       "notes": "Draußen gut, drinnen still und dunkel. Der Blick lohnt auch ohne Eintritt.",
@@ -2003,15 +2075,24 @@
       120
     ],
     "weather": "beides",
-    "booking": "nein",
+    "booking": "empfohlen",
+    "hours": "15. März bis 31. Oktober, Montag bis Samstag 10–17 Uhr. Sonntags geschlossen. Krypta nur mit Führung, Reservierung bis 12 Uhr am Vortag.",
+    "closedDays": [
+      "So"
+    ],
     "sources": [
       {
-        "label": "Vinschgau, Kultur und Sehenswürdigkeiten",
-        "checked": "2026-09-07",
-        "url": "https://www.vinschgau.net/en/schnalstal-valley/nature-culture-art/region-people/transhumance.html"
+        "label": "Benediktinerstift Marienberg, Besucherinfos",
+        "checked": "2026-09-11",
+        "url": "https://www.marienberg.it/en/info/info-s-for-our-visitors.html"
+      },
+      {
+        "label": "Klostermuseum ora et labora",
+        "checked": "2026-09-11",
+        "url": "https://www.suedtirolerland.it/en/highlights/museums-and-exhibitions/ora-et-labora-monastery-museum/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "reschensee",
@@ -2045,15 +2126,16 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "sources": [
       {
         "label": "Reschensee, Rundweg und Kirchturm",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.vivosuedtirol.com/seen/reschensee/"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "mmm-juval",
@@ -2176,15 +2258,16 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "sources": [
       {
         "label": "Meran, Sehenswürdigkeiten",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.merano-suedtirol.it/en/merano/city-culture/places-of-interest/the-gardens-of-trauttmansdorff-castle.html"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "martelltal",
@@ -2216,15 +2299,16 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "sources": [
       {
         "label": "Familienurlaub Latsch-Martelltal",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.vinschgau.net/de/latsch-martelltal/aktivurlaub/sport-freizeit/familienurlaub.html"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "toerggelen-hinweis",
@@ -2328,7 +2412,7 @@
       "schlechtwetter"
     ],
     "short": "Karolingische Fresken aus dem 8. Jahrhundert in einer winzigen Kirche.",
-    "why": "Die Prokuluskirche bei Naturns ist von außen ein unscheinbarer weißer Kasten und innen eine der wichtigsten frühmittelalterlichen Fresken-Ensembles im Alpenraum: Wandmalereien aus dem 8. Jahrhundert, darunter der berühmte 'Schaukler'. Das zugehörige unterirdische Museum erzählt in vier Zeitschichten die Geschichte des Ortes, unter anderem über die Pest. Der Besuch ist kurz — und das ist der Vorteil. Öffnungszeiten und Ruhetag vorher prüfen, das Haus hat eingeschränkte Zeiten.",
+    "why": "Die Prokuluskirche bei Naturns ist von außen ein unscheinbarer weißer Kasten und innen eines der bedeutendsten frühmittelalterlichen Freskenensembles im Alpenraum: Wandmalereien aus dem 8. Jahrhundert, darunter der berühmte „Schaukler“. Das zugehörige unterirdische Museum erzählt in vier Zeitschichten die Geschichte des Ortes. Entscheidend fürs Planen: Geöffnet ist von Ende März bis Ende Oktober nur dienstags, donnerstags und sonntags, jeweils 10–12.30 und 14.30–17.30 Uhr. In eurem Fenster bleiben damit Sonntag, der 20., und Dienstag, der 22. — und der Dienstag gehört eigentlich dem archeoParc. Der Besuch ist kurz, und das ist in diesem Alter der Vorteil.",
     "kid": {
       "rating": 1,
       "notes": "Sehr klein, sehr still. Zwanzig Minuten sind das Maximum in diesem Alter.",
@@ -2340,14 +2424,21 @@
     ],
     "weather": "indoor",
     "booking": "nein",
+    "hours": "24. März bis 29. Oktober 2026, nur Dienstag, Donnerstag und Sonntag 10–12.30 und 14.30–17.30 Uhr.",
+    "closedDays": [
+      "Mo",
+      "Mi",
+      "Fr",
+      "Sa"
+    ],
     "sources": [
       {
-        "label": "Naturns und Umgebung",
-        "checked": "2026-09-07",
-        "url": "https://www.meranerland.org/en/highlights/museums-and-exhibitions/mmm-juval/"
+        "label": "St. Prokulus, Besucherinformation",
+        "checked": "2026-09-11",
+        "url": "https://www.merano-suedtirol.it/en/the-st-proculus-church-museum/visitor-information.html"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "bozen-oetzi",
@@ -2378,14 +2469,19 @@
     ],
     "weather": "indoor",
     "booking": "pflicht",
+    "hours": "Dienstag bis Sonntag 10–18 Uhr, letzter Einlass 17.30 Uhr. Montag Ruhetag (außer an Feiertagen sowie im Juli und August).",
+    "closedDays": [
+      "Mo"
+    ],
+    "price": "Kinder frei.",
     "sources": [
       {
-        "label": "Südtiroler Museen, Überblick",
-        "checked": "2026-09-07",
-        "url": "https://www.suedtirol-kompakt.com/archeoparc-schnalstal/"
+        "label": "Südtiroler Archäologiemuseum, Öffnungszeiten und Preise",
+        "checked": "2026-09-11",
+        "url": "https://www.iceman.it/en/the-museum/opening-times-and-fees"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "st-martin-hofschank",
@@ -2620,10 +2716,10 @@
       "wasser"
     ],
     "short": "Zwei Thermalbäder mit Außenbecken, Quellwasser um 39 Grad.",
-    "why": "Östlich von Siena liegen zwei größere Thermalanlagen nebeneinander: die Antica Querciolaia mit sechs Außen- und zwei Innenbecken in einem weitläufigen Park, und San Giovanni mit fünf Becken, gespeist von einer 39 Grad warmen Quelle. Anders als die freien Quellen im Orcia-Tal gibt es hier Liegen, Umkleiden, Gastronomie und flache Bereiche — mit einem Zweijährigen der deutlich bequemere Weg zu warmem Wasser. Preise und Zeiten schwanken saisonal und nach Wochentag stark; vor der Fahrt die aktuelle Preisliste prüfen und nachfragen, welche Becken für Kleinkinder freigegeben sind — bei Thermalwasser gibt es oft Altersbeschränkungen.",
+    "why": "Östlich von Siena liegen zwei größere Thermalanlagen nebeneinander: die Antica Querciolaia mit sechs Außenbecken in einem weitläufigen Park und zwei Innenbecken, und San Giovanni mit fünf Becken aus einer 39 Grad warmen Quelle. Anders als in Bagno Vignoni, wo Baden verboten ist, darf man hier tatsächlich ins Wasser, und es gibt Liegen, Umkleiden und Gastronomie — mit einem Zweijährigen der deutlich bequemere Weg zu warmem Wasser. Die Becken reichen von unter 32 bis über 39 Grad; für ein Kleinkind sind nur die kühleren geeignet. Was ich nicht klären konnte: ob es eine Altersuntergrenze gibt. Thermalbäder haben oft eine — vor der Fahrt kurz anrufen, +39 0577 724091. Zwei Stunden Auto hin und zurück wären sonst verschenkt.",
     "kid": {
       "rating": 2,
-      "notes": "Warmes Wasser mit Infrastruktur. Vorher klären, welche Becken für Kleinkinder erlaubt sind.",
+      "notes": "Warmes Wasser mit Infrastruktur. Heiße Becken sind für Kleinkinder nichts — vorher telefonisch klären, ob und wo sie hineindürfen.",
       "stroller": "ja"
     },
     "stayMinutes": [
@@ -2632,20 +2728,20 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
-    "hours": "Richtwert Mo-Fr 9-20 Uhr, Sa bis spät, So 9-20 Uhr — vor der Fahrt bestätigen.",
+    "hours": "Antica Querciolaia: Mo–Fr 9–19 Uhr, Sa 9–1 Uhr, So 9–20 Uhr. Sechs Außenbecken, Wassertemperaturen von unter 32 bis über 39 Grad.",
     "sources": [
       {
-        "label": "Terme di Rapolano, Überblick",
-        "checked": "2026-09-07",
-        "url": "https://norcenni.huopenair.com/it/esperienze/rapolano-terme"
+        "label": "Terme Antica Querciolaia, Visit Tuscany",
+        "checked": "2026-09-11",
+        "url": "https://www.visittuscany.com/en/attractions/antica-querciolaia-thermal-baths-in-rapolano/"
       },
       {
-        "label": "Antica Querciolaia, Visit Tuscany",
-        "checked": "2026-09-07",
-        "url": "https://www.visittuscany.com/en/attractions/antica-querciolaia-thermal-baths-in-rapolano/"
+        "label": "Terme di Rapolano, Überblick",
+        "checked": "2026-09-11",
+        "url": "https://norcenni.huopenair.com/it/esperienze/rapolano-terme"
       }
     ],
-    "verified": false
+    "verified": true
   },
   {
     "id": "sg-porta-fonti-spielplatz",
@@ -2675,14 +2771,15 @@
     ],
     "weather": "outdoor",
     "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
     "price": "frei",
     "sources": [
       {
         "label": "Parco della Rocca, Kinderbereich",
-        "checked": "2026-09-07",
+        "checked": "2026-09-11",
         "url": "https://www.sangimignanobooking.com/en/territory/parco-della-rocca-e-rocca-di-montestaffoli"
       }
     ],
-    "verified": false
+    "verified": true
   }
 ]
