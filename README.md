@@ -135,14 +135,29 @@ Suche nach Name und Ort los, statt einen falschen Punkt anzusteuern.
 
 ## Stand
 
-65 Ziele — 33 Toskana, 32 Vinschgau. 46 davon geprüft: entweder mit belegten
+82 Ziele — 43 Toskana, 39 Vinschgau. 57 davon geprüft: entweder mit belegten
 Öffnungszeiten, Ruhetagen und Preisen, oder — bei Plätzen, Waalwegen und
 Aussichtspunkten — mit dem Beleg, dass sie frei und ohne Öffnungszeiten
 zugänglich sind.
 
-Die 19 offenen Einträge sind überwiegend Orte ohne zeitkritische Angaben
-(Eisdiele, Gassen, Almhütte) oder Großstädte, deren Zeiten je nach Museum
-auseinandergehen.
+Die 25 offenen Einträge sind überwiegend Orte ohne zeitkritische Angaben
+(Eisdiele, Gassen, Almhütte), kleine Familienbetriebe ohne feste
+Öffnungszeiten oder Großstädte, deren Zeiten je nach Museum auseinandergehen.
+
+Der dritte Durchgang hat die drei dünnsten Bereiche verbreitert:
+
+- **Drinnen, auch ohne Kinderbezug:** Galleria Continua in San Gimignano
+  (international bedeutende Gegenwartskunst im alten Stadtkino, Eintritt frei),
+  Santa Maria della Scala in Siena, Museo del Cristallo in Colle, Casa
+  Boccaccio in Certaldo, Kloster Müstair in der Schweiz mit dem größten
+  erhaltenen Freskenzyklus des Frühmittelalters, Vintschger Museum Schluderns.
+- **Essen & Trinken:** Osteria delle Catene in San Gimignano, die Weingüter
+  Il Palagione und Panizzi, der Bierkeller Latsch, Bäckerei Psenner, Gasthof
+  Waldheim im Martelltal, die Weinberge von Kastelbell-Tschars.
+- **Natur:** SentierElsa bei Colle mit türkisfarbenen Badegumpen, Riserva
+  Berignone bei Volterra mit Flussfurten zum Baden, ein Stück Via Francigena
+  ab San Gimignano, der Plima-Schluchtenweg im Martelltal, das Ganglegg über
+  Schluderns.
 
 Offen:
 

@@ -1689,45 +1689,6 @@
     "verified": true
   },
   {
-    "id": "lat-paarl",
-    "name": "Vinschger Paarl beim Bäcker",
-    "base": "suedtirol",
-    "town": "Latsch",
-    "lat": 46.6165,
-    "lng": 10.863,
-    "coordsExact": false,
-    "driveMinutes": 3,
-    "categories": [
-      "essen"
-    ],
-    "tags": [
-      "fruehstueck",
-      "zum-mitnehmen",
-      "handwerk"
-    ],
-    "short": "Das flache Doppelbrot mit Roggen, Fenchel und Brotklee — die Spezialität des Tals.",
-    "why": "Vinschger Paarl ist kein Souvenirbrot, sondern das Alltagsbrot dieses Tals: flach, dunkel, aus Roggen, gewürzt mit Fenchel, Kümmel und Brotklee, immer als verwachsenes Paar gebacken. Frisch beim Bäcker im Ort gekauft, mit Speck und Käse vom Hofladen, ist das eure unkomplizierteste Mahlzeit — für die Wanderung, für den Waalweg, für den Zug. Genau die Sorte 'besonders essen', bei der niemand zwei Stunden sitzen muss.",
-    "kid": {
-      "rating": 3,
-      "notes": "Brot in die Hand, fertig. Kein Sitzen, keine Wartezeit.",
-      "stroller": "ja"
-    },
-    "stayMinutes": [
-      10,
-      20
-    ],
-    "weather": "beides",
-    "booking": "nein",
-    "sources": [
-      {
-        "label": "Vinschger Küche und Herbstgenuss",
-        "checked": "2026-09-07",
-        "url": "https://www.vinschgau.net/en/food-wine/venostan-cuisine/delights-in-autumn/toerggelen.html"
-      }
-    ],
-    "verified": false
-  },
-  {
     "id": "trauttmansdorff",
     "name": "Die Gärten von Schloss Trauttmansdorff",
     "base": "suedtirol",
@@ -2781,5 +2742,818 @@
       }
     ],
     "verified": true
+  },
+  {
+    "id": "galleria-continua",
+    "name": "Galleria Continua",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.467,
+    "lng": 11.044,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "schlechtwetter"
+    ],
+    "short": "Weltklasse-Galerie für Gegenwartskunst im alten Stadtkino — mitten in der Türmestadt.",
+    "why": "Der überraschendste Ort in San Gimignano und ausdrücklich kein Kinderprogramm: Seit 1990 betreibt die Galleria Continua im ehemaligen Stadtkino eine der international bedeutendsten Galerien für Gegenwartskunst — dieselbe Adresse, die Dependancen in Peking, Paris und Havanna hat. Man betritt einen mittelalterlichen Ort und steht plötzlich in einem Kinosaal mit Rängen, Bühne und Großinstallationen. Der Eintritt ist wie bei Galerien üblich frei, geöffnet ist täglich 10–13 und 14–19 Uhr, Via del Castello 11. Für euch praktisch: Es ist groß, hallenartig und leer — ein Zweijähriger kann darin laufen, ohne dass jemand nervös wird, was in keinem Museum der Stadt gilt. Zwanzig Minuten, und ihr habt etwas gesehen, das sonst keiner eurer Mitreisenden gesehen hat.",
+    "kid": {
+      "rating": 2,
+      "notes": "Große, leere Räume statt Vitrinen — es lässt sich darin laufen. Installationen aber nicht anfassen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      20,
+      60
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Täglich 10–13 und 14–19 Uhr. An nationalen Feiertagen geschlossen.",
+    "price": "Eintritt frei",
+    "sources": [
+      {
+        "label": "Galleria Continua, Kontakt und Zeiten",
+        "checked": "2026-09-11",
+        "url": "https://www.galleriacontinua.com/contacts"
+      },
+      {
+        "label": "Galleria Continua San Gimignano, Besucherinfo",
+        "checked": "2026-09-11",
+        "url": "https://whichmuseum.com/museum/galleria-continua-san-gimignano-39618/opening-hours"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "siena-smscala",
+    "name": "Santa Maria della Scala",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.3175,
+    "lng": 11.3285,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "kultur",
+      "kind"
+    ],
+    "tags": [
+      "museum",
+      "schlechtwetter"
+    ],
+    "short": "Tausendjähriges Pilgerhospital gegenüber dem Dom — Freskensäle, Grabungstunnel, Kindermuseum.",
+    "why": "Wenn ihr in Siena nur einen Innenraum betretet, dann diesen und nicht den Dom. Santa Maria della Scala war über tausend Jahre Hospital für Pilger auf der Via Francigena und ist heute ein Museumskomplex über vier Ebenen. Oben der Pellegrinaio, ein Saal, den Domenico di Bartolo 1440–43 mit Szenen aus dem Krankenhausalltag ausgemalt hat — Ärzte bei der Visite, Findelkinder, Krankenpflege, statt der üblichen Heiligen. Darunter führen Tunnel durch die Grabungen und das Archäologische Museum. Und dann das Argument, das diesen Ort für euch einzigartig macht: Im selben Haus sitzt seit 1998 das Museo d'Arte per Bambini mit eigenen Mitmachbereichen. Einer schaut die Fresken, einer geht mit dem Kind eine Etage tiefer — und man muss dafür nicht auf die Straße. Kombiticket mit dem Museo Civico 13 €.",
+    "kid": {
+      "rating": 2,
+      "notes": "Kindermuseum im selben Haus, dazu weite Gänge und Tunnel. Deutlich besser als Dom oder Pinakothek.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "price": "Kombiticket mit Museo Civico 13 €, 48 Stunden gültig; Familienkarte 40 €.",
+    "parking": "Parkhaus Santa Caterina, dann Rolltreppe.",
+    "sources": [
+      {
+        "label": "Santa Maria della Scala, offizielle Seite",
+        "checked": "2026-09-11",
+        "url": "https://www.santamariadellascala.com/en"
+      },
+      {
+        "label": "Komplex und Kindermuseum",
+        "checked": "2026-09-11",
+        "url": "https://www.enjoysiena.it/de/attrattore/Museumskomplex-Santa-Maria-della-Scala/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "colle-cristallo",
+    "name": "Museo del Cristallo",
+    "base": "toscana",
+    "town": "Colle di Val d'Elsa",
+    "lat": 43.423,
+    "lng": 11.123,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "handwerk",
+      "schlechtwetter"
+    ],
+    "short": "Bleikristall aus 15 Jahrhunderten Handwerk — in einer alten Fabrikhalle. Mo und Mi zu.",
+    "why": "Colle di Val d'Elsa produziert bis heute einen erheblichen Teil des europäischen Bleikristalls, und das Museum in der ehemaligen Industriezone erzählt das ohne Hochglanz: Öfen, Werkzeuge, Glasbläserei, dazu Vitrinen mit Gebrauchs- und Kunstglas. Ein Fachmuseum für Erwachsene, kompakt genug, um es in einer Stunde zu schaffen. Wichtig fürs Planen: Geöffnet nur dienstags, donnerstags, freitags, samstags und sonntags, und dann erst ab 14 Uhr — montags und mittwochs ist zu. Eintritt 6 €, Kombiticket mit Palazzo Pretorio und Museo San Pietro 12 €.",
+    "kid": {
+      "rating": 1,
+      "notes": "Glas in Vitrinen, viel Nicht-Anfassen. Ein Elternteil geht rein, der andere bleibt draußen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Dienstag, Donnerstag, Freitag, Samstag und Sonntag 14–19 Uhr. Montag und Mittwoch geschlossen.",
+    "closedDays": [
+      "Mo",
+      "Mi"
+    ],
+    "price": "6 €, ermäßigt 4 €; Kombiticket der drei Museen 12 €.",
+    "sources": [
+      {
+        "label": "Museo del Cristallo, Comune di Colle",
+        "checked": "2026-09-11",
+        "url": "https://www.comune.collevaldelsa.it/it/page/museo-del-cristallo"
+      },
+      {
+        "label": "Museo del Cristallo, Fondazione Musei Senesi",
+        "checked": "2026-09-11",
+        "url": "https://www.museisenesi.org/museo/museo-del-cristallo/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "certaldo-musei",
+    "name": "Casa Boccaccio und Palazzo Pretorio",
+    "base": "toscana",
+    "town": "Certaldo",
+    "lat": 43.548,
+    "lng": 11.0415,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "schlechtwetter"
+    ],
+    "short": "Boccaccios Wohnhaus und der wappenübersäte Statthalterpalast, beide in Certaldo Alto.",
+    "why": "Giovanni Boccaccio, der das Decameron geschrieben hat, starb 1375 in Certaldo; sein Haus ist heute Museum mit Bibliothek und einem Turm, von dem man über die Val d'Elsa schaut. Der Palazzo Pretorio gegenüber war Sitz der florentinischen Statthalter — seine Fassade ist über und über mit den Wappen der Amtsinhaber gepflastert, innen gibt es Fresken, Gefängniszellen und einen Hof. Beides liegt in der autofreien Oberstadt, zu der die Standseilbahn hinauffährt, und beides ist klein genug für einen kurzen Besuch. Kombiticket 5 €. Ruhetag ist dienstags; die Zeiten, die ich belegen konnte, gelten für den Winterfahrplan ab November — im September ist länger offen, die genauen Stunden vorher prüfen.",
+    "kid": {
+      "rating": 1,
+      "notes": "Zwei kleine Museen ohne Kinderbezug. Der Turm der Casa Boccaccio ist eng.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Ruhetag Dienstag. Belegt sind die Winterzeiten ab 1. November (10–13 und 14.30–16.30 Uhr); im September gelten längere Sommerzeiten.",
+    "closedDays": [
+      "Di"
+    ],
+    "price": "Kombiticket Palazzo Pretorio und Casa Boccaccio 5 €.",
+    "sources": [
+      {
+        "label": "Musei di Certaldo, Comune",
+        "checked": "2026-09-11",
+        "url": "https://www.comune.certaldo.fi.it/it/news/dal-1-novembre-in-vigore-lorario-invernale-dei-musei-di-certaldo"
+      },
+      {
+        "label": "Palazzo Pretorio, Comune di Certaldo",
+        "checked": "2026-09-11",
+        "url": "https://www.comune.certaldo.fi.it/index.php/it/vivere/701399"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "osteria-catene",
+    "name": "Osteria delle Catene",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4685,
+    "lng": 11.0415,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "short": "Gewölbekeller an der Porta San Matteo, traditionelle Küche, faire Preise. Mi Ruhetag.",
+    "why": "Eine echte Osteria in einem mittelalterlichen Gewölbe am ruhigeren Ende der Altstadt, wo auch Einheimische sitzen: Aufschnitt- und Käseplatten, Ribollita, Pici, dazu eine gut sortierte, vernünftig bepreiste Auswahl lokaler Weine. Für euch ist die Platte der Einstieg — man bestellt eine Tagliere, teilt sie, und wenn das Kind nach vierzig Minuten genug hat, ist niemand mittendrin im dritten Gang. Via Mainardi 18, im Sommer 12–14.30 und 19–21.30 Uhr. Mittwochs und sonntagabends geschlossen. Am frühen Abend, gegen 19 Uhr, ist es am entspanntesten — italienische Familien kommen später, ihr habt den Raum fast für euch.",
+    "kid": {
+      "rating": 2,
+      "notes": "Gewölbe, also hallig, aber unkompliziert. Tagliere teilen statt Menü, dann bleibt man kurz.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      110
+    ],
+    "weather": "indoor",
+    "booking": "empfohlen",
+    "hours": "Sommer 12–14.30 und 19–21.30 Uhr. Mittwoch Ruhetag, sonntagabends geschlossen.",
+    "closedDays": [
+      "Mi"
+    ],
+    "sources": [
+      {
+        "label": "Osteria delle Catene, offizielle Seite",
+        "checked": "2026-09-11",
+        "url": "https://www.osteriadellecatene.it/"
+      },
+      {
+        "label": "Osteria delle Catene, Zeiten und Adresse",
+        "checked": "2026-09-11",
+        "url": "https://www.frommers.com/destinations/san-gimignano/restaurants/osteria-delle-catene/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "il-palagione",
+    "name": "Il Palagione — Weingut an der SP47",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.43,
+    "lng": 10.98,
+    "coordsExact": false,
+    "driveMinutes": 10,
+    "categories": [
+      "essen",
+      "kultur"
+    ],
+    "tags": [
+      "weingut",
+      "aussicht",
+      "mittagessen"
+    ],
+    "short": "Gutshof von 1594 an eurer Hausstraße Richtung Volterra — Verkostung in der alten Scheune.",
+    "why": "Das Gut liegt an genau der Straße, an der ihr wohnt: der SP47 zwischen San Gimignano und Volterra, wenige Minuten von San Donato. Das Anwesen stammt von 1594 und steht erhöht zwischen alten Reben und Olivenhainen, mit Blick über das Tal bis zur Türmesilhouette. Verkostet wird in der alten Scheune. Für euch der praktischste Weinbesuch überhaupt — Vernaccia, Chianti Colli Senesi und Olivenöl, zehn Minuten Anfahrt, viel Platz draußen für das Kind, und wer nicht fährt, kann trinken. Vorher anmelden; die Zeiten hängen an der Ernte, und im September wird gelesen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Hof und Reben ringsum, viel Auslauf. Die Verkostung selbst ist Erwachsenensache.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "beides",
+    "booking": "pflicht",
+    "sources": [
+      {
+        "label": "Il Palagione, Verkostungen",
+        "checked": "2026-09-11",
+        "url": "https://www.ilpalagione.com/en/tasting/"
+      },
+      {
+        "label": "Il Palagione, Lage und Geschichte",
+        "checked": "2026-09-11",
+        "url": "https://www.ilpalagione.com/en/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "panizzi",
+    "name": "Panizzi — Vernaccia-Weingut",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.455,
+    "lng": 11.025,
+    "coordsExact": false,
+    "driveMinutes": 12,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "weingut",
+      "aussicht"
+    ],
+    "short": "Das Gut, das die Vernaccia wieder ernst genommen hat. Località Larniano.",
+    "why": "Giovanni Panizzi hat ab den 1980ern die Vernaccia di San Gimignano vom belanglosen Touristenwein zurück zu einem eigenständigen Weißwein geführt — wer verstehen will, warum diese Rebsorte 1966 Italiens erste DOC war, trinkt hier. Das Gut liegt in der Località Larniano wenige Kilometer außerhalb, bietet Führungen durch Weinberg und Keller mit anschließender Verkostung. Ernsthafter und weinlastiger als Il Palagione, dafür weniger nebenbei zu machen. Voranmeldung nötig, im September läuft die Lese.",
+    "kid": {
+      "rating": 1,
+      "notes": "Kellerführung mit Verkostung — für ein Kleinkind wenig dabei. Eher im Wechsel.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      75,
+      150
+    ],
+    "weather": "beides",
+    "booking": "pflicht",
+    "sources": [
+      {
+        "label": "Panizzi, Weingut",
+        "checked": "2026-09-11",
+        "url": "https://www.panizzi.it/en/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "berignone",
+    "name": "Riserva Naturale Foresta di Berignone",
+    "base": "toscana",
+    "town": "Volterra",
+    "lat": 43.332075,
+    "lng": 10.91633,
+    "coordsExact": true,
+    "driveMinutes": 50,
+    "categories": [
+      "natur"
+    ],
+    "tags": [
+      "wanderung",
+      "wasser"
+    ],
+    "short": "2166 Hektar Wald an der Cecina, mit Furten und Gumpen im Sellate zum Hineinsteigen.",
+    "why": "Südwestlich von Volterra fällt das Land in ein bewaldetes Flusstal ab, das seit 1995 Naturschutzgebiet ist. Der Torrente Sellate und die Cecina bilden dort Furten und Becken, in denen man tatsächlich baden darf — anders als in Bagno Vignoni. Das Wasser ist kalt, aber im September nach heißen Tagen genau richtig, und die Stellen an den Furtbrücken sind flach und kiesig. Ehrlich zur Strecke: Der ausgeschilderte Rundweg über den Monte Soldano und die Bischofsburg misst gut elf Kilometer und braucht vier Stunden — das ist nichts für euch. Ihr parkt am Capannone di Berignone, geht den Uferpfad bis zur ersten Furt und wieder zurück. Badeschuhe wegen der Steine, und nichts Wertvolles am Auto lassen.",
+    "kid": {
+      "rating": 3,
+      "notes": "Flaches, kaltes Flusswasser, Kies, Schatten, kein Eintritt und keine Öffnungszeit. Der große Rundweg ist zu lang — Uferpfad gehen und umkehren.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      120,
+      240
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
+    "price": "frei",
+    "parking": "Capannone di Berignone (43.332075, 10.916330); Schotterzufahrt.",
+    "sources": [
+      {
+        "label": "Riserva Naturale Berignone, Volterra Tur",
+        "checked": "2026-09-11",
+        "url": "https://volterratur.it/en/poi/berignone-nature-reserve/"
+      },
+      {
+        "label": "Flüsse und Bäche der Val di Cecina, Badestellen",
+        "checked": "2026-09-11",
+        "url": "http://www2.volterratur.it/vieni/natura-sport/fiumi-e-torrenti-della-val-di-cecina/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "muestair",
+    "name": "Kloster St. Johann in Müstair (CH)",
+    "base": "suedtirol",
+    "town": "Müstair, Schweiz",
+    "lat": 46.629,
+    "lng": 10.448,
+    "coordsExact": false,
+    "driveMinutes": 65,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "kirche",
+      "museum",
+      "schlechtwetter"
+    ],
+    "short": "UNESCO-Welterbe hinter der Schweizer Grenze: der größte erhaltene Freskenzyklus des Frühmittelalters.",
+    "why": "Das lohnendste Kulturziel im Umkreis, und es liegt knapp jenseits der Grenze. Karl der Große soll das Kloster um 775 gegründet haben; unter späteren Übermalungen entdeckten Schweizer Forscher 1894 karolingische Fresken aus der ersten Hälfte des 9. Jahrhunderts — der größte und besterhaltene Freskenzyklus des Frühmittelalters überhaupt, und der Grund für die Aufnahme ins UNESCO-Welterbe. Das Museum steckt im Plantaturm, vermutlich dem ältesten Wohnturm des Alpenraums. Für Erwachsene ein Ereignis, für ein Kleinkind nichts — kalkuliert das als Wechselbesuch. Mai bis Oktober täglich 9–18 Uhr, sonntags und feiertags erst ab 13.30 Uhr. Ihr verlasst die EU: Ausweise mitnehmen. Die Anfahrt über Mals und Taufers braucht keine Autobahnvignette.",
+    "kid": {
+      "rating": 1,
+      "notes": "Fresken im Halbdunkel, absolutes Anfassverbot. Draußen Klosterhof und Wiesen zum Warten.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Mai bis Oktober täglich 9–18 Uhr; sonn- und feiertags 13.30–18 Uhr.",
+    "price": "Tickets im Klosterladen. Schweizer Franken, Ausweis mitführen.",
+    "sources": [
+      {
+        "label": "Kloster Müstair, Öffnungszeiten",
+        "checked": "2026-09-11",
+        "url": "https://www.muestair.ch/en/plan-your-visit/opening-hours"
+      },
+      {
+        "label": "Kloster Müstair, UNESCO und Fresken",
+        "checked": "2026-09-11",
+        "url": "https://www.muestair.ch/en/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "vintschger-museum",
+    "name": "Vintschger Museum Schluderns",
+    "base": "suedtirol",
+    "town": "Schluderns",
+    "lat": 46.666,
+    "lng": 10.582,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur"
+    ],
+    "tags": [
+      "museum",
+      "schlechtwetter",
+      "handwerk"
+    ],
+    "short": "Talmuseum mit der Dauerausstellung über die Schwabenkinder. Montag Ruhetag.",
+    "why": "Das ehrlichste Museum des Tals. Es erzählt von den Schwabenkindern: Vinschger Kinder, die bis ins 20. Jahrhundert im Frühjahr zu Fuß über die Alpen nach Oberschwaben zogen, dort den Sommer über als Hütekinder arbeiteten und im Herbst zurückkamen — weil die Armut zu Hause keine andere Wahl ließ. Dazu Waale, Bewässerung und Alltagsgeschichte des Tals. Ein Besuch, der die Apfelwiesen draußen anders aussehen lässt. Dienstag bis Sonntag 10–12 und 14–17.30 Uhr, montags zu; 6 €, Familienkarte 12 €. Direkt oberhalb liegt das Ganglegg, eines der bedeutendsten prähistorischen Höhensiedlungen des Alpenraums — Freilichtgelände, frei zugänglich, 45 Minuten Fußweg vom Museum.",
+    "kid": {
+      "rating": 1,
+      "notes": "Textlastig, kleine Räume. Für ein Kleinkind eine Viertelstunde, nicht mehr.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Dienstag bis Sonntag 10–12 und 14–17.30 Uhr. Montag Ruhetag.",
+    "closedDays": [
+      "Mo"
+    ],
+    "price": "Erwachsene 6 €, Familienkarte 12 €.",
+    "sources": [
+      {
+        "label": "Vintschger Museum, Zeiten und Preise",
+        "checked": "2026-09-11",
+        "url": "https://www.suedtirol-kompakt.com/vintschger-museum-in-schluderns/"
+      },
+      {
+        "label": "Schwabenkinder, Vintschger Museum",
+        "checked": "2026-09-11",
+        "url": "https://www.schwabenkinder.eu/de/ausstellungen/suedtirol-i/vintschger-museum-schluderns/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ganglegg",
+    "name": "Ganglegg — prähistorische Höhensiedlung",
+    "base": "suedtirol",
+    "town": "Schluderns",
+    "lat": 46.672,
+    "lng": 10.575,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "kultur",
+      "natur"
+    ],
+    "tags": [
+      "ruine",
+      "wanderung",
+      "aussicht"
+    ],
+    "short": "Freigelegte Siedlung von der Jungsteinzeit bis in die Römerzeit — frei zugänglich, auch montags.",
+    "why": "Hoch über Schluderns liegt eine der bedeutendsten prähistorischen Höhensiedlungen des Alpenraums: Grabungsbefunde von der Jungsteinzeit bis in die Römerzeit, dazu rekonstruierte Gebäude als Freilichtmuseum. Der Eintritt ist frei, es gibt keine Öffnungszeiten — damit ist das Ganglegg eines der wenigen Kulturziele, die auch an eurem Montag, dem 21. September, funktionieren, wenn fast alles andere Ruhetag hat. Der Aufstieg vom Museum in Schluderns dauert rund 45 Minuten und geht bergan; mit Kind also entweder in der Trage oder mit viel Zeit. Oben weiter Blick über den oberen Vinschgau.",
+    "kid": {
+      "rating": 2,
+      "notes": "45 Minuten Aufstieg, oben viel Freifläche und Mauern zum Erkunden. Trage einplanen.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
+    "price": "frei",
+    "sources": [
+      {
+        "label": "Ganglegg, Vintschger Museum",
+        "checked": "2026-09-11",
+        "url": "https://www.suedtirol-kompakt.com/vintschger-museum-in-schluderns/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "bierkeller-latsch",
+    "name": "Bierkeller Latsch",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.623,
+    "lng": 10.876,
+    "coordsExact": false,
+    "driveMinutes": 10,
+    "categories": [
+      "essen",
+      "natur"
+    ],
+    "tags": [
+      "mittagessen",
+      "abendessen",
+      "wanderung"
+    ],
+    "short": "Rustikaler Waldgasthof über Latsch — hin zu Fuß in 30 bis 40 Minuten durch die Apfelwiesen.",
+    "why": "Zehn Autominuten von Latsch oder ein halbstündiger Spaziergang durch die Obstanlagen: ein urig gehaltener Keller im Wald mit Haxen, Hendl, Rippelen und frischem Bier vom Fass. Das ist keine feine Küche und will es nicht sein — es ist der Ort, an dem man draußen unter Bäumen sitzt, mit den Fingern isst und niemand auf das Kind achtet. Genau eure Kategorie. Der Fußweg dorthin ist der eigentliche Gewinn: eben durch die Apfelreihen, im September mitten in der Ernte, mit dem Laufrad gut machbar. Hin laufen, zurück fahren lassen — oder umgekehrt.",
+    "kid": {
+      "rating": 3,
+      "notes": "Draußen im Wald, unkompliziert, Platz zum Laufen. Der Hinweg durch die Obstwiesen ist laufradtauglich.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      150
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "sources": [
+      {
+        "label": "Bierkeller Latsch, Restaurantführer Vinschgau",
+        "checked": "2026-09-11",
+        "url": "https://www.vinschgau.net/en/food-wine/venostan-cuisine/restaurant-guide/rid-a4efd1f5cdc341a2afaa9f9f82a755fa-g-gasthaus-bierkeller-latsch.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "psenner-latsch",
+    "name": "Café Bäckerei Psenner",
+    "base": "suedtirol",
+    "town": "Latsch",
+    "lat": 46.6165,
+    "lng": 10.863,
+    "coordsExact": false,
+    "driveMinutes": 3,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "fruehstueck",
+      "zum-mitnehmen",
+      "handwerk"
+    ],
+    "short": "Die Bäckerei im Ort — Vinschger Paarl, Strudel, Kaffee im Stehen.",
+    "why": "Vinschger Paarl ist kein Souvenirbrot, sondern das Alltagsbrot dieses Tals: flach, dunkel, aus Roggen, gewürzt mit Fenchel, Kümmel und Brotklee, immer als verwachsenes Paar gebacken. Beim Bäcker im Ort frisch gekauft, mit Speck und Käse aus dem Hofladen, ist das eure unkomplizierteste Mahlzeit — für den Waalweg, für die Seilbahn, für den Zug. Dazu Apfelstrudel und ein Kaffee an der Theke. Genau die Sorte „besonders essen“, bei der niemand zwei Stunden sitzen muss. Öffnungstage vor Ort prüfen; Bäckereien im Tal haben teils eingeschränkte Zeiten.",
+    "kid": {
+      "rating": 3,
+      "notes": "Brot in die Hand, fertig. Kein Sitzen, keine Wartezeit.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      10,
+      30
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Café Bäckerei Psenner, Restaurantführer Latsch",
+        "checked": "2026-09-11",
+        "url": "https://www.vinschgau.net/en/laces-val-martello/food-wine/restaurant-guide/laces-environs.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "waldheim-martell",
+    "name": "Gasthof Waldheim, Martelltal",
+    "base": "suedtirol",
+    "town": "Martell",
+    "lat": 46.565,
+    "lng": 10.79,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "short": "Talgasthof im Martelltal, bekannt für Wildgerichte.",
+    "why": "Wer im Martelltal wandert oder zum Zufrittsee fährt, kommt daran vorbei: ein bodenständiger Gasthof, der vor allem für seine Wildgerichte einen Ruf hat — im Herbst die naheliegendste Küche dieses Tals. Nichts Aufgeregtes, keine Reservierungspflicht am Mittag, und mit dem Seitental verbunden, das ohnehin auf eurer Liste steht. Öffnungstage vorher erfragen; Talgasthöfe im Vinschgau haben oft einen Ruhetag, den ich nicht belegen konnte.",
+    "kid": {
+      "rating": 2,
+      "notes": "Normaler Gasthof, unkompliziert, meist Platz. Kein eigenes Kinderprogramm.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "indoor",
+    "booking": "empfohlen",
+    "sources": [
+      {
+        "label": "Gasthof Waldheim, Restaurantführer Latsch-Martelltal",
+        "checked": "2026-09-11",
+        "url": "https://www.vinschgau.net/en/laces-val-martello/food-wine/restaurant-guide/laces-environs.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "plimaschlucht",
+    "name": "Plima-Schluchtenweg",
+    "base": "suedtirol",
+    "town": "Martell",
+    "lat": 46.483,
+    "lng": 10.708,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "natur"
+    ],
+    "tags": [
+      "wanderung",
+      "wasser",
+      "aussicht"
+    ],
+    "short": "Vier Stahlbauten über der tosenden Schlucht — Kelle, Sichel, Kanzel und eine Hängebrücke.",
+    "why": "Im hinteren Martelltal, mitten im Nationalpark Stilfserjoch, hat man 2017 einen Schluchtenweg über der Plima angelegt: vier begehbare Kunstbauwerke — die Kelle, die Sichel, die Kanzel und eine Hängebrücke — führen direkt über und in die Schlucht, sodass man dem Wasser auf wenige Meter nahekommt. Das ist der spektakulärste Naturweg in eurem Radius und kein Geheimtipp mehr, aber Ende September deutlich ruhiger als im Hochsommer. Die volle Runde misst rund sechs Kilometer mit 250 Höhenmetern und braucht zwei Stunden; mit einem Zweijährigen nehmt ihr davon den ersten Abschnitt bis zur Hängebrücke und kehrt um. Der Weg ist gut ausgebaut, aber kein Kinderwagenweg, und über der Schlucht gehört das Kind an die Hand oder in die Trage. Auf knapp 1.800 Metern ist es im September morgens empfindlich kalt.",
+    "kid": {
+      "rating": 2,
+      "notes": "Beeindruckend und gut gesichert, aber Stahlroste über der Schlucht — an der Hand oder in der Trage. Jederzeit umkehrbar.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      120,
+      240
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Frei zugänglich; im Winter gesperrt.",
+    "closedMonths": [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "price": "frei",
+    "parking": "Parkplätze im hinteren Martelltal Richtung Enzian- und Zufallhütte; lange, kurvige Talstraße.",
+    "sources": [
+      {
+        "label": "Plimaschlucht, Nationalpark Stilfserjoch",
+        "checked": "2026-09-11",
+        "url": "https://www.nationalpark-stelvio.it/de/erleben/wandern-bergsteigen/themenwege/16771527-plimaschlucht-schluchtenweg.html"
+      },
+      {
+        "label": "Plima-Schluchtenweg mit Kindern",
+        "checked": "2026-09-11",
+        "url": "https://suedtirol-mit-kindern.com/plima-schluchtenweg/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "sentierelsa",
+    "name": "SentierElsa — Flusspark der Alta Val d'Elsa",
+    "base": "toscana",
+    "town": "Colle di Val d'Elsa",
+    "lat": 43.42,
+    "lng": 11.128,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "natur",
+      "kind"
+    ],
+    "tags": [
+      "wasser",
+      "wanderung"
+    ],
+    "short": "Vier Kilometer türkisblauer Fluss in einer Schlucht — Holzstege, flache Furten, Badegumpen.",
+    "why": "Der beste Naturfund für warme Septembertage, und er beginnt mitten in Colle di Val d'Elsa. Die Elsa führt hier durch eine kleine Schlucht, und das Wasser ist durch den hohen Kalkgehalt intensiv türkis — es sieht aus wie retuschiert und ist es nicht. Ein rund vier Kilometer langer Pfad führt vom historischen Zentrum am Fluss entlang, über Holzbrücken und flache Steinfurten, vorbei an Kaskaden und Becken, in denen gebadet wird. Für ein Kleinkind ist das die ideale Mischung: schattig, eben am Ufer, ständig Wasser zum Anfassen, und man kann nach fünfhundert Metern umkehren, ohne etwas verpasst zu haben. Badeschuhe wegen der glatten Kalksteine, und nach Regen sind die Furten heikel. Kein Eintritt, keine Öffnungszeiten — kombinierbar mit Colle Alta oben auf dem Felsgrat.",
+    "kid": {
+      "rating": 3,
+      "notes": "Flussufer mit Stegen und Furten, überall Wasser, jederzeit umkehrbar. Kalkstein ist rutschig — Badeschuhe.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      90,
+      210
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
+    "price": "frei",
+    "bestTime": "Nach heißen Tagen. Nach starkem Regen sind die Furten gefährlich.",
+    "sources": [
+      {
+        "label": "Parco Fluviale dell'Alta Val d'Elsa",
+        "checked": "2026-09-11",
+        "url": "https://www.escursioniecicloturismo.it/2026/05/13/altavaldelsa/"
+      },
+      {
+        "label": "Via Francigena, Variante durch den Flusspark",
+        "checked": "2026-09-11",
+        "url": "https://www.comune.collevaldelsa.it/it/page/10118"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "francigena-sg",
+    "name": "Via Francigena — Etappe ab San Gimignano",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.465,
+    "lng": 11.048,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "natur",
+      "kultur"
+    ],
+    "tags": [
+      "wanderung",
+      "aussicht"
+    ],
+    "short": "Der mittelalterliche Pilgerweg nach Rom führt durch die Stadt — man nimmt sich ein Stück davon.",
+    "why": "San Gimignano ist groß geworden, weil die Via Francigena hindurchführte: der Pilgerweg von Canterbury nach Rom, der im Mittelalter den halben Kontinent durch diese Hügel schleuste. Die Etappe nach Monteriggioni misst rund 30 Kilometer und ist als Ganzes für euch keine Option — der Punkt ist ein anderer: Der Weg ist durchgehend markiert, und man kann sich an jeder beliebigen Stelle ein Stück davon nehmen. Vom Südtor führt er durch Olivenhaine und über Feldwege, mit Blick zurück auf die Türme. Eine Stunde hinaus, eine Stunde zurück, und man hat mehr Toskana gesehen als an jedem Aussichtspunkt. Die Variante Richtung Colle di Val d'Elsa ist etwas kürzer und führt in den Flusspark der Elsa.",
+    "kid": {
+      "rating": 2,
+      "notes": "Feld- und Schotterwege, kaum Verkehr. Länge bestimmt ihr selbst. Wenig Schatten — nicht mittags.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Frei zugänglich, keine Öffnungszeiten und kein Eintritt.",
+    "price": "frei",
+    "bestTime": "Früher Morgen oder später Nachmittag; mittags ist es auf den offenen Hängen heiß.",
+    "sources": [
+      {
+        "label": "Via Francigena, Etappe San Gimignano–Monteriggioni",
+        "checked": "2026-09-11",
+        "url": "https://viafrancigena.visittuscany.com/site/it/tappe/tappa-32-san-gimignano-monteriggioni/"
+      },
+      {
+        "label": "Via Francigena, Comune di Colle di Val d'Elsa",
+        "checked": "2026-09-11",
+        "url": "https://www.comune.collevaldelsa.it/it/page/10118"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "vinschger-wein",
+    "name": "Weinberge von Kastelbell-Tschars",
+    "base": "suedtirol",
+    "town": "Kastelbell-Tschars",
+    "lat": 46.628,
+    "lng": 10.906,
+    "coordsExact": false,
+    "driveMinutes": 10,
+    "categories": [
+      "essen",
+      "natur"
+    ],
+    "tags": [
+      "weingut",
+      "aussicht",
+      "handwerk"
+    ],
+    "short": "Europas höchstgelegene Weißweinlagen, zehn Minuten vom Hotel — Riesling, Burgunder, Marillenbrand.",
+    "why": "Dass im Vinschgau überhaupt Wein wächst, überrascht die meisten. Zwischen Kastelbell und Tschars steigen die Reben bis auf 900 Meter — das trockene Kontinentalklima und die durchlässigen Böden passen zu Riesling, Weißburgunder und Gewürztraminer, und die Weine schmecken entsprechend straff statt üppig. Mehrere Familienbetriebe liegen dicht beieinander: das Köfelgut, das ohne Dünger arbeitet und nebenbei den Vinschger Marillenbrand destilliert, der Rebhof in Galsaun auf 600 Metern, dazu Lehengut, Marinushof und Himmelreich Hof. Im Rahmen der lokalen Weinroute Via Vinum Venostis gibt es geführte Verkostungen, teils als Genusswanderung durch den Weinberg. Für euch: zehn Minuten Anfahrt, und die Lese läuft im September — aber vorher anrufen, das sind kleine Höfe ohne feste Öffnungszeiten.",
+    "kid": {
+      "rating": 2,
+      "notes": "Weinberge und Höfe zum Herumlaufen. Die Verkostung selbst ist Erwachsenensache — am besten im Wechsel.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      150
+    ],
+    "weather": "beides",
+    "booking": "pflicht",
+    "sources": [
+      {
+        "label": "Weinbau in Kastelbell-Tschars",
+        "checked": "2026-09-11",
+        "url": "https://www.vinschgau.net/en/castelbello-ciardes/food-wine/local-products/wine.html"
+      },
+      {
+        "label": "Weingut Köfelgut",
+        "checked": "2026-09-11",
+        "url": "https://www.vinschgau.net/de/kastelbell-tschars/essen-geniessen/lokale-produkte/wein/rid-81DE16EF92D05C8BE623ED2659592044-weingut-koefelgut.html"
+      }
+    ],
+    "verified": false
   }
 ]
