@@ -12,11 +12,12 @@ name: Mirror to GitLab
 
 on:
   push:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
   mirror:
+    # Gespiegelt wird nur der Standardbranch, wie auch immer er heißt.
+    if: github.ref_name == github.event.repository.default_branch
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

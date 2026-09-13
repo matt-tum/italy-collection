@@ -96,23 +96,52 @@ Zwei Dinge daran sind kein Zufall:
   `/reiseplaner-app/`. Ein falscher Basispfad lädt weder das Skript noch den
   Service Worker, und die Seite bleibt weiß.
 
-Einzurichten:
+Der Code muss dafür erst einmal nach GitLab. Drei Wege, keiner davon
+aufwendig:
 
-1. Den Branch nach GitLab pushen und dort als Standardbranch setzen
-   (Settings → Repository → Branch defaults).
-2. Deploy → Pages aufrufen. Die Pipeline läuft beim ersten Push von selbst.
-3. Ob „Use unique domain" an oder aus ist, spielt keine Rolle — der Build
-   richtet sich danach.
+**A — ohne lokalen Klon, über GitHub Actions.** In GitLab einen Project Access
+Token anlegen (Settings → Access Tokens, Rolle Maintainer, Scope
+`write_repository`), ihn in GitHub als Secret `GITLAB_TOKEN` hinterlegen
+(Settings → Secrets and variables → Actions). Der Workflow
+`mirror-gitlab.yml` pusht dann bei jedem Push auf den Standardbranch nach
+GitLab, und dort startet die Pages-Pipeline von selbst. Beides sind
+Browser-Formulare, es ist kein Terminal nötig.
+
+**B — ohne lokalen Klon, über GitLabs Importer.** In GitLab ein *neues*
+Projekt anlegen über New project → Import project → GitHub. Das kopiert den
+Stand einmalig; ein bereits angelegtes leeres Projekt kann kein Ziel eines
+Imports sein, es müsste vorher gelöscht werden. Danach gibt es keine
+automatische Aktualisierung mehr.
+
+**C — mit lokalem Klon.** Auf dem eigenen Rechner:
+
+```bash
+git clone https://github.com/matt-tum/italy-collection.git
+cd italy-collection
+git remote add gitlab https://gitlab.com/matt-meller/reiseplaner-app.git
+git push gitlab HEAD:main
+```
+
+Danach in beiden Fällen: **Deploy → Pages** aufrufen. Bei einem privaten
+Projekt steht die Zugriffskontrolle dort auf „Nur Projektmitglieder" — wer die
+Seite ohne GitLab-Konto öffnen soll, braucht „Everyone".
+
+Ob „Use unique domain" an oder aus ist, spielt keine Rolle: Der Build richtet
+sich nach `CI_PAGES_URL`.
 
 ### GitHub Pages
 
-`.github/workflows/deploy.yml` deployt bei Push auf `main`. Dafür muss unter
-Settings → Pages als Source „GitHub Actions" gewählt sein.
+`.github/workflows/deploy.yml` deployt bei Push auf den Standardbranch. Dafür
+muss unter Settings → Pages als Source „GitHub Actions" gewählt sein.
+
+Die Workflows lesen den Namen des Standardbranchs zur Laufzeit
+(`github.event.repository.default_branch`), statt auf `main` zu horchen —
+dieses Repository hat keinen Branch dieses Namens.
 
 ### Spiegelung GitHub → GitLab
 
-`.github/workflows/mirror-gitlab.yml` pusht bei jedem Push auf `main` nach
-GitLab. Ohne hinterlegtes Secret überspringt der Job sich selbst, statt
+`.github/workflows/mirror-gitlab.yml` pusht bei jedem Push auf den
+Standardbranch nach GitLab. Ohne hinterlegtes Secret überspringt der Job sich selbst, statt
 fehlzuschlagen.
 
 Der umgekehrte Weg — GitLab holt sich den Stand von GitHub — wäre bequemer,
