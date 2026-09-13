@@ -131,8 +131,13 @@ sich nach `CI_PAGES_URL`.
 
 ### GitHub Pages
 
-`.github/workflows/deploy.yml` deployt bei Push auf den Standardbranch. Dafür
-muss unter Settings → Pages als Source „GitHub Actions" gewählt sein.
+**Live: https://matt-tum.github.io/italy-collection/**
+
+`.github/workflows/deploy.yml` deployt bei Push auf den Standardbranch. Unter
+Settings → Pages muss als Source „GitHub Actions" gewählt sein — das ist
+einmalig von Hand nötig und erledigt. Ein Workflow kann es nicht selbst
+einschalten: Eine Pages-Site anzulegen verlangt die Berechtigung
+`administration`, und die lässt sich einem `GITHUB_TOKEN` nicht erteilen.
 
 Die Workflows lesen den Namen des Standardbranchs zur Laufzeit
 (`github.event.repository.default_branch`), statt auf `main` zu horchen —
