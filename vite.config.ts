@@ -2,17 +2,22 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
-// Deployed to GitHub Pages under /italy-collection/.
-// Override with BASE_PATH=/ for local static hosting.
+// Der Basispfad hängt davon ab, wo die App liegt: GitHub Pages serviert sie
+// unter /italy-collection/, GitLab Pages je nach Projekteinstellung unter
+// /reiseplaner-app/ oder — bei aktivierter eindeutiger Domain — unter /.
+// Die CI setzt BASE_PATH deshalb selbst; hier steht nur der GitHub-Fall.
 const base = process.env.BASE_PATH ?? '/italy-collection/'
 
 export default defineConfig({
   base,
+  // Statische Dateien liegen in static/, nicht in public/: GitLab Pages
+  // erwartet das Bauergebnis in einem Verzeichnis namens public, und beide
+  // gleichzeitig wären ein Namenskonflikt.
+  publicDir: 'static',
   plugins: [
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['icon.svg'],
       manifest: {
         name: 'Italien-Kollektion',
         short_name: 'Italien',

@@ -65,6 +65,6 @@ function png(size) {
 }
 
 for (const size of [192, 512]) {
-  writeFileSync(new URL(`../public/icon-${size}.png`, import.meta.url), png(size))
+  writeFileSync(new URL(`../static/icon-${size}.png`, import.meta.url), png(size))
 }
 console.log('icons written')

@@ -79,6 +79,46 @@ npm run validate   # Datensatz prüfen
 npm run build      # Produktionsbuild
 ```
 
+## Deployment
+
+Zwei Wege, beide aus demselben Stand gebaut.
+
+### GitLab Pages
+
+`.gitlab-ci.yml` enthält einen `pages`-Job, der auf dem Standardbranch läuft.
+Zwei Dinge daran sind kein Zufall:
+
+- **Die statischen Quelldateien liegen in `static/`, nicht in `public/`.** GitLab
+  Pages verlangt das Bauergebnis in einem Verzeichnis namens `public`; hieße
+  auch Vites Asset-Verzeichnis so, würden sich beide überschreiben.
+- **Der Basispfad wird aus `CI_PAGES_URL` abgeleitet, nicht geraten.** Mit
+  aktivierter eindeutiger Domain serviert GitLab unter `/`, ohne sie unter
+  `/reiseplaner-app/`. Ein falscher Basispfad lädt weder das Skript noch den
+  Service Worker, und die Seite bleibt weiß.
+
+Einzurichten:
+
+1. Den Branch nach GitLab pushen und dort als Standardbranch setzen
+   (Settings → Repository → Branch defaults).
+2. Deploy → Pages aufrufen. Die Pipeline läuft beim ersten Push von selbst.
+3. Ob „Use unique domain" an oder aus ist, spielt keine Rolle — der Build
+   richtet sich danach.
+
+### GitHub Pages
+
+`.github/workflows/deploy.yml` deployt bei Push auf `main`. Dafür muss unter
+Settings → Pages als Source „GitHub Actions" gewählt sein.
+
+### Spiegelung GitHub → GitLab
+
+`.github/workflows/mirror-gitlab.yml` pusht bei jedem Push auf `main` nach
+GitLab. Ohne hinterlegtes Secret überspringt der Job sich selbst, statt
+fehlzuschlagen.
+
+Der umgekehrte Weg — GitLab holt sich den Stand von GitHub — wäre bequemer,
+ist aber **Pull-Mirroring und damit ein Premium-Feature**. Auf dem freien Tarif
+bleibt: von GitHub aus pushen, oder lokal zwei Remotes pflegen.
+
 ## Artifact-Vorschau
 
 Zum Anschauen und Teilen gibt es dieselbe Sammlung als einzelne HTML-Datei:
