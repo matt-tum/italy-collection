@@ -24,19 +24,23 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      # Legt die Pages-Site an, falls es sie noch nicht gibt, und liefert den
-      # Pfad, unter dem sie ausgeliefert wird.
+      # Liefert den Pfad, unter dem Pages die Seite ausliefert.
+      # Kein enablement: true — das GITHUB_TOKEN darf keine Pages-Site
+      # anlegen (Berechtigung "administration", die einem Workflow-Token
+      # nicht erteilt werden kann). Die Site muss einmalig unter
+      # Settings -> Pages mit Source "GitHub Actions" eingeschaltet werden.
+      # Solange das fehlt, warnt dieser Schritt nur, und der Build läuft
+      # mit dem Standardpfad weiter.
       - id: pages
+        continue-on-error: true
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - run: npm ci
       - run: npm run validate
       # Basispfad aus der Pages-Konfiguration statt fest verdrahtet — sonst
       # lädt nach einem Umbenennen des Repositories nichts mehr.
       - run: npm run build
         env:
-          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          BASE_PATH: ${{ steps.pages.outputs.base_path || '/italy-collection/' }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
