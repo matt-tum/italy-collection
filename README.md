@@ -209,7 +209,7 @@ Suche nach Name und Ort los, statt einen falschen Punkt anzusteuern.
 
 ## Stand
 
-82 Ziele — 43 Toskana, 39 Vinschgau. 57 davon geprüft: entweder mit belegten
+94 Ziele — 53 Toskana, 41 Vinschgau. 64 davon geprüft: entweder mit belegten
 Öffnungszeiten, Ruhetagen und Preisen, oder — bei Plätzen, Waalwegen und
 Aussichtspunkten — mit dem Beleg, dass sie frei und ohne Öffnungszeiten
 zugänglich sind.
@@ -228,6 +228,17 @@ Der dritte Durchgang hat die drei dünnsten Bereiche verbreitert:
 - **Essen & Trinken:** Osteria delle Catene in San Gimignano, die Weingüter
   Il Palagione und Panizzi, der Bierkeller Latsch, Bäckerei Psenner, Gasthof
   Waldheim im Martelltal, die Weinberge von Kastelbell-Tschars.
+
+Ein vierter Durchgang hat die Kategorie Essen entlang kuratierter Führer statt
+Aggregatoren neu aufgebaut — Bib Gourmand, Slow-Food-Chiocciole und
+Slow-Food-Presidi sind belegbar und stabil, Portalbewertungen sind es nicht:
+
+| | |
+| --- | --- |
+| Küche auf Führer-Niveau | Da Pode (Bib Gourmand, San Gimignano), Bel Mi' Colle (Chiocciola 2026, eine von sechs in der Provinz Siena), Officina della Cucina Popolare (Colle) |
+| Bistro, Café, Imbiss | Magnino Bistrot (Specialty Coffee in San Gimignano), Volaterra (Volterra, täglich 9–23 Uhr durchgehend), Ditta Artigianale (Florenz) |
+| Erzeuger und Presidi | Zafferano di San Gimignano DOP, Cipolla di Certaldo (Presidio, Sorte Vernina jetzt in Saison), Cinta Senese DOP, Fattoria Voltrona |
+| Südtirol | Palabira-Tage in Glurns (5.–20.9., Abschlussfest am 20.9.), Kesslwirt in Kastelbell |
 - **Natur:** SentierElsa bei Colle mit türkisfarbenen Badegumpen, Riserva
   Berignone bei Volterra mit Flussfurten zum Baden, ein Stück Via Francigena
   ab San Gimignano, der Plima-Schluchtenweg im Martelltal, das Ganglegg über

@@ -3555,5 +3555,533 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": "da-pode",
+    "name": "Da Pode",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.47,
+    "lng": 11.062,
+    "coordsExact": false,
+    "driveMinutes": 12,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "abendessen",
+      "aussicht"
+    ],
+    "short": "Bib Gourmand im Guide Michelin. Alter Bauernhof mit Terrasse über dem Hügelland.",
+    "why": "Der einzige Bib Gourmand im unmittelbaren Umkreis und damit die sicherste Adresse, wenn ihr einmal richtig gut essen wollt, ohne in Sterne-Preise zu rutschen. Das Haus liegt in der Località Sovestro außerhalb der Mauern in einem umgebauten Bauernhof: Stein, Holz, und bei gutem Wetter eine große Terrasse mit Blick über die Landschaft. Die Küche ist ausdrücklich traditionell — Rezepte über vier Generationen, Pasta täglich frisch im Haus, sehr gutes Fleisch. Für euch zählt vor allem die Terrasse: draußen essen mit Auslauf ringsum ist mit einem Zweijährigen eine völlig andere Nummer als ein Saal in der Altstadt. Donnerstag ist Ruhetag. Reservieren: +39 0577 943153.",
+    "kid": {
+      "rating": 2,
+      "notes": "Terrasse und Hoffläche statt engem Altstadtlokal. Kein Kinderprogramm, aber viel Platz.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      75,
+      140
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "hours": "Ruhetag Donnerstag.",
+    "closedDays": [
+      "Do"
+    ],
+    "parking": "Eigener Parkplatz am Haus, Loc. Sovestro 63.",
+    "sources": [
+      {
+        "label": "Da Pode, Guide Michelin",
+        "checked": "2026-09-14",
+        "url": "https://guide.michelin.com/gb/en/toscana/san-gimignano/restaurant/da-pode"
+      },
+      {
+        "label": "Da Pode, Kontakt und Ruhetag",
+        "checked": "2026-09-14",
+        "url": "https://www.dapode.com/it/contatti/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "bel-mi-colle",
+    "name": "Trattoria Bel Mi' Colle",
+    "base": "toscana",
+    "town": "Colle di Val d'Elsa",
+    "lat": 43.423,
+    "lng": 11.125,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "short": "Slow-Food-Chiocciola 2026 — eine von nur sechs in der Provinz Siena.",
+    "why": "Die Chiocciola ist die höchste Auszeichnung des Slow-Food-Führers Osterie d'Italia und geht an Häuser, die Küche, Herkunft der Zutaten und Gastlichkeit gleichermaßen ernst nehmen. In der gesamten Provinz Siena tragen sie 2026 sechs Betriebe — einer davon liegt 25 Minuten von euch, in einer der charakteristischsten Gassen von Colle Alta. Kleines Lokal, aufmerksamer Service, eine kurze Karte aus lokalen Zutaten. Das ist die Adresse für den einen Abend, an dem ihr das Kind wirklich früh ins Bett bekommt oder es im Buggy durchschläft — eng ist es, und die Chiocciola misst nicht Kinderfreundlichkeit. Via Giuseppe Garibaldi 56, +39 0577 922837. Unbedingt vorher reservieren, das Haus ist klein.",
+    "kid": {
+      "rating": 1,
+      "notes": "Kleines Lokal in einer Gasse, wenig Platz. Funktioniert am ehesten früh am Abend oder wenn das Kind schläft.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      90,
+      150
+    ],
+    "weather": "indoor",
+    "booking": "pflicht",
+    "sources": [
+      {
+        "label": "Chiocciole Osterie d'Italia 2026, Toskana",
+        "checked": "2026-09-14",
+        "url": "https://www.vetrina.toscana.it/guida-slow-food-osterie-ditalia-2026-le-chiocciole-della-toscana/"
+      },
+      {
+        "label": "Trattoria Bel Mi' Colle, Adresse",
+        "checked": "2026-09-14",
+        "url": "https://www.paginegialle.it/colle-di-val-d-elsa-si/osteria/ristorante-bel-mi-colle"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "officina-cucina-popolare",
+    "name": "Officina della Cucina Popolare",
+    "base": "toscana",
+    "town": "Colle di Val d'Elsa",
+    "lat": 43.424,
+    "lng": 11.127,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "short": "Konsequente Null-Kilometer-Küche mit täglich wechselnder Karte.",
+    "why": "Der zweite ernsthafte Grund, zum Essen nach Colle zu fahren. Die Karte wechselt laufend, weil sie sich strikt nach dem richtet, was in der Umgebung gerade verfügbar ist — bis hin zu dem Detail, dass statt Parmigiano Pecorino verwendet wird, weil der aus der Gegend kommt und der andere nicht. Hausgemachte Pasta, sehr gutes Fleisch. Deutlich unprätentiöser als der Name klingt. Via Gracco del Secco 86, +39 0577 921796. Öffnungstage und Ruhetag habe ich nicht belegen können — vorher anrufen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Unaufgeregtes Lokal, aber ein Restaurant. Mittags entspannter als abends.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      75,
+      140
+    ],
+    "weather": "indoor",
+    "booking": "empfohlen",
+    "sources": [
+      {
+        "label": "Officina della Cucina Popolare, Adresse und Küche",
+        "checked": "2026-09-14",
+        "url": "https://restaurantguru.com/Officina-della-Cucina-Popolare-Colle-di-Val-dElsa"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "magnino",
+    "name": "Magnino Bistrot",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.466,
+    "lng": 11.044,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "fruehstueck",
+      "mittagessen",
+      "gelato",
+      "zum-mitnehmen"
+    ],
+    "short": "Specialty Coffee, Bistro und handwerkliches Eis — Familienbetrieb seit 1927.",
+    "why": "Genau das, was in einer Touristenstadt normalerweise fehlt. Der Kaffee kommt von Le Piantagioni del Caffè, einer toskanischen Specialty-Röstung aus Livorno, die direkt mit kleinen Produzenten arbeitet; das Team geht regelmäßig auf Barista-Schulungen, was man in San Gimignano sonst nirgends findet. Dazu Cornetti mit Marmeladen aus 70 Prozent Frucht, eine Bistro-Karte aus Null-Kilometer-Zutaten und natürliches handwerkliches Eis. Für euch die beste Frühstücks- und Zwischendurch-Adresse der Stadt: Man kann im Stehen einen ordentlichen Kaffee trinken, das Kind bekommt ein Eis, und nach zwanzig Minuten ist man wieder draußen. Piazza Filippo Buonaccorsi 5, +39 0577 940609.",
+    "kid": {
+      "rating": 3,
+      "notes": "Kurz, unkompliziert, Eis vorhanden. Kein Sitzenmüssen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      20,
+      75
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Magnino Bistrot, Specialty Coffee",
+        "checked": "2026-09-14",
+        "url": "https://magnino.eu/specialty-coffee-san-gimignano/"
+      },
+      {
+        "label": "Magnino bei Le Piantagioni del Caffè",
+        "checked": "2026-09-14",
+        "url": "https://www.lepiantagionidelcaffe.com/it/magnino-bistrot/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "volaterra-bistrot",
+    "name": "Volaterra — Bistrot und Feinkostboutique",
+    "base": "toscana",
+    "town": "Volterra",
+    "lat": 43.402,
+    "lng": 10.862,
+    "coordsExact": false,
+    "driveMinutes": 35,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "zum-mitnehmen",
+      "handwerk",
+      "markt"
+    ],
+    "short": "Bistro, Bar und Gastro-Boutique in einem. Täglich 9–23 Uhr durchgehend geöffnet.",
+    "why": "Die praktischste Essensadresse in Volterra, und zwar aus einem Grund, der mit einem Kleinkind alles entscheidet: **durchgehend geöffnet von 9 bis 23 Uhr, jeden Tag**. Ihr seid damit nicht an die italienischen Essenszeiten gebunden und steht um halb vier nicht vor verschlossenen Türen. Angeboten werden toskanische Gerichte und Aufschnittplatten, ordentlicher Kaffee, dazu eine Feinkostabteilung mit Öl und lokalen Erzeugnissen unter eigenem Namen. Eine Spezialität, die es so nur hier gibt, ist das Salz von Volterra — die Salinen unterhalb der Stadt werden seit etruskischer Zeit genutzt, und die Boutique verkauft es unter dem Namen Boutique del Sale. Als Mitbringsel ehrlicher als jedes Olivenöl aus dem Supermarkt. Via Giusto Turazza 5, +39 0588 1866394.",
+    "kid": {
+      "rating": 3,
+      "notes": "Durchgehend offen, also flexibel nach dem Mittagsschlaf. Aufschnittplatte teilen statt Menü.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      30,
+      100
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Täglich 9–23 Uhr durchgehend.",
+    "sources": [
+      {
+        "label": "Volaterra Bistrot, offizielle Seite",
+        "checked": "2026-09-14",
+        "url": "https://www.volaterra.it/"
+      },
+      {
+        "label": "Volaterra, Adresse und Öffnungszeiten",
+        "checked": "2026-09-14",
+        "url": "https://www.paginegialle.it/volterra-pi/gastronomie/volaterra"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "ditta-artigianale",
+    "name": "Ditta Artigianale, Florenz",
+    "base": "toscana",
+    "town": "Firenze",
+    "lat": 43.768,
+    "lng": 11.252,
+    "coordsExact": false,
+    "driveMinutes": 70,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "fruehstueck",
+      "zum-mitnehmen",
+      "handwerk"
+    ],
+    "short": "Italiens bekanntester Specialty-Röster. Sieben Cafés in Florenz — und nichts davon näher.",
+    "why": "Wir führen das auf, weil die ehrliche Antwort auf die Frage nach Specialty Coffee in der Toskana lautet: Es gibt ihn fast ausschließlich in Florenz. Ditta Artigianale wurde 2013 von Francesco Sanapo gegründet, dreifacher italienischer Barista-Meister, und betreibt inzwischen sieben Cafés in der Stadt, mit eigener Röstung und dem erklärten Ziel, den schnellen Espresso an der Theke durch etwas zu ersetzen, für das man sich Zeit nimmt. Wenn ihr ohnehin nach Florenz fahrt, ist das der Kaffeestopp. Als eigener Anlass ist eine Stunde Fahrt pro Richtung für einen Filterkaffee auch für Liebhaber schwer zu rechtfertigen — in San Gimignano leistet Magnino fast dasselbe.",
+    "kid": {
+      "rating": 2,
+      "notes": "Cafés in der Innenstadt, eng und voll. Nur als Teil eines Florenz-Tages sinnvoll.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      30,
+      60
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Ditta Artigianale, Standorte",
+        "checked": "2026-09-14",
+        "url": "https://dittaartigianale.com/en/pages/punti-vendita"
+      },
+      {
+        "label": "Specialty Coffee in Florenz",
+        "checked": "2026-09-14",
+        "url": "https://italyspecialty.coffee/tuscany/florence"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "zafferano-sg",
+    "name": "Zafferano di San Gimignano DOP",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4677,
+    "lng": 11.0431,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "essen",
+      "kultur"
+    ],
+    "tags": [
+      "handwerk",
+      "markt",
+      "zum-mitnehmen"
+    ],
+    "short": "Der Safran, der die Türme finanziert hat. Ernte erst ab Oktober — kaufen könnt ihr trotzdem.",
+    "why": "Die kaum bekannte Wahrheit über San Gimignano: Der Reichtum, aus dem diese Türme gebaut wurden, kam nicht vom Wein, sondern vom Safran. Im 13. Jahrhundert war er hier Zahlungs- und Kreditmittel, gehandelt bis nach Nordafrika. Heute ist er eine DOP mit eigenem Konsortium seit 2017, angebaut von wenigen kleinen Betrieben in der Val d'Elsa. Geerntet wird von Anfang Oktober bis Ende November, jeden Tag im Morgengrauen, solange die Blüten noch geschlossen sind — ihr seid also drei Wochen zu früh, um das zu sehen. Kaufen könnt ihr ihn ganzjährig, und zwar am besten direkt beim Erzeuger statt im Souvenirladen: Der Hauptabsatz läuft laut Konsortium über den Direktverkauf ab Hof. Die Adressen der Mitgliedsbetriebe gibt es beim Konsortium und im Tourismusbüro. Beim Preis nicht erschrecken: Für ein Gramm braucht es rund 150 Blüten.",
+    "kid": {
+      "rating": 1,
+      "notes": "Nichts zum Anschauen für Kinder — ein Einkauf, kein Ausflug.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      20,
+      45
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "hours": "Ganzjährig erhältlich; Ernte Anfang Oktober bis Ende November.",
+    "sources": [
+      {
+        "label": "Zafferano di San Gimignano DOP, Konsortium",
+        "checked": "2026-09-14",
+        "url": "https://www.comune.sangimignano.si.it/it/page/consorzio-zafferano"
+      },
+      {
+        "label": "Zafferano di San Gimignano DOP, Erzeugung und Vertrieb",
+        "checked": "2026-09-14",
+        "url": "https://www.qualigeo.eu/prodotto-qualigeo/zafferano-di-san-gimignano-dop/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "cipolla-certaldo",
+    "name": "Cipolla di Certaldo — Slow-Food-Presidio",
+    "base": "toscana",
+    "town": "Certaldo",
+    "lat": 43.5476,
+    "lng": 11.041,
+    "coordsExact": false,
+    "driveMinutes": 25,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "markt",
+      "handwerk",
+      "zum-mitnehmen"
+    ],
+    "short": "Die Zwiebel, die im Stadtwappen steht. Die Wintersorte hat ab Ende August Saison.",
+    "why": "Certaldo führt die Zwiebel im Wappen, und der Slow-Food-Presidio schützt zwei alte Sorten, die auf den lockeren Böden beiderseits der Elsa wachsen. Für euren Zeitraum passt das genau: Die Sorte Statina wird bis August geerntet, die Vernina von August bis September — die kräftigere der beiden, und die, die ihr jetzt frisch bekommt. Der Presidio besteht aus kleinen Betrieben, die fast ausschließlich direkt verkaufen, auf Höfen und auf den Märkten der Umgebung. Mitnehmen lässt sie sich schlecht, essen dafür umso besser: Lokale, die beim Slow-Food-Köchebündnis mitmachen, hängen ein entsprechendes Plakat aus und haben ein Gericht damit auf der Karte. Danach in Certaldo Alto einfach fragen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Kein eigener Ausflug, sondern etwas, das man in Certaldo mitnimmt oder isst.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      20,
+      60
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "hours": "Sorte Vernina von Ende August durch den Winter; Statina nur bis August.",
+    "sources": [
+      {
+        "label": "Cipolla di Certaldo, Fondazione Slow Food",
+        "checked": "2026-09-14",
+        "url": "https://www.fondazioneslowfood.com/it/presidi-slow-food/cipolla-di-certaldo/"
+      },
+      {
+        "label": "Presidio Cipolla di Certaldo, Entwicklung",
+        "checked": "2026-09-14",
+        "url": "https://www.gonews.it/2025/11/13/cresce-il-presidio-slow-food-cipolla-di-certaldo-tutela-tradizione-e-sostenibilita/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "cinta-senese",
+    "name": "Cinta Senese DOP — Direktverkauf ab Hof",
+    "base": "toscana",
+    "town": "San Gimignano / Poggibonsi",
+    "lat": 43.46,
+    "lng": 11.09,
+    "coordsExact": false,
+    "driveMinutes": 18,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "tiere",
+      "handwerk",
+      "zum-mitnehmen"
+    ],
+    "short": "Das fast ausgestorbene Gürtelschwein der Sieneser Hügel — gehalten zwischen euch und Poggibonsi.",
+    "why": "Die Cinta Senese ist die alte Schweinerasse dieser Hügel: dunkel mit einem hellen Gürtel über den Schultern, auf mittelalterlichen Fresken abgebildet und in den 1990ern fast verschwunden. Heute ist sie DOP-geschützt und wird halbfrei im Wald gehalten, unter anderem in dem Streifen zwischen San Gimignano und Poggibonsi — also direkt vor eurer Tür. Der Unterschied zum Supermarkt-Prosciutto ist kein Feinschmecker-Detail, sondern schmeckbar: Das Fleisch ist dunkler und deutlich fetter, weil die Tiere sich bewegen und Eicheln fressen. Salumi davon kauft man am besten ab Hof oder in einer ernsthaften Norcineria, nicht in der Gasse mit den Schaufensterpuppen. Für ein Kleinkind hat das einen zweiten Nutzen: Auf den Höfen laufen die Tiere sichtbar herum.",
+    "kid": {
+      "rating": 2,
+      "notes": "Auf Höfen mit Freilandhaltung sieht man die Tiere. Reiner Einkauf im Laden dagegen langweilig.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      30,
+      90
+    ],
+    "weather": "outdoor",
+    "booking": "empfohlen",
+    "sources": [
+      {
+        "label": "Cinta Senese DOP, Haltung in der Zone",
+        "checked": "2026-09-14",
+        "url": "https://www.terradisienasalumi.it/it/siena/1/allevamenti"
+      },
+      {
+        "label": "Presidi und typische Erzeugnisse der Toskana",
+        "checked": "2026-09-14",
+        "url": "https://www.agrodolce.it/toscana-dop-igp-presidi-slow-food"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "fattoria-voltrona",
+    "name": "Fattoria Voltrona — Hofverkauf",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.445,
+    "lng": 11.03,
+    "coordsExact": false,
+    "driveMinutes": 12,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "weingut",
+      "zum-mitnehmen",
+      "tiere",
+      "handwerk"
+    ],
+    "short": "Biobetrieb mit eigenem Verkauf: Wein, Öl, Honig — zwölf Minuten von der Unterkunft.",
+    "why": "Ein klassischer toskanischer Landwirtschaftsbetrieb mit Direktverkauf der eigenen Erzeugnisse: Vernaccia und Rotwein, Olivenöl, Honig und weitere Hofprodukte aus biologischer Wirtschaft. Der Reiz gegenüber dem Laden in der Altstadt ist derselbe wie überall — man sieht, wo es herkommt, zahlt weniger und redet mit jemandem, der es gemacht hat. Zwölf Minuten Anfahrt, also auch für einen Zwischenstopp geeignet. Öffnungszeiten des Hofverkaufs vorher erfragen; im September läuft die Lese, da ist auf den Höfen Betrieb.",
+    "kid": {
+      "rating": 2,
+      "notes": "Hof mit Auslauf, im September Erntebetrieb zum Zuschauen. Der Verkaufsraum selbst ist schnell erledigt.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      30,
+      75
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "sources": [
+      {
+        "label": "Fattoria Voltrona, Direktverkauf",
+        "checked": "2026-09-14",
+        "url": "https://www.voltrona.com/it/vendita-diretta"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "palabira-glurns",
+    "name": "Palabira-Tage in Glurns",
+    "base": "suedtirol",
+    "town": "Glurns",
+    "lat": 46.671,
+    "lng": 10.556,
+    "coordsExact": true,
+    "driveMinutes": 30,
+    "categories": [
+      "essen",
+      "kultur"
+    ],
+    "tags": [
+      "markt",
+      "handwerk",
+      "abendessen"
+    ],
+    "short": "Erntefest um eine alte Vinschger Birnensorte. Der Abschluss fällt auf euren ersten vollen Tag.",
+    "why": "Der beste zeitliche Zufall eurer Südtirol-Tage. Die Palabirne ist eine alte, kleine, sehr aromatische Birnensorte, die im Vinschgau seit Jahrhunderten an hochstämmigen Bäumen wächst — und Glurns feiert sie mit den Palabira-Tagen vom 5. bis 20. September 2026. Angeboten werden Marmelade, Saft, Most und Schnaps aus der Birne, dazu regionale Erzeugnisse auf dem Markt in den Lauben, Führungen durch die Obstwiesen und Live-Musik. Den Abschluss bildet am Sonntag, dem 20. September, der Palabirasunnta, eine Art Erntedankfest — und das ist euer erster voller Tag im Vinschgau. Das trifft sich doppelt gut, weil Kloster Marienberg nebenan sonntags geschlossen hat. Glurns ist ohnehin sehenswert: die kleinste Stadt Südtirols, komplett ummauert, in zwanzig Minuten durchquert. Ein Fest im Freien mit Ständen, Musik und Menschen ist für ein Kleinkind das Unkomplizierteste überhaupt.",
+    "kid": {
+      "rating": 3,
+      "notes": "Draußen, Stände, Musik, Platz zum Laufen. Niemand stört sich an einem Zweijährigen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      90,
+      210
+    ],
+    "weather": "outdoor",
+    "booking": "nein",
+    "hours": "Palabira-Tage 5.–20. September 2026; Palabirasunnta am Sonntag, 20. September.",
+    "dates": [
+      "2026-09-19",
+      "2026-09-20"
+    ],
+    "sources": [
+      {
+        "label": "Palabira-Tage Glurns, Programm",
+        "checked": "2026-09-14",
+        "url": "https://www.suedtirol.com/event/305/palabira-tage"
+      },
+      {
+        "label": "Palabiratage: Palabirasunnta",
+        "checked": "2026-09-14",
+        "url": "https://www.suedtirol.info/de/de/erlebnisse-und-events/events-suedtirol/pdp-event.B500B8D5C7154897ACC2ECF48D6BED24.palabiratage-palabirasunnta.glurns"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "kesslwirt",
+    "name": "Kesslwirt, Kastelbell-Tschars",
+    "base": "suedtirol",
+    "town": "Kastelbell-Tschars",
+    "lat": 46.628,
+    "lng": 10.906,
+    "coordsExact": false,
+    "driveMinutes": 10,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "abendessen"
+    ],
+    "short": "Einer der beliebtesten Gasthöfe im Bezirk Meran/Vinschgau — zehn Minuten von Latsch.",
+    "why": "Im Ranking des Südtiroler Hoteliers- und Gastwirteverbands für den Bezirk Meran/Vinschgau steht der Kesslwirt in Kastelbell-Tschars weit vorn — eine Auszeichnung von Branchenkollegen, nicht von Gästebewertungen, was sie in meinen Augen aussagekräftiger macht. Bodenständige Südtiroler Küche, zehn Autominuten von Latsch, im selben Ort wie die Weinberge und das Schloss. Ruhetag und Öffnungszeiten konnte ich nicht belegen — vorher anrufen, das gilt im Vinschgau für fast jeden Talgasthof.",
+    "kid": {
+      "rating": 2,
+      "notes": "Normaler Gasthof, meist Platz, unkompliziert. Kein eigenes Kinderprogramm.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      75,
+      140
+    ],
+    "weather": "indoor",
+    "booking": "empfohlen",
+    "sources": [
+      {
+        "label": "Beliebteste Restaurants im HGV-Bezirk Meran/Vinschgau",
+        "checked": "2026-09-14",
+        "url": "https://www.hgv.it/de/magazine/artikel/beliebteste-restaurants-im-hgv-bezirk-meran-vinschgau"
+      }
+    ],
+    "verified": false
   }
 ]
