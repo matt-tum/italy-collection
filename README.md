@@ -154,6 +154,23 @@ Der umgekehrte Weg — GitLab holt sich den Stand von GitHub — wäre bequemer,
 ist aber **Pull-Mirroring und damit ein Premium-Feature**. Auf dem freien Tarif
 bleibt: von GitHub aus pushen, oder lokal zwei Remotes pflegen.
 
+## Vegetarisch und vegan
+
+Auf Nachfrage ergänzt, mit einem klaren Befund: Rund um San Gimignano gibt es
+genau **ein** vollständig veganes Restaurant, die Agrivilla I Pini — dafür
+zehn Minuten von der Unterkunft. **In Sienas Altstadt existiert kein rein
+vegetarisches oder veganes Haus**, nur vegan-freundliche. Echte Auswahl gibt es
+erst in Florenz (Brac, Il Vegetariano seit 1981).
+
+Der praktisch nützlichste Eintrag ist deshalb kein Restaurant, sondern der
+Überblick, welche Gerichte der toskanischen *cucina povera* traditionell ohne
+Fleisch auskommen — samt der drei Fallen (Crostini neri sind Hühnerleber,
+Suppen laufen oft mit Fleischbrühe, Pecorino kommt ungefragt dazu) und den
+Sätzen, mit denen man das klärt.
+
+Die Tags `vegetarisch` und `vegan` sind im Datenmodell angelegt, damit sich das
+später filtern lässt.
+
 ## Mode & Handwerk
 
 Fünfte Kategorie, auf Wunsch ergänzt und bewusst zweigeteilt, weil „Mode in der
@@ -227,7 +244,7 @@ Suche nach Name und Ort los, statt einen falschen Punkt anzusteuern.
 
 ## Stand
 
-100 Ziele — 59 Toskana, 41 Vinschgau. 66 davon geprüft: entweder mit belegten
+104 Ziele — 63 Toskana, 41 Vinschgau. 70 davon geprüft: entweder mit belegten
 Öffnungszeiten, Ruhetagen und Preisen, oder — bei Plätzen, Waalwegen und
 Aussichtspunkten — mit dem Beleg, dass sie frei und ohne Öffnungszeiten
 zugänglich sind.

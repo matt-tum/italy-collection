@@ -4321,5 +4321,192 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": "i-pini-vegan",
+    "name": "Vegan Agrivilla I Pini",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.456,
+    "lng": 11.05,
+    "coordsExact": false,
+    "driveMinutes": 10,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "vegan",
+      "vegetarisch",
+      "abendessen",
+      "aussicht",
+      "weingut"
+    ],
+    "short": "Komplett veganes Bio-Restaurant mit eigenem Garten — Terrasse mit Blick auf die Türme.",
+    "why": "Die klare Antwort auf diese Frage, und sie liegt zehn Minuten von euch. Die Agrivilla ist ein Gutshaus aus dem 15. Jahrhundert, ökologisch saniert, abseits der Wege in der Località Santa Margherita. Die Küche ist vollständig vegan und biologisch, ein erheblicher Teil der Zutaten kommt aus dem eigenen Garten, das Restaurant arbeitet nach dem Zero-Waste-Prinzip. Von der Terrasse schaut man beim Abendessen auf die Türmesilhouette. Zwei Dinge, die ihr wissen müsst: Das Haus ist in erster Linie ein Hotel mit Halbpension, aber das Restaurant nimmt abends auch externe Gäste — und dafür ist eine Reservierung nicht bloß empfohlen, sondern nötig, damit die Küche einplanen kann. Für ein Kleinkind angenehm: draußen, ruhig, viel Grün ringsum und keine Altstadtenge.",
+    "kid": {
+      "rating": 2,
+      "notes": "Terrasse und Gartengelände statt Innenraum, sehr ruhig. Ein Abendessen bleibt aber ein Abendessen.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      90,
+      150
+    ],
+    "weather": "beides",
+    "booking": "pflicht",
+    "hours": "Restaurant abends, auch für externe Gäste — nur mit Voranmeldung.",
+    "parking": "Loc. Santa Margherita 37, eigener Hofparkplatz.",
+    "sources": [
+      {
+        "label": "Vegan Agrivilla I Pini, Restaurant",
+        "checked": "2026-09-15",
+        "url": "https://www.ipinitoscana.com/en/vegan-restaurant-p9.html"
+      },
+      {
+        "label": "Agrivilla I Pini, Lage und Küche",
+        "checked": "2026-09-15",
+        "url": "https://ecobnb.it/IT-siena/agriturismo/vegan-agrivilla-i-pini/cD551"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "toskana-vegetarisch",
+    "name": "Vegetarisch essen in der Toskana — ohne Spezialrestaurant",
+    "base": "toscana",
+    "town": "San Gimignano",
+    "lat": 43.4677,
+    "lng": 11.0431,
+    "coordsExact": false,
+    "driveMinutes": 8,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "vegetarisch",
+      "vegan",
+      "mittagessen",
+      "abendessen"
+    ],
+    "short": "Die halbe Landesküche ist von Haus aus fleischlos — man muss nur wissen, wonach man fragt.",
+    "why": "Das Nützlichste zu dieser Frage ist kein Restaurantname, sondern eine Einsicht: Die toskanische cucina povera ist zu weiten Teilen ohne Fleisch entstanden, weil Fleisch teuer war. Verlässlich fleischlos sind **Ribollita** (Brot, Gemüse, Schwarzkohl), **Panzanella** (Brotsalat mit Tomaten und Zwiebeln), **Pappa al pomodoro** (altes Brot, reife Tomaten, Olivenöl), **Fagioli all'uccelletto** (Cannellini mit Tomate, Knoblauch, Salbei) und **Pici all'aglione** (dicke handgerollte Nudeln mit Knoblauch-Tomaten-Sugo). Das steht in praktisch jeder Trattoria auf der Karte, auch dort, wo kein einziges Gericht als „vegetariano“ markiert ist.\n\nDrei Fallen, die ihr kennen solltet. Erstens: **Crostini neri** auf der Antipasti-Platte sind Hühnerleber — der klassische Irrtum. Zweitens: Suppen werden je nach Küche mit Fleischbrühe angesetzt; die Frage lautet „*è fatto con brodo di carne?*“. Drittens: Für vegan kommt fast überall Pecorino dazu, also „*senza formaggio, per favore*“. Die Sätze, die zuverlässig verstanden werden: „*siamo vegetariani*“ beziehungsweise „*siamo vegani — senza carne, senza pesce, senza formaggio*“. Damit kommt man in der Toskana weiter als mit der Suche nach einem Spezialrestaurant.",
+    "kid": {
+      "rating": 2,
+      "notes": "Kein Ort, sondern Wissen. Pici und Pappa al pomodoro funktionieren erfahrungsgemäß auch bei Kleinkindern gut.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "hours": "Gilt überall; keine Öffnungszeiten.",
+    "sources": [
+      {
+        "label": "Die besten toskanischen vegetarischen Gerichte, Visit Tuscany",
+        "checked": "2026-09-15",
+        "url": "https://www.visittuscany.com/en/ideas/the-best-tuscan-vegetarian-dishes/"
+      },
+      {
+        "label": "Traditionell vegane und vegetarische Gerichte der Toskana",
+        "checked": "2026-09-15",
+        "url": "https://www.informacibo.it/piatti-tipici-toscani-vegani-e-vegetariani-ricette/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "brac-firenze",
+    "name": "Brac — Buchladen und vegetarisches Restaurant",
+    "base": "toscana",
+    "town": "Firenze",
+    "lat": 43.768,
+    "lng": 11.26,
+    "coordsExact": false,
+    "driveMinutes": 70,
+    "categories": [
+      "essen",
+      "kultur"
+    ],
+    "tags": [
+      "vegetarisch",
+      "vegan",
+      "mittagessen",
+      "schlechtwetter"
+    ],
+    "short": "Kunstbuchhandlung und vollständig vegetarisch-vegane Küche in einem Raum. Durchgehend offen.",
+    "why": "Von den Florentiner Adressen die, die mit Kind am besten funktioniert. Brac ist zugleich Buchhandlung für Kunst- und Designbücher, Bar und Restaurant — alles strikt vegetarisch und vegan, in einem informellen Innenhof-Raum, in dem niemand auf Etikette achtet. Geöffnet täglich von 12 bis 15 und von 17 bis 22 Uhr, sonntags nur abends. Die Küche kocht italienisch, nicht „Gesundheitsküche“. Für euch der Vorteil gegenüber einem klassischen Restaurant: Bücher zum Anschauen, viel los, und man kann jederzeit wieder aufstehen. Via dei Vagellai 18r, nahe Santa Croce, Tel. 055 0944877.",
+    "kid": {
+      "rating": 3,
+      "notes": "Informell, Bücher zum Blättern, kein Etikettezwang. Beste Florenz-Option mit Kleinkind.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      120
+    ],
+    "weather": "indoor",
+    "booking": "empfohlen",
+    "hours": "Täglich 12–15 und 17–22 Uhr; sonntags nur abends.",
+    "sources": [
+      {
+        "label": "Brac, Buchladen und veganes Restaurant",
+        "checked": "2026-09-15",
+        "url": "https://www.antichedimorefiorentine.it/en/tuscan-food-wine/brac-vegan-restaurant-florence/"
+      },
+      {
+        "label": "Brac, Visit Florence",
+        "checked": "2026-09-15",
+        "url": "https://www.visitflorence.com/it/mangiare-e-bere-a-firenze/vegetariano-e-vegano-a-firenze/brac.html"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "il-vegetariano-firenze",
+    "name": "Il Vegetariano, Florenz",
+    "base": "toscana",
+    "town": "Firenze",
+    "lat": 43.782,
+    "lng": 11.258,
+    "coordsExact": false,
+    "driveMinutes": 70,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "vegetarisch",
+      "vegan",
+      "mittagessen",
+      "abendessen"
+    ],
+    "short": "Das älteste vegetarische Restaurant von Florenz, seit 1981. Selbstbedienung, ehrliche Preise.",
+    "why": "Seit 1981 im Betrieb und damit das älteste vegetarische Restaurant der Stadt — eine Institution aus einer Zeit, in der das in Italien noch exotisch war. Vegetarisch und vegan, unprätentiös, mit Innenhof. Wichtig sind die eigenwilligen Zeiten: montags nur mittags, dienstags bis freitags mittags und abends, samstags und sonntags nur abends. Mittags von 12.30 bis 14.30, abends von 19.30 bis 22.30 Uhr. Via delle Ruote 30r, nördlich des Zentrums bei San Marco, Tel. +39 055 475030. Wenn ihr an einem Florenz-Tag mittags esst, ist das die Adresse; für den Abend hätte Brac die entspannteren Zeiten.",
+    "kid": {
+      "rating": 2,
+      "notes": "Unkompliziert und schnell, Innenhof im Sommer. Etwas abseits des Zentrums.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      100
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "hours": "Mo nur mittags; Di–Fr mittags und abends; Sa und So nur abends. Mittag 12.30–14.30, Abend 19.30–22.30 Uhr.",
+    "sources": [
+      {
+        "label": "Il Vegetariano, Restaurant und Zeiten",
+        "checked": "2026-09-15",
+        "url": "https://il-vegetariano.com/il-ristorante/"
+      },
+      {
+        "label": "Il Vegetariano, seit 1981",
+        "checked": "2026-09-15",
+        "url": "https://il-vegetariano.com/"
+      }
+    ],
+    "verified": true
   }
 ]

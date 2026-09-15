@@ -32,6 +32,8 @@ export type Tag =
   | 'mittagessen'
   | 'fruehstueck'
   | 'zum-mitnehmen'
+  | 'vegetarisch'
+  | 'vegan'
 
 export type Weather = 'indoor' | 'outdoor' | 'beides'
 
