@@ -2,7 +2,7 @@
 export type BaseId = 'toscana' | 'suedtirol'
 
 /** The four big buckets. A spot can sit in more than one. */
-export type Category = 'essen' | 'kultur' | 'kind' | 'natur'
+export type Category = 'essen' | 'kultur' | 'kind' | 'natur' | 'mode'
 
 /**
  * Distance rings, as requested: on the doorstep, a morning out, a day trip.
@@ -132,6 +132,7 @@ export const CATEGORY_LABEL: Record<Category, string> = {
   kultur: 'Kunst, Kultur & Geschichte',
   kind: 'Mit dem Kind',
   natur: 'Natur & Aussicht',
+  mode: 'Mode & Handwerk',
 }
 
 export const CATEGORY_ICON: Record<Category, string> = {
@@ -139,4 +140,5 @@ export const CATEGORY_ICON: Record<Category, string> = {
   kultur: '🏛',
   kind: '🧸',
   natur: '⛰',
+  mode: '🧵',
 }

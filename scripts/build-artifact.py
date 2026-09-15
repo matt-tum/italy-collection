@@ -528,8 +528,9 @@ const CAT = {
   kultur: 'Kunst, Kultur & Geschichte',
   kind: 'Mit dem Kind',
   natur: 'Natur & Aussicht',
+  mode: 'Mode & Handwerk',
 };
-const CAT_DOT = { essen: '#b4762b', kultur: '#6b5aa8', kind: '#38826b', natur: '#3f7ea8' };
+const CAT_DOT = { essen: '#b4762b', kultur: '#6b5aa8', kind: '#38826b', natur: '#3f7ea8', mode: '#a8536b' };
 const RING = { t15: 'Vor der Haustür · bis 15 Min', t60: 'Halber Tag · bis 1 Std', t90: 'Tagesausflug · bis 1,5 Std' };
 const BUDGET = { kurz: 'Ein paar Stunden', halb: 'Halber Tag', ganz: 'Ganzer Tag' };
 const SKY = { sonne: 'Sonne', wechsel: 'Wechselhaft', regen: 'Regen' };

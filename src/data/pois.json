@@ -4083,5 +4083,243 @@
       }
     ],
     "verified": false
+  },
+  {
+    "id": "il-falconiere-volterra",
+    "name": "Il Falconiere",
+    "base": "toscana",
+    "town": "Volterra",
+    "lat": 43.4014,
+    "lng": 10.86,
+    "coordsExact": false,
+    "driveMinutes": 35,
+    "categories": [
+      "mode"
+    ],
+    "tags": [
+      "handwerk"
+    ],
+    "short": "Euer eigener Fund: kleiner Laden mit lokal produzierten Stücken, u. a. Lele Spina.",
+    "why": "Dieser Eintrag stammt nicht aus meiner Recherche, sondern von euch — ihr seid am 14. September in Volterra darauf gestoßen. Ich habe ihn trotzdem aufgenommen, weil er den Maßstab für diese ganze Kategorie setzt, und ich sage offen dazu: Weder der Laden noch die toskanische Marke Lele Spina sind über die Websuche auffindbar. Das ist kein Zeichen von Bedeutungslosigkeit, sondern der Normalfall — kleine Läden und junge Labels haben oft keine Webpräsenz, und genau deshalb findet man sie nur vor Ort. Merkt euch die Adresse beim nächsten Vorbeigehen, dann kann sie hier stehen. Und der allgemeine Punkt dahinter: Volterra hat deutlich mehr echten inhabergeführten Einzelhandel als San Gimignano, weil weniger Tagestourismus durchläuft. Wer nach Läden statt nach Souvenirs sucht, sucht hier.",
+    "kid": {
+      "rating": 1,
+      "notes": "Kleiner Laden, enge Gänge. Einer schaut, einer bleibt mit dem Kind draußen.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      15,
+      45
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [],
+    "verified": false
+  },
+  {
+    "id": "siena-botteghe",
+    "name": "Siena — Handweberei und Maßschneiderei",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.316,
+    "lng": 11.329,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "mode",
+      "kultur"
+    ],
+    "tags": [
+      "handwerk"
+    ],
+    "short": "Tessuti a Mano webt Schals von Hand, Sartoria Vinicio ist Sienas einzige Maßschneiderei.",
+    "why": "Die ernsthafteste Adresse für lokal Produziertes im Umkreis, und zwar zwei davon. In der Werkstatt **Tessuti a Mano** in der Via San Pietro 7 werden Schals und Accessoires von Hand gewebt — kein Konzeptladen mit importierter Ware, sondern ein Webstuhl im Nebenraum. Die **Sartoria Vinicio** in der Via della Sapienza 32 ist laut Stadt die einzige Maßschneiderei ihrer Art in Siena. Wer einfach stöbern will, geht die Straßen ab, in denen sich die Werkstätten konzentrieren: Via Stalloreggi, Via di Città, Banchi di Sopra und Via Montanini, dazu Via dei Fusari und Via dei Pellegrini beim Dom. Dort sitzen neben Textil auch Lederhandwerk, Keramik und Buchbinderei. Gut kombinierbar mit Santa Maria della Scala, das nur ein paar Schritte entfernt liegt.",
+    "kid": {
+      "rating": 1,
+      "notes": "Werkstätten sind eng und voller Material. Der Webstuhl in Bewegung ist aber sehenswert, auch für ein Kind.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      45,
+      120
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Botteghe artigiane im Zentrum von Siena",
+        "checked": "2026-09-15",
+        "url": "https://www.intoscana.it/it/botteghe-artigiane-centro-siena/"
+      },
+      {
+        "label": "Handwerksprodukte aus Siena, Visit Tuscany",
+        "checked": "2026-09-15",
+        "url": "https://www.visittuscany.com//en/ideas/artigianato-siena/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "scuola-del-cuoio",
+    "name": "Scuola del Cuoio",
+    "base": "toscana",
+    "town": "Firenze",
+    "lat": 43.7685,
+    "lng": 11.262,
+    "coordsExact": false,
+    "driveMinutes": 70,
+    "categories": [
+      "mode",
+      "kultur"
+    ],
+    "tags": [
+      "handwerk",
+      "museum"
+    ],
+    "short": "Lederwerkstatt von 1950 in den Klostergebäuden von Santa Croce — man sieht den Handwerkern zu.",
+    "why": "Hier ergibt Leder aus der Toskana plötzlich Sinn. Zwischen Santa Croce sull'Arno und Ponte a Egola liegt das größte Lederzentrum Europas — rund 35 Prozent der italienischen Lederproduktion, und fast das gesamte Sohlenleder. Das Besondere ist die pflanzliche Gerbung mit Kastanien- und Mimosentannin: langsam, teuer, und sie ergibt ein Leder, das steif anfängt und über Jahre nachdunkelt statt kaputtzugehen. Das Gerbereiviertel selbst ist Industriegebiet und nichts zum Hinfahren. Was ihr sehen könnt, ist die Verarbeitung: Die Scuola del Cuoio wurde 1950 in den Klostergebäuden von Santa Croce gegründet und ist die größte echte Werkstatt in Florenz, in der man den Handwerkern bei der Arbeit zusieht — geschnitten, gepunzt, von Hand genäht. Verkauft wird gleich daneben. Täglich 10–18 Uhr, Via di San Giuseppe 5R. Für ein Kleinkind unerwartet gut: Es bewegt sich etwas, es riecht, und niemand verlangt Stille.",
+    "kid": {
+      "rating": 2,
+      "notes": "Werkstatt mit sichtbarer Arbeit statt Vitrinen — hält Kinder erstaunlich lange bei der Sache.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      45,
+      90
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Täglich 10–18 Uhr (saisonal).",
+    "sources": [
+      {
+        "label": "Scuola del Cuoio, Werkstatt und Zeiten",
+        "checked": "2026-09-15",
+        "url": "https://www.ticketsflorence.com/blog/scuola-del-cuoio-santa-croce"
+      },
+      {
+        "label": "Lederdistrikt Santa Croce sull'Arno, Forbes",
+        "checked": "2026-09-15",
+        "url": "https://forbes.it/2026/05/25/dentro-il-distretto-della-pelle-di-santa-croce-sullarno-tra-i-centri-piu-influenti-della-moda-mondiale"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "oltrarno-calzolai",
+    "name": "Oltrarno — die Maßschuhmacher von Florenz",
+    "base": "toscana",
+    "town": "Firenze",
+    "lat": 43.767,
+    "lng": 11.246,
+    "coordsExact": false,
+    "driveMinutes": 70,
+    "categories": [
+      "mode",
+      "kultur"
+    ],
+    "tags": [
+      "handwerk"
+    ],
+    "short": "Drei Werkstätten in Gehweite: Roberto Ugolini, Mannina, Stefano Bemer.",
+    "why": "Wenn Schuhe das Thema sind, ist das Oltrarno der Ort — das Handwerkerviertel südlich des Arno, in dem die Werkstätten immer noch zwischen den Wohnhäusern sitzen und nicht in einer Einkaufsstraße. Drei Adressen in Gehweite voneinander: **Roberto Ugolini** in der Via della Chiesa 4r, direkt gegenüber der Kirche Santo Spirito, macht seit über zwanzig Jahren Herrenschuhe nach Maß. **Mannina** in der Via dei Barbadori 19/R wurde 1953 von Calogero Mannina gegründet und wird vom Sohn weitergeführt. **Stefano Bemer** im Borgo San Frediano 143/R ist die international bekannteste der drei. Maßschuhe heißen Monate Wartezeit und vierstellige Preise — aber alle drei verkaufen auch fertige Ware, und hineinschauen kostet nichts. Das Viertel selbst ist der eigentliche Gewinn: hier sitzen auch Vergolder, Rahmenmacher und Polsterer.",
+    "kid": {
+      "rating": 1,
+      "notes": "Kleine Werkstätten, kein Publikumsverkehr im Wortsinn. Das Viertel ist zum Laufen aber angenehm ruhig.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      60,
+      150
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Top-Handwerker der Mode in Florenz",
+        "checked": "2026-09-15",
+        "url": "https://www.firenzemadeintuscany.com/it/best-of/i-top-artigiani-della-moda-a-firenze/"
+      },
+      {
+        "label": "Mannina Calzature, Werkstatt seit 1953",
+        "checked": "2026-09-15",
+        "url": "https://www.manninafirenze.com/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "the-mall-leccio",
+    "name": "The Mall Luxury Outlets",
+    "base": "toscana",
+    "town": "Leccio, Reggello",
+    "lat": 43.679,
+    "lng": 11.488,
+    "coordsExact": false,
+    "driveMinutes": 85,
+    "categories": [
+      "mode"
+    ],
+    "tags": [
+      "schlechtwetter"
+    ],
+    "short": "Gucci, Ferragamo, Saint Laurent, Prada auf einem Gelände. Das Gegenteil von eurem Volterra-Fund.",
+    "why": "Wir führen es auf, weil „Mode in der Toskana“ für viele zuerst das hier bedeutet — und damit ihr die Entscheidung bewusst trefft. The Mall in Leccio bei Reggello ist das bekannteste Luxus-Outlet Italiens, mit eigenen Läden von Gucci, Ferragamo, Alexander McQueen, Saint Laurent und Prada auf einem parkähnlichen Gelände. Mit einem Kleinkind hat es unerwartete Vorteile: viel Platz, kostenlose Parkplätze, Cafés, überdacht bei Regen. Und zwei klare Nachteile: knapp anderthalb Stunden Fahrt pro Richtung, und es ist inhaltlich das genaue Gegenteil des Ladens, den ihr in Volterra gefunden habt — globale Marken, Vorsaisonware, nichts Lokales. Via Europa 8, +39 055 8657775. Öffnungszeiten vorher prüfen.",
+    "kid": {
+      "rating": 2,
+      "notes": "Viel Platz, Parkplätze, Cafés, wetterunabhängig. Inhaltlich aber nichts Regionales.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      120,
+      300
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "parking": "Kostenlose Parkplätze am Gelände.",
+    "sources": [
+      {
+        "label": "The Mall Firenze, Lage und Marken",
+        "checked": "2026-09-15",
+        "url": "https://www.firenzemadeintuscany.com/en/article/the-7-best-outlets-in-tuscany/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "prada-levanella",
+    "name": "Prada Outlet Levanella",
+    "base": "toscana",
+    "town": "Montevarchi",
+    "lat": 43.506,
+    "lng": 11.564,
+    "coordsExact": false,
+    "driveMinutes": 90,
+    "categories": [
+      "mode"
+    ],
+    "tags": [
+      "schlechtwetter"
+    ],
+    "short": "Der Werksverkauf am Produktionsstandort — Prada, Miu Miu, Car Shoe, Church's.",
+    "why": "Das erste Luxus-Outlet der Toskana überhaupt, und anders als The Mall kein Einkaufszentrum, sondern der Werksverkauf direkt am Produktionsstandort von Prada in Levanella bei Montevarchi. Auf großer Fläche Damen- und Herrenkollektionen sowie Accessoires von Prada, Miu Miu, Car Shoe und Church's — letzteres für den Schuh-Teil eurer Frage durchaus relevant. Kostenlose Parkplätze. Ehrlich zur Entfernung: anderthalb Stunden pro Richtung, also drei Stunden Auto an einem Tag. Das ist mit einem Zweijährigen ein ganzer Tag für einen Einkauf. +39 055 9196528.",
+    "kid": {
+      "rating": 1,
+      "notes": "Lange Anfahrt, reiner Einkauf, nichts für Kinder. Nur wenn es gezielt darum geht.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      90,
+      180
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "parking": "Kostenlose Parkplätze am Outlet.",
+    "sources": [
+      {
+        "label": "Prada Outlet Levanella, Montevarchi",
+        "checked": "2026-09-15",
+        "url": "https://www.firenzemadeintuscany.com/en/article/the-7-best-outlets-in-tuscany/"
+      }
+    ],
+    "verified": false
   }
 ]

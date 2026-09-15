@@ -24,7 +24,8 @@ Entscheidungsfluss.
 
 ### Kategorien und Ringe
 
-`essen` · `kultur` · `kind` · `natur` — eine Adresse darf in mehreren stehen.
+`essen` · `kultur` · `kind` · `natur` · `mode` — eine Adresse darf in mehreren
+stehen.
 Die Entfernungsringe werden aus `driveMinutes` abgeleitet, nie doppelt
 gespeichert: ≤ 15 Min · ≤ 60 Min · ≤ 90 Min ab dem jeweiligen Standquartier.
 
@@ -153,6 +154,23 @@ Der umgekehrte Weg — GitLab holt sich den Stand von GitHub — wäre bequemer,
 ist aber **Pull-Mirroring und damit ein Premium-Feature**. Auf dem freien Tarif
 bleibt: von GitHub aus pushen, oder lokal zwei Remotes pflegen.
 
+## Mode & Handwerk
+
+Fünfte Kategorie, auf Wunsch ergänzt und bewusst zweigeteilt, weil „Mode in der
+Toskana" zwei unvereinbare Dinge meint:
+
+- **Lokal produziert:** Tessuti a Mano (Handweberei) und Sartoria Vinicio
+  (Maßschneiderei) in Siena, die Maßschuhmacher im Florentiner Oltrarno
+  (Ugolini, Mannina, Stefano Bemer), die Scuola del Cuoio in Santa Croce.
+- **Outlets:** The Mall in Leccio und der Prada-Werksverkauf in Levanella —
+  aufgeführt, damit die Entscheidung bewusst fällt, nicht als Empfehlung.
+
+Ein Eintrag, *Il Falconiere* in Volterra, stammt nicht aus der Recherche,
+sondern aus einer Beobachtung der Reisenden vor Ort. Weder der Laden noch das
+dort geführte toskanische Label Lele Spina sind über die Websuche auffindbar —
+bei kleinen Läden und jungen Marken ist das der Normalfall, nicht die Ausnahme.
+Der Eintrag ist entsprechend als unbelegt gekennzeichnet.
+
 ## Artifact-Vorschau
 
 Zum Anschauen und Teilen gibt es dieselbe Sammlung als einzelne HTML-Datei:
@@ -209,7 +227,7 @@ Suche nach Name und Ort los, statt einen falschen Punkt anzusteuern.
 
 ## Stand
 
-94 Ziele — 53 Toskana, 41 Vinschgau. 64 davon geprüft: entweder mit belegten
+100 Ziele — 59 Toskana, 41 Vinschgau. 66 davon geprüft: entweder mit belegten
 Öffnungszeiten, Ruhetagen und Preisen, oder — bei Plätzen, Waalwegen und
 Aussichtspunkten — mit dem Beleg, dass sie frei und ohne Öffnungszeiten
 zugänglich sind.

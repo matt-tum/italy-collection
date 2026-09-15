@@ -6,7 +6,7 @@ import { readFileSync } from 'node:fs'
 
 const pois = JSON.parse(readFileSync(new URL('../src/data/pois.json', import.meta.url), 'utf8'))
 
-const CATEGORIES = ['essen', 'kultur', 'kind', 'natur']
+const CATEGORIES = ['essen', 'kultur', 'kind', 'natur', 'mode']
 const WEATHER = ['indoor', 'outdoor', 'beides']
 const BOOKING = ['nein', 'empfohlen', 'pflicht']
 const STROLLER = ['ja', 'schwierig', 'nein']
