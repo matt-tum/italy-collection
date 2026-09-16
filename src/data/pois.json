@@ -4508,5 +4508,294 @@
       }
     ],
     "verified": true
+  },
+  {
+    "id": "siena-morbidi",
+    "name": "Gastronomia Morbidi — Mittagsbuffet",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.32,
+    "lng": 11.331,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "zum-mitnehmen",
+      "handwerk"
+    ],
+    "short": "Feinkostladen seit 1925, darunter ein Gewölbekeller mit Buffet: 12 € inklusive Wasser.",
+    "why": "Die beste Antwort auf „Mittagessen im Städtetrip“, und in keinem Reiseführer prominent. Oben ein Feinkostladen von 1925 mit Käse, Salumi und Fertiggerichten zum Mitnehmen — unten, im Kellergewölbe des alten Siena, ein Mittagsbuffet: Risotto, Pasta, Lasagne, Fleisch, Fisch und Gemüse, **12 Euro pro Person inklusive Wasser**, von 12 bis 14.30 Uhr. Keine Reservierung, keine Karte, kein Kellner, der wartet — man nimmt sich, setzt sich, isst und geht. Mit einem Zweijährigen ist das der entscheidende Unterschied zu jedem Restaurant. Der einzige Haken: Die Plätze unten sind begrenzt und schnell weg. Geht kurz nach zwölf hin, nicht um halb zwei. Via Banchi di Sopra 75, fünf Gehminuten vom Campo.",
+    "kid": {
+      "rating": 3,
+      "notes": "Selbstbedienung, keine Wartezeit, sofort essen. Genau das, was mit Kleinkind funktioniert. Früh hingehen, sonst sind die Plätze weg.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      40,
+      75
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Buffet täglich 12–14.30 Uhr; Laden darüber länger geöffnet.",
+    "price": "Buffet 12 € p. P. inkl. Wasser.",
+    "bestTime": "Kurz nach 12 Uhr — später gibt es unten keine Plätze mehr.",
+    "sources": [
+      {
+        "label": "Gastronomia Morbidi, offizielle Seite",
+        "checked": "2026-09-16",
+        "url": "https://morbidi.com/"
+      },
+      {
+        "label": "Morbidi, Buffet im Untergeschoss",
+        "checked": "2026-09-16",
+        "url": "https://www.place2bsiena.tv/postidavisitare/gastronomia-morbidi/"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "siena-de-miccoli",
+    "name": "Pizzicheria de Miccoli",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.3175,
+    "lng": 11.3285,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "zum-mitnehmen",
+      "mittagessen",
+      "handwerk"
+    ],
+    "short": "Panini nach Wunsch aus einer Theke voller Käse und Salumi. Von National Geographic gelistet.",
+    "why": "Von außen ein winziger Laden in der Via di Città, an dessen Decke Schinken hängen. Innen steht Antonio de Miccoli an einer Theke voller Käse und Aufschnitt und baut Panini nach Ansage — man sagt, worauf man Lust hat, und bekommt es geschnitten. National Geographic hat den Laden unter die zehn historischsten Lebensmittelgeschäfte der Welt gezählt, neben KaDeWe und Fauchon; man sieht dem Laden das nicht an, und das ist der Reiz. Für euch die Snack-Adresse schlechthin: Panino kaufen, hundert Meter weiter auf der Piazza del Campo auf den Ziegelboden setzen, fertig. Montag bis Freitag 8–20 Uhr, samstags ab 8. Via di Città 95.",
+    "kid": {
+      "rating": 3,
+      "notes": "Nur Theke, nichts zum Sitzen — ideal. Gegessen wird draußen auf dem Campo.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      10,
+      25
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "hours": "Montag bis Freitag 8–20 Uhr, Samstag ab 8 Uhr.",
+    "sources": [
+      {
+        "label": "Pizzicheria de Miccoli, Adresse und Zeiten",
+        "checked": "2026-09-16",
+        "url": "https://www.yelp.com/biz/pizzicheria-de-miccoli-siena-4"
+      },
+      {
+        "label": "Pizzicheria de Miccoli, Überblick",
+        "checked": "2026-09-16",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187902-d1972546-Reviews-Pizzicheria_de_Miccoli-Siena_Tuscany.html"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "siena-grattacielo",
+    "name": "Osteria Il Grattacielo",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.3195,
+    "lng": 11.329,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "handwerk"
+    ],
+    "short": "Winzige Osteria von 1840 in einer Seitengasse — nur Platten, Frittata und eingelegtes Gemüse.",
+    "why": "Der Name ist ein Witz: „Wolkenkratzer“ heißt ein Raum von der Größe eines Wohnzimmers in der Via dei Pontani. Es gibt keine Küche im eigentlichen Sinn und keine Karte — es gibt Aufschnitt- und Käseplatten, Frittata und *verdure sott'olio*, eingelegtes Gemüse, dazu Wein aus dem Fass. Das Haus geht auf 1840 zurück und ist so ziemlich das Gegenteil einer Touristenadresse. Für einen Mittagshappen zwischen zwei Museen genau richtig; für ein Menü ist man hier falsch. Sehr eng, also eher wenn das Kind gerade zufrieden ist, oder man nimmt die Platte mit nach draußen. Telefon 331 7422835.",
+    "kid": {
+      "rating": 1,
+      "notes": "Winziger Raum, dicht besetzt, keine Rückzugsmöglichkeit. Am ehesten etwas mitnehmen.",
+      "stroller": "nein"
+    },
+    "stayMinutes": [
+      30,
+      60
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Osteria Il Grattacielo dal 1840",
+        "checked": "2026-09-16",
+        "url": "https://sites.google.com/view/ilgrattacielo1840"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "siena-nannini",
+    "name": "Nannini — Caffè und Pasticceria",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.319,
+    "lng": 11.331,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "essen",
+      "kultur"
+    ],
+    "tags": [
+      "fruehstueck",
+      "zum-mitnehmen",
+      "handwerk"
+    ],
+    "short": "Sienas historisches Kaffeehaus. Panforte, Panpepato, Ricciarelli und Cantucci aus eigener Herstellung.",
+    "why": "Die Institution für Kaffee und Süßes, seit 1930 mit Lizenz als „Likör- und Konditoreifabrik“ und mit der Bar Conca d'Oro tief in der Stadtgeschichte verankert. Hier bekommt ihr die Sieneser Klassiker dort, wo sie gemacht werden statt im Souvenirladen: **Panforte** (dichter Früchte-Gewürz-Kuchen, den es seit dem Mittelalter gibt), **Panpepato**, **Ricciarelli** (weiche Mandelplätzchen) und **Cantucci**. Vom Gambero Rosso als Caffè ausgezeichnet. Für euren Städtetag die richtige Vormittagsadresse: Espresso im Stehen, ein Ricciarello für das Kind, und der Rest wandert eingepackt ins Auto. Via Banchi di Sopra 24, wenige Schritte vom Campo. Telefon 0577 236009.",
+    "kid": {
+      "rating": 3,
+      "notes": "Theke, im Stehen, schnell. Süßes ist vorhanden — insofern völlig unproblematisch.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      15,
+      40
+    ],
+    "weather": "indoor",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "Nannini, Gambero Rosso",
+        "checked": "2026-09-16",
+        "url": "https://www.gamberorosso.it/luoghi/locali/caffe-bar/nannini/"
+      },
+      {
+        "label": "Nannini Dolci e Caffè, Geschichte",
+        "checked": "2026-09-16",
+        "url": "https://en.nanninidolciecaffe.com/pages/chi-siamo"
+      }
+    ],
+    "verified": true
+  },
+  {
+    "id": "siena-vecchia-latteria",
+    "name": "Gelateria La Vecchia Latteria",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.316,
+    "lng": 11.328,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "gelato",
+      "zum-mitnehmen"
+    ],
+    "short": "Täglich frisch gemachtes Eis in der Via San Pietro — ruhiger als die Adressen am Campo.",
+    "why": "Handwerkliches Eis, täglich frisch produziert, in der Via San Pietro südlich des Campo — also in der ruhigeren Hälfte der Altstadt, wo die Schlangen kürzer sind. Praktischer Nebeneffekt: Die Handweberei Tessuti a Mano liegt in derselben Gasse auf Nummer 7, und die Pinacoteca Nazionale ein paar Schritte weiter. Damit lässt sich ein Nachmittag bauen, der für beide Seiten funktioniert.",
+    "kid": {
+      "rating": 3,
+      "notes": "Eis, im Stehen, ruhige Gasse ohne Gedränge.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      15,
+      30
+    ],
+    "weather": "beides",
+    "booking": "nein",
+    "sources": [
+      {
+        "label": "La Vecchia Latteria, Siena",
+        "checked": "2026-09-16",
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g187902-d4450749-Reviews-or45-La_Vecchia_Latteria-Siena_Tuscany.html"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "siena-papei",
+    "name": "Antica Trattoria Papei",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.3175,
+    "lng": 11.3325,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen"
+    ],
+    "short": "Seit 1939 an der Piazza del Mercato. Ribollita, Pici, Kaninchen — und Tische im Freien.",
+    "why": "Wenn ihr mittags richtig sitzen wollt, ist das die traditionellste Adresse: 1939 gegründet, heute an der Piazza del Mercato direkt hinter dem Campo. Auf der Karte stehen die Sieneser Klassiker — Ribollita, Pici, Kaninchen, *cacciucco alla senese*. Der eigentliche Vorteil für euch sind die Tische draußen auf dem Platz: Der Mercato ist deutlich ruhiger als der Campo, es gibt Raum um den Tisch herum, und ein Kind, das aufsteht, stört niemanden. Mittags meist ohne Reservierung machbar; abends eher nicht.",
+    "kid": {
+      "rating": 2,
+      "notes": "Tische im Freien auf einem ruhigen Platz mit Bewegungsfreiheit — mit Abstand das Beste an dieser Adresse.",
+      "stroller": "ja"
+    },
+    "stayMinutes": [
+      60,
+      110
+    ],
+    "weather": "beides",
+    "booking": "empfohlen",
+    "hours": "Mittags etwa 12.30–14.30 Uhr; viele Sieneser Lokale haben einen festen Ruhetag — vorher prüfen.",
+    "sources": [
+      {
+        "label": "Antica Trattoria Papei, offizielle Seite",
+        "checked": "2026-09-16",
+        "url": "https://anticatrattoriapapei.com/"
+      }
+    ],
+    "verified": false
+  },
+  {
+    "id": "siena-le-logge",
+    "name": "Osteria Le Logge",
+    "base": "toscana",
+    "town": "Siena",
+    "lat": 43.318,
+    "lng": 11.332,
+    "coordsExact": false,
+    "driveMinutes": 50,
+    "categories": [
+      "essen"
+    ],
+    "tags": [
+      "mittagessen",
+      "weingut"
+    ],
+    "short": "Seit 1977, ein Schritt vom Campo: zwischen Osteria und Gourmetküche, auch mittags.",
+    "why": "Die ambitionierteste der hier gelisteten Sieneser Adressen, 1977 von Gianni Brunelli und Laura eröffnet, in der Via del Porrione unmittelbar neben dem Campo. Der Raum ist ein ehemaliger Kolonialwarenladen mit Holzregalen bis zur Decke; die Küche interpretiert die toskanische Tradition modern, die Weinkarte ist ernsthaft. Wichtig für euren Zuschnitt: Das Haus eignet sich laut eigener Beschreibung ausdrücklich auch für ein schnelles Mittagessen, nicht nur für den langen Abend — mittags ist es deutlich entspannter und leerer. Wenn ihr in Siena einmal gut essen wollt, dann hier und dann mittags.",
+    "kid": {
+      "rating": 1,
+      "notes": "Schöner, aber ruhiger Innenraum mit Anspruch. Mittags eher machbar als abends; abends ohne Kind.",
+      "stroller": "schwierig"
+    },
+    "stayMinutes": [
+      75,
+      150
+    ],
+    "weather": "indoor",
+    "booking": "pflicht",
+    "sources": [
+      {
+        "label": "Osteria Le Logge, Überblick",
+        "checked": "2026-09-16",
+        "url": "https://www.firenzemadeintuscany.com/it/articolo/i-migliori-ristoranti-di-siena/"
+      }
+    ],
+    "verified": false
   }
 ]

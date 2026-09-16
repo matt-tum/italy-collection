@@ -154,6 +154,19 @@ Der umgekehrte Weg — GitLab holt sich den Stand von GitHub — wäre bequemer,
 ist aber **Pull-Mirroring und damit ein Premium-Feature**. Auf dem freien Tarif
 bleibt: von GitHub aus pushen, oder lokal zwei Remotes pflegen.
 
+## Siena als Tagesziel
+
+Sieben Adressen für Mittagessen und Snacks tagsüber, alle in Gehweite
+voneinander im Zentrum:
+
+| | |
+| --- | --- |
+| Mittagsbuffet | Gastronomia Morbidi, im Gewölbekeller, 12–14.30 Uhr, 12 € inkl. Wasser — früh hingehen |
+| Snack zum Mitnehmen | Pizzicheria de Miccoli (Panini nach Ansage), Osteria Il Grattacielo (Platten seit 1840) |
+| Kaffee und Süßes | Nannini — Panforte, Panpepato, Ricciarelli aus eigener Herstellung |
+| Eis | La Vecchia Latteria, Via San Pietro, ruhiger als die Adressen am Campo |
+| Sitzen | Antica Trattoria Papei (seit 1939, Tische auf der Piazza del Mercato), Osteria Le Logge (mittags entspannter als abends) |
+
 ## Vegetarisch und vegan
 
 Auf Nachfrage ergänzt, mit einem klaren Befund: Rund um San Gimignano gibt es
@@ -244,7 +257,7 @@ Suche nach Name und Ort los, statt einen falschen Punkt anzusteuern.
 
 ## Stand
 
-104 Ziele — 63 Toskana, 41 Vinschgau. 70 davon geprüft: entweder mit belegten
+111 Ziele — 70 Toskana, 41 Vinschgau. 73 davon geprüft: entweder mit belegten
 Öffnungszeiten, Ruhetagen und Preisen, oder — bei Plätzen, Waalwegen und
 Aussichtspunkten — mit dem Beleg, dass sie frei und ohne Öffnungszeiten
 zugänglich sind.
